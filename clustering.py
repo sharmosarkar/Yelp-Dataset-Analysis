@@ -25,4 +25,3 @@ for label in C:
         print(label, data[point_idx])
 
 
-^^^()()^^^
