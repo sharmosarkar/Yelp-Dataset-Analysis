@@ -42,4 +42,3 @@ for cat in category_list:
 			continue
 text_file.close()
 
-^^^()()^^^
