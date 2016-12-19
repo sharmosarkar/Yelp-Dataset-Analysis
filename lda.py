@@ -299,3 +299,5 @@ def run_lda(K, alpha, beta, review_list, iterations=50):
 	tagged_review_list = tag_reviews(review_list)
 	return tagged_review_list
 
+
+^^^()()^^^
