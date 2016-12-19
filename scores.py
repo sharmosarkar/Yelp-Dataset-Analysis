@@ -22,4 +22,3 @@ def calculate_topic_star(row,topic):
 	return topic_star
 
 
-^^^()()^^^
