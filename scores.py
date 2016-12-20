@@ -21,3 +21,5 @@ def calculate_topic_star(row,topic):
 	#print('topic',topic,'\t',topic_star)
 	return topic_star
 
+
+^^^()()^^^
