@@ -16,4 +16,3 @@ def lst_to_dict(lst):
 
 
 
-^^^()()^^^
