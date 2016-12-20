@@ -23,3 +23,5 @@ print('clustering result:')
 for label in C:
     for point_idx in C[label]:
         print(label, data[point_idx])
+
+^^^()()^^^
