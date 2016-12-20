@@ -8,6 +8,8 @@ import sys
 import subprocess
 import os
 
+commit_msgs = ['update', 'fixed precision error', 'removed debug msgs', 'fixed bug k112', 'fixed loop error']
+
 # returns a date string for the date that is N days before STARTDATE
 def get_date_string(n, startdate):
 	d = startdate - timedelta(days=n)
@@ -42,8 +44,9 @@ def main(argv):
 			subprocess.call("git commit -m 'update'")
 			subprocess.call("git push", shell=True)
 			'''
+			msg = commit_msgs[commit]
 			realwork_content = curdate + str(commit)
-			subprocess.check_output(['sh','greenhat.sh',str(curdate), str(commit)])
+			subprocess.check_output(['sh','greenhat.sh',str(curdate), str(commit), str(msg)])
 			print 'Cuurent Commit Number', commit
 			sleep(.5)
 		i += 1
@@ -51,6 +54,3 @@ def main(argv):
 	subprocess.call("git rm realwork.txt; git commit -m 'delete'; git push;", shell=True)
 
 if __name__ == "__main__":
-	main(sys.argv[1:])
-
-^^^()()^^^
