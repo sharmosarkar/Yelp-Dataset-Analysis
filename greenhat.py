@@ -54,3 +54,5 @@ def main(argv):
 	subprocess.call("git rm realwork.txt; git commit -m 'delete'; git push;", shell=True)
 
 if __name__ == "__main__":
+
+^^^()()^^^
