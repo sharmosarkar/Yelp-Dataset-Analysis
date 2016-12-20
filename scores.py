@@ -20,3 +20,5 @@ def calculate_topic_star(row,topic):
 	topic_star = row['sentiment_score']*row['stars']*score * MAX_STAR 	
 	#print('topic',topic,'\t',topic_star)
 	return topic_star
+
+^^^()()^^^
