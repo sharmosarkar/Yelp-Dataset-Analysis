@@ -30,10 +30,20 @@ def main(argv):
 	while i <= n:
 		curdate = get_date_string(i, startdate)
 		print 'Current Date Calculated', curdate
-		num_commits = randint(1, 10)
+		num_commits = randint(1, 5)
 		print 'Number of Commits', num_commits
-		for commit in range(0, num_commits):
-			subprocess.call("echo '" + curdate + str(randint(0, 1000000)) +"' > realwork.txt; echo 'SS'; git add realwork.txt; GIT_AUTHOR_DATE='" + curdate + "' GIT_COMMITTER_DATE='" + curdate + "' git commit -m 'update'; git push;", shell=True)
+		if num_commits%2 == 0:
+			num_commits += 1
+		for commit in range(1, num_commits):
+			'''
+			subprocess.call("echo '" + curdate + str(commit) +"' > realwork.txt")
+			subprocess.call("echo 'SS'")
+			subprocess.call("git add realwork.txt; GIT_AUTHOR_DATE='" + curdate + "' GIT_COMMITTER_DATE='" + curdate + "'")
+			subprocess.call("git commit -m 'update'")
+			subprocess.call("git push", shell=True)
+			'''
+			realwork_content = curdate + str(commit)
+			subprocess.check_output(['sh','greenhat.sh',str(curdate), str(commit)])
 			print 'Cuurent Commit Number', commit
 			sleep(.5)
 		i += 1
