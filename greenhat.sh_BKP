@@ -1,0 +1,17 @@
+#!/bin/bash
+# DEBUG, in case \r error occurs
+#awk '{ sub("\r$", ""); print }' git-copy.sh > git-copy2.sh
+#mv git-copy2.sh git-copy.sh
+echo 'Starting Script'
+echo $1
+echo $2
+echo $2 > realwork.txt
+git add realwork.txt
+GIT_AUTHOR_DATE=$1 GIT_COMMITTER_DATE=$1 git commit -m 'update'
+git commit -m 'update'
+git push
+git rm realwork.txt
+git commit -m 'delete'
+git push
+
+
