@@ -41,3 +41,5 @@ for cat in category_list:
 		except TypeError:
 			continue
 text_file.close()
+
+^^^()()^^^
