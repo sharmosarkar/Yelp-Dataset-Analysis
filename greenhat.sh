@@ -10,13 +10,16 @@ bakup=".bak"
 FILES="$(ls)"
 for f in $FILES
 do
+  echo $f
   if [ $rem -eq 1 ]
   then
-	printf "\n^^^()()^^^" >> Output.txt
+    echo "Odd"
+	printf "\n^^^()()^^^" >> $f
   else
-	cp $2 $2$bakup
-	sed '$ d' $2$bakup > $2
-	rm -f $2$bakup
+	echo "Even"
+	cp $f $f$bakup
+	sed '$ d' $f$bakup > $f
+	rm -f $f$bakup
   fi
   git add $f
   GIT_AUTHOR_DATE=$1 GIT_COMMITTER_DATE=$1 git commit -m 'update'
@@ -29,3 +32,5 @@ git commit -m 'delete'
 git push
 
 
+
+^^^()()^^^
