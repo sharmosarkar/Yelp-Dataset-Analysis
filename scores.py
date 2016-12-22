@@ -28,4 +28,3 @@ def calculate_topic_star(row,topic):
 
 
 ^^^()()^^^
-^^^()()^^^
