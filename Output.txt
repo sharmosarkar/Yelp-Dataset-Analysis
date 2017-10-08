@@ -1,4 +1,5 @@
-- *Cosmetology:* Cosmetology
+
+ - *Cosmetology:* Cosmetology
  - *Schools,:* Schools,, Specialty
  - *Education:* Education
  - *Chinese,:* Chinese,
