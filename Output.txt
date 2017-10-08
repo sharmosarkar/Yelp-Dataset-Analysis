@@ -1,4 +1,3 @@
-
  - *Cosmetology:* Cosmetology
  - *Schools,:* Schools,, Specialty
  - *Education:* Education
