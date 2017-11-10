@@ -1,0 +1,2279 @@
+	business_id	stars	city	categories	review_count
+1661	1IxCNVVW9aKbK3BfQpI7eg	3.0	Madison	[Doctors, Cosmetic Surgeons, Beauty & Spas, Laser Hair Removal, Health & Medical, Hair Removal, Dermatologists	4
+1709	_rQ9qSeHZ4l4M5uqj1TFCQ	4.5	Madison	[Event Planning & Services, Caterers	15
+1742	h8sRoUSjulDu9MfeUTEu6Q	2.5	Madison	[Lighting Fixtures & Equipment, Electronics, Musical Instruments & Teachers, Shopping, Home Services	16
+1747	xm1RtU63jxjYsm-7dzGaZA	2.5	Madison	[Womens Clothing, Mens Clothing, Fashion, Shopping	7
+1770	XCfRPJ9UCgd1dPkzXRsjPw	4.0	Madison	[Tires, Automotive, Auto Customization, Auto Repair, Oil Change Stations	4
+1817	YypLpwWA75Y9aWPCJwTv8g	4.0	Madison	[Banks & Credit Unions, Financial Services	6
+1818	thLlxJSlGr8hu7Lw21eGiQ	4.0	Madison	[Breakfast & Brunch, Cafes, Restaurants	3
+1819	DUcKVY_q2nu7rhTpEcQ-JQ	3.5	Madison	[Landmarks & Historical Buildings, Public Services & Government	3
+1820	7VZzocjvnjsrY0biSlV0hQ	1.5	Madison	[Department Stores, Fashion, Shopping	3
+1821	j1ezGpPI4vmqBLwyyLIsNA	2.5	Madison	[Music & DVDs, Books, Mags, Music & Video, Shopping	4
+1822	0ilWo2kWlmP_Nv-P2rcNOA	4.5	Madison	[Food, Coffee & Tea	13
+1823	5FlmcwCLqFveKQ-GVeolig	4.0	Madison	[Department Stores, Fashion, Shopping	11
+1824	vM3bqegx5YDtWQ8N5ke3BA	3.0	Madison	[Beauty & Spas, Nail Salons	5
+1825	oX6KamASYXnMIe5kpVhezw	3.5	Madison	[Chinese, Restaurants	42
+1826	TEmZrRoun4ws7GMAbMpQUw	4.0	Madison	[Womens Clothing, Mens Clothing, Fashion, Shopping, Childrens Clothing	5
+1827	pcRVuHC1RXOkLQJ_haePGQ	2.5	Madison	[Electronics, Shopping, Mobile Phones	5
+1828	XearczK-Bd83Td1Giwu0Zg	4.5	Madison	[Fast Food, Restaurants	3
+1829	OYZOzzipfXdWrYe1A2zeKw	3.0	Madison	[Food, Coffee & Tea, Art Galleries, Shopping, Arts & Entertainment	13
+1830	NxxplxNZnrNEYXHTgv9h8g	5.0	Madison	[Videos & Video Game Rental, Books, Mags, Music & Video, Shopping	3
+1831	S4TWo9X6b3gU6uucj4JN3g	3.5	Madison	[Mexican, Restaurants	31
+1832	xZwaUcrFMSY1O9dK2dAUpA	3.0	Madison	[Chinese, Restaurants	30
+1833	89O2bCyo92IpEEvgFXqOMw	3.5	Madison	[Delis, Sandwiches, Restaurants	3
+1834	qQvpS262VPEHKZvM6j5uhQ	2.5	Madison	[Bars, Restaurants, American (Traditional), Sports Bars, Nightlife	19
+1835	XWDk-pLSbVE2Vvv9Z-zusQ	1.5	Madison	[Fast Food, Restaurants	21
+1836	NP5ip6oP6O57wjnnEy0P2w	2.5	Madison	[Bars, Nightlife	4
+1837	T9l9Z3FKMSCIYvsP2g4efw	5.0	Madison	[Hair Salons, Beauty & Spas	16
+1838	fBSd-fl9-9LkitwrFRcBng	2.0	Madison	[Arts & Crafts, Shopping, Fabric Stores, Home & Garden, Home Decor	13
+1839	90BO7ydPjDU8C8izlmmhrw	4.5	Madison	[Reflexology, Health & Medical	3
+1841	ybkWtM1ZnT2ewuquj3A9KQ	3.0	Madison	[Restaurants, Italian	36
+1842	GQN1Y9iC8rfxMKKo2lEiug	2.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	13
+1843	MHPJoUzvIT4aTKOG2elw3Q	2.5	Madison	[Department Stores, Fashion, Shopping	11
+1844	zAsxPh3h9xMQnSDGl41kSg	3.5	Madison	[Bars, Burgers, Sandwiches, Nightlife, Sports Bars, Restaurants	23
+1845	f5ntGOT9_0pCdeUaUVi9cg	3.5	Madison	[Arts & Entertainment, Performing Arts	19
+1846	0FdNeZAx-afgg8HV9oyqSw	4.0	Madison	[Food, Ice Cream & Frozen Yogurt	11
+1847	XStsiplxlx8Guqf-oV5LAw	4.5	Madison	[Auto Repair, Automotive	5
+1848	YSXuWnwzfC7EN2ZMB_A2Ng	3.5	Madison	[Department Stores, Fashion, Shopping	5
+1849	SNaDmoUyl-X3bE8GM5hJ4w	4.0	Madison	[Optometrists, Health & Medical	3
+1850	bIDAOpeNv4b9qtMHqz3Euw	1.5	Madison	[Hotels & Travel, Car Rental	6
+1851	bdGTQEb8rtHhdUCvrb0sLg	1.5	Madison	[Auto Repair, Automotive, Tires, Oil Change Stations	4
+1852	Wk8sSxmxDdj_n4WJJRRLwQ	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	9
+1853	7DG41ejpSiTI-qDyBYFxwQ	4.0	Madison	[Local Services, Shoe Repair	9
+1854	lNE3gOMb724YPlZAA8WlXQ	3.0	Madison	[Breakfast & Brunch, American (Traditional), Diners, Restaurants	13
+1855	cpGv6ES2hzPCtCUQgipwXw	4.0	Madison	[Sandwiches, Cajun/Creole, Seafood, Restaurants	58
+1856	V5S43vHLhHxKCb06Jwa3vw	5.0	Madison	[Veterinarians, Pets	8
+1857	sbZJhAJZuVkTXtolb9Zdyg	1.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	6
+1858	wPidHd5FxspPRgVqdEQ-Xw	2.5	Madison	[Mexican, Restaurants	73
+1859	9hf_gSaDn3cdLsE6vTsUfw	4.0	Madison	[Chinese, Restaurants	11
+1860	Z93nRPr4suUxo63pJR9dkw	4.5	Madison	[Local Services, Dry Cleaning & Laundry	5
+1861	yYIEKwgQUHJpySOcVdCAkg	3.0	Madison	[American (Traditional), Cafes, Restaurants	20
+1862	pSiRWeCqs7a1xvS9ycLoTQ	2.5	Madison	[Chinese, Restaurants	7
+1863	oepqORGAqs3etUD9wwr1uQ	3.0	Madison	[Fashion, Shopping, Books, Mags, Music & Video, Lingerie, Adult, Bookstores	7
+1864	QF14BFUVHRODxGNVflgm3A	3.0	Madison	[Breakfast & Brunch, American (Traditional), Southern, Restaurants	25
+1865	wsZbADFzxyn8_UBNRJ8kkw	3.5	Madison	[Department Stores, Fashion, Shopping	6
+1866	5TQQy_x_ArR3_5L5L0fFVQ	3.5	Madison	[Hotels & Travel, Taxis, Airport Shuttles, Transportation	47
+1867	11yg-JMNCFowyIjJarzuDQ	3.0	Madison	[American (New), Restaurants	8
+1868	R6ojvMJvskHGBbtednMQ1g	4.0	Madison	[Hotels & Travel, Car Rental	15
+1869	q83uB6EGF6y2MuR-7VZPRg	3.0	Madison	[Food, Ice Cream & Frozen Yogurt, Fast Food, Restaurants	10
+1870	-52nir13iFnSMdBew674HA	3.0	Madison	[Hardware Stores, Nurseries & Gardening, Shopping, Appliances, Home & Garden	11
+1871	bYdniNQEdYolz0onDWj0CA	2.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	12
+1872	oudTF4EN_C8thENGiTQf-w	3.0	Madison	[Bars, Restaurants, American (Traditional), Nightlife, Tex-Mex	22
+1873	2_ODkEnB9dtHEeWsR_hqMw	4.0	Madison	[Shopping, Home Services, Battery Stores, Mobile Phone Repair, Local Services, Lighting Fixtures & Equipment, IT Services & Computer Repair	3
+1874	ZjwZIQM4TfFO7T7ck7FtYQ	2.5	Madison	[Food, Beer, Wine & Spirits, Grocery, Delis, Restaurants	10
+1875	iyHtJGN4KtuSTUbB6fROBw	2.0	Madison	[Health & Medical, Urgent Care	3
+1876	fMubmh1kiGwtxAUZ-mc3wA	5.0	Madison	[Colleges & Universities, Education	4
+1877	MVFeOZVt641WBvdsRmnhPg	3.5	Madison	[Dive Bars, Bars, American (Traditional), Nightlife, Restaurants	9
+1878	JFxTRyDQ-JhyMnDBVFzHLw	2.5	Madison	[Hair Salons, Beauty & Spas	4
+1879	HlnY8xWkfONz256u3Tp_Wg	4.0	Madison	[Fashion, Shopping, Shoe Stores	4
+1880	9vgu6o1CwP5NakVkb29z0g	4.5	Madison	[Japanese, Restaurants	6
+1881	QMWdcByvCYCrs7-IQyr26w	4.5	Madison	[Sporting Goods, Bikes, Shopping	23
+1882	hUS4D74YDHobcggC4-YMqw	3.5	Madison	[Bars, Nightlife	3
+1883	qTzXFsBjMmOQHeRrWnJYLg	4.0	Madison	[Books, Mags, Music & Video, Shopping	18
+1884	CRKM5F4MHGHvEGgI3LXy8A	2.0	Madison	[Shopping Centers, Shopping	13
+1885	MFANntSgzNkjStqgB2xtHw	2.0	Madison	[Car Wash, Automotive	15
+1886	JdCFcgw4yk4M1ZRhAhBIag	2.5	Madison	[Bars, American (Traditional), Nightlife, Steakhouses, Sports Bars, Restaurants	31
+1887	wls7FRMgIn8VlK1ji5Ms5g	3.0	Madison	[Active Life, Golf	16
+1888	311yXufoXR2dFngMHS9MFg	3.0	Madison	[Burgers, Fast Food, Restaurants	6
+1889	QB64-PgfEUzbrOL50bJ0Bw	2.5	Madison	[Burgers, Fast Food, Restaurants	3
+1890	i9JeI7bd1qXGi15FoD45GA	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	21
+1891	DPViYrvLCByFRQBl90TLsg	4.5	Madison	[Wedding Planning, Local Services, Sewing & Alterations, Event Planning & Services, Shopping, Bridal	14
+1892	AJx4qb4qVNcKn_3sD7_5Rw	3.0	Madison	[Hair Salons, Beauty & Spas, Nail Salons	21
+1893	rgyvl8tNVAony634_9vFdQ	2.0	Madison	[Fast Food, Mexican, Tex-Mex, Restaurants	11
+1894	05wYcQouBrRjxC4tqq1cug	3.0	Madison	[Department Stores, Fashion, Shopping	3
+1895	qnfriejzSieRSAsETaC1yA	5.0	Madison	[Pet Groomers, Pet Services, Pets	9
+1896	v5a-Mj4eO1E--HmgwEWo7A	3.0	Madison	[Seafood, American (Traditional), Restaurants	37
+1897	01gRLh9-kr_ZYABrGwNxpg	3.5	Madison	[Local Services, Dry Cleaning & Laundry	11
+1898	HTplzElel_F_U_qhWuDKdg	4.0	Madison	[Pubs, Bars, American (New), Nightlife, Restaurants	91
+1899	izF6o43M1eWpivukmRQpRg	3.0	Madison	[Oil Change Stations, Automotive	8
+1900	0oQFFOdPZycIBmGkoBrlbg	3.5	Madison	[Noodles, Restaurants	34
+1901	OizzRdTpZW7veSyjqilnQQ	4.5	Madison	[Bars, Nightlife	3
+1902	rKIgJJKYVeCPRjUO9fOE8w	1.5	Madison	[Local Services, Dry Cleaning & Laundry	4
+1903	I1DxjqRb5MU2sDHyfzJ2fw	4.5	Madison	[Food, Beer, Wine & Spirits	3
+1904	_om1Y0BOPJa2va_o-f38SQ	3.0	Madison	[Interior Design, Home Services	3
+1905	QXpD1bSjcp-nuXm9MHMoKA	4.0	Madison	[Flowers & Gifts, Shopping, Florists	11
+1906	Hh5lyZtOrS5LKk4YCgj8Kw	2.5	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels	46
+1907	GoqN6AJD5_mZGcXHjjCxkg	2.5	Madison	[Hardware Stores, Shopping, Home & Garden	3
+1908	QdSGdvZATzejDkSs435Rdw	3.5	Madison	[Dive Bars, Burgers, Bars, Nightlife, Restaurants	15
+1909	a933ecROIB44zhzos11YTg	3.5	Madison	[Shopping, Nurseries & Gardening, Home & Garden	9
+1910	k9KL0ClKt37VZ2E6eXs32Q	3.0	Madison	[Arts & Crafts, Shopping, Knitting Supplies, Hobby Shops	7
+1911	1YEuqVtVMHdpavzoGcUUug	2.0	Madison	[Breakfast & Brunch, American (Traditional), Restaurants	18
+1912	pnr2sktG7QWWBut8dRZ27Q	3.5	Madison	[Shopping, Antiques	5
+1913	jd7yAsF-T4OlI4ejkJYJrQ	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	7
+1914	MLD-FXAHLbdiHOcyeoW-Fg	4.0	Madison	[Food, Grocery	37
+1915	7hchHAiiUEET2eKA-unPhA	3.0	Madison	[Shopping, Office Equipment	3
+1916	bAew9nt-tw8YGjjD64gVWQ	3.0	Madison	[Active Life, Bowling	14
+1917	7uoxZ35biPZfl8m5w2_XRA	4.0	Madison	[Pizza, Restaurants	5
+1918	uzJ2Vefb951El2oneQI8NQ	3.5	Madison	[Chinese, Restaurants	17
+1919	smHuQzYNOkN2CHDjLG8KBA	4.0	Madison	[Local Services, Sewing & Alterations, Bridal, Shopping	10
+1920	JPFzpR5PvZWqHXQMIZFk2w	4.5	Madison	[Food, Coffee & Tea, Cafes, Restaurants	54
+1921	fjaQ3Ixkofh8xGhklUtDnA	4.0	Madison	[American (Traditional), Diners, Restaurants	398
+1922	WxfedycTcbQO_GuXHo9Ypw	4.5	Madison	[Food, Specialty Food, Meat Shops	28
+1923	FrT0OQFkUZBtfoW3V1Wpfw	5.0	Madison	[Hotels & Travel, Bed & Breakfast	23
+1924	HYFwjbK7HbvzENF44ACfdA	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	17
+1925	J2AiPQnKWBxBwc4MMkbH8w	4.0	Madison	[Dive Bars, Bars, American (Traditional), Nightlife, Restaurants	23
+1926	MQtzOBwYXrTjqkWLLKInew	4.0	Madison	[Dive Bars, Bars, Nightlife	5
+1927	YlznKuAxnd7j3QfXFzoIog	4.5	Madison	[Bars, Burgers, Sandwiches, Nightlife, Sports Bars, Restaurants	19
+1928	TLjnOhDnazyPJmI8LqU5-g	3.5	Madison	[Dive Bars, Bars, Nightlife	10
+1929	IoPdC59QwkWYm31xPkwcPw	3.0	Madison	[Hardware Stores, Kitchen & Bath, Shopping, Home & Garden	11
+1930	Ryq600aoE3h8_qRQGIed9A	4.5	Madison	[Bakeries, Lebanese, Food, Mediterranean, Middle Eastern, Restaurants	63
+1931	jqOPL979k-t_Vc049CnAjg	3.5	Madison	[Pizza, Restaurants	13
+1932	m2bTjmuYRTahL6HHAnYRww	3.5	Madison	[Active Life, Amateur Sports Teams	4
+1933	sUxPe5A2NvEHs12UokMyBQ	3.0	Madison	[Beauty & Spas, Nail Salons	4
+1934	nE7GX1tMsGK4y7FjpPRmbA	3.0	Madison	[Computers, Shopping, Office Equipment	6
+1935	BdO3fRKops_wgmUPYyLGDw	3.5	Madison	[Local Services, Dry Cleaning & Laundry	5
+1936	XTGb5b3LBuhWHhJS1xPnQQ	4.5	Madison	[Arts & Entertainment, Nightlife, Music Venues	12
+1937	2fPABODueZ0RSOFln5Yl5A	3.0	Madison	[Pet Services, Pet Groomers, Pet Training, Pet Stores, Pets	10
+1938	CjHMXSaXttTv4jZSQnmyEA	2.0	Madison	[Education	5
+1939	UV9c6A16IXXA7JmkTor8Tg	3.5	Madison	[Food, Bakeries, Coffee & Tea, Internet Cafes	35
+1940	8O9iXCjE6WNz2am2YechBg	1.5	Madison	[Boat Charters, Event Planning & Services	6
+1941	tTHVQItpZrYZ_F0qtUTPcw	2.0	Madison	[Local Services, Dry Cleaning & Laundry	5
+1942	C6NHEs8gWDzLFdpy59B-zA	3.5	Madison	[Delis, Restaurants	4
+1943	nE51k932dNFc-gClgPguVw	2.5	Madison	[American (Traditional), Restaurants	3
+1944	3NEffAI1qX67vI7yHjdRWQ	3.5	Madison	[Bridal, Shopping	5
+1945	p9Bl3BxPltz2WnIxJLnBvw	3.5	Madison	[Womens Clothing, Department Stores, Fashion, Shopping, Mens Clothing	5
+1946	4N7dN61pyPfcxmKgXWQPfw	4.5	Madison	[Active Life, Amateur Sports Teams	28
+1947	Q3GGB4ZMajP-Qmtdr1cVZw	4.5	Madison	[Arts & Entertainment, Botanical Gardens	85
+1948	xMyTUliefguc3bfetGebJg	2.5	Madison	[Caterers, Pizza, Event Planning & Services, Restaurants	7
+1949	cwGTjUMyfeAmTdLByEMh0g	5.0	Madison	[Shopping, Photography Stores & Services	5
+1950	68JsiWNLKs8NDCrBCxIWMA	3.0	Madison	[Steakhouses, Restaurants	38
+1951	PhdMPqSdLZi6IV8SdnpUAQ	3.5	Madison	[Bars, Salad, Wine Bars, Nightlife, Italian, Restaurants	28
+1952	cv5gS-zYooEchtLRlvpXpg	5.0	Madison	[Shopping, Home Decor, Automotive, Auto Glass Services, Hardware Stores, Home & Garden	4
+1953	eC4iEcRR3p5NLq9Zf80ZGg	3.5	Madison	[Chinese, Restaurants	32
+1954	uQ1YuSiDgHwVwdFVW-nLqA	2.0	Madison	[Tires, Automotive	4
+1955	qt3WwxMYShshHX7UsyTK-g	2.5	Madison	[Shopping, Home Services, Internet Service Providers, Mobile Phones, Professional Services, Electronics	9
+1956	-4PHmmCt_RmAfaE3sDKW_g	3.5	Madison	[Bars, Dive Bars, Burgers, Nightlife, American (New), Restaurants	16
+1957	jMXL4JB6GoSeOINOtZdFew	1.5	Madison	[Hair Salons, Beauty & Spas	3
+1958	AyAJs-XGv2_Cn_LPH1DWyg	4.5	Madison	[Hotels & Travel	3
+1959	JJFoeKZXgi2_LeECDMkkoQ	4.0	Madison	[Pubs, Bars, American (New), Nightlife, Restaurants	62
+1960	vdWTm_hVFdt5s8Ca1Xyddw	2.0	Madison	[Fast Food, Chicken Wings, Restaurants	5
+1961	LkFYWBEdmHE05UkfIkK4EA	5.0	Madison	[Active Life, Fitness & Instruction	9
+1962	KHOHjA8HOcTlFBCtMQFv8A	4.0	Madison	[Dive Bars, Bars, American (Traditional), Nightlife, Restaurants	41
+1963	5tW2BXvINlk5MmiKelcByQ	3.5	Madison	[Music & DVDs, Books, Mags, Music & Video, Vinyl Records, Shopping	6
+1964	ykxf0XiJt-d76dBwfO_yew	3.0	Madison	[Bars, American (Traditional), Nightlife, Restaurants	22
+1965	3m64jZztOV8UnKf0RBGUQA	3.0	Madison	[Hotels & Travel, Car Rental	4
+1966	pSYCSXgabSKKJrIEJG-FLQ	4.0	Madison	[Dive Bars, Bars, Nightlife	11
+1967	Yn89vJYXcdprx9U_w1qmMw	2.5	Madison	[Auto Repair, Automotive	12
+1968	vP7-03_-_NoNfwfeYADDPA	5.0	Madison	[Optometrists, Health & Medical, Laser Eye Surgery/Lasik	5
+1969	seYxnMc1VrZsR7nc09ufmg	3.0	Madison	[Pediatric Dentists, Health & Medical, Dentists, Orthodontists, Cosmetic Dentists	3
+1970	_ZAu0v4lIxAmU6VTfnml1g	1.5	Madison	[Shades & Blinds, Home Services	3
+1971	JHR6trHgqfis9nv9s8c9og	5.0	Madison	[Shopping, Home Services, Appliances & Repair, Home & Garden, Local Services, Appliances, Contractors	3
+1972	HLWtNcf3l-wKb6v9duteMQ	4.0	Madison	[Barbeque, Restaurants	176
+1973	NFiITDN6V53iLAOTOZgbOQ	3.5	Madison	[Shopping, Nurseries & Gardening, Home & Garden	4
+1974	XIZ259hZ6Yww3C0o97MgUQ	2.5	Madison	[Restaurants, Italian	13
+1975	XlXdO2zgB5DsJygapc2Ksw	3.0	Madison	[Pet Services, Pets	13
+1976	pFdDhXs8-a07NwX4L506BQ	4.5	Madison	[Books, Mags, Music & Video, Shopping, Video Game Stores	5
+1977	cbodGg8dt0gZpdtrQBgduQ	4.5	Madison	[Auto Repair, Automotive, Tires	34
+1978	BRqIGc5nGobwIVxX9vxyig	3.0	Madison	[Auto Repair, Automotive	5
+1979	Pa_brCvUaiUPPvm3tJQwgw	3.5	Madison	[Greek, Restaurants	3
+1980	j515klfbCAEF3KPiKvHz9g	4.5	Madison	[Breakfast & Brunch, American (Traditional), Diners, Restaurants	66
+1981	bYEwuO-Z14enA88RKyMHbw	4.5	Madison	[Optometrists, Health & Medical	5
+1982	jm3K37BEkL8-a_aytbCXvA	5.0	Madison	[Accountants, Professional Services	16
+1983	S2x-rEziU3ONR9zO_vpPxA	2.5	Madison	[Soup, Sandwiches, Salad, Restaurants	27
+1984	XRSKxJ_qmo_fmbnTrjOKAg	3.0	Madison	[Shopping, Home & Garden, Furniture Stores	7
+1985	yCbzzYKkPe1kfeMDdGq03Q	3.5	Madison	[Hotels & Travel, Car Rental	12
+1986	JqMsFCXEeG_8R4HS4gEu7g	5.0	Madison	[Food, Tea Rooms, Coffee & Tea	4
+1987	Pn4xv1BGBmtpVBmUcIsrpQ	4.5	Madison	[Museums, Arts & Entertainment	6
+1988	0dwJ2MNd9_LV0dOEGSQgEQ	3.5	Madison	[Real Estate, Home Services, University Housing	3
+1989	mzl5Z5I7NG6guH5I8e7Zxg	5.0	Madison	[Veterinarians, Pets	6
+1990	4ldKdZC5E5LZRbxfxKvYpg	3.0	Madison	[Active Life, Bowling	6
+1991	tgGaaLuFPbeiwPZcAKFxGA	2.5	Madison	[Local Services, Automotive, Truck Rental, Self Storage	3
+1992	MONajnUQ5-IRtv8PSPn_yA	4.5	Madison	[Breakfast & Brunch, Cafes, Restaurants	40
+1993	UWyW-lyljb_SrCnSEuugUQ	4.0	Madison	[Transmission Repair, Automotive	5
+1994	Jb5SB2OXbRW0e7ErGlMK-Q	3.5	Madison	[Food, Ice Cream & Frozen Yogurt, Restaurants, Burgers	41
+1995	IGSFz916np_GyQvlagAnlg	2.0	Madison	[Local Services, Dry Cleaning & Laundry	5
+1996	acnZqXktCu7_x2c4i3tMsw	5.0	Madison	[Food, Beer, Wine & Spirits	4
+1998	0-wZJOsaLFwvbMF78aYeiQ	5.0	Madison	[Auto Repair, Automotive, Tires, Oil Change Stations	4
+1999	IFzagko8Y344ajAhWOxnUw	4.5	Madison	[Auto Repair, Automotive, Car Wash, Gas & Service Stations	4
+2000	L83dOubt-Q-eQviITaPcjA	3.5	Madison	[Flowers & Gifts, Shopping, Florists	3
+2001	wfE180qQ2OW3qxFsqVctgw	2.5	Madison	[Burgers, Fast Food, Restaurants	4
+2002	tUi0IRHSi2nhAso6d5E2Vw	2.0	Madison	[Food, Discount Store, Grocery, Shopping, Drugstores	7
+2003	CgUFVo2ANTRujxYOiY_dmg	4.0	Madison	[Pet Groomers, Pet Services, Veterinarians, Pets	7
+2004	IlE4UouTsBEGiJ_bNrb5ug	5.0	Madison	[Auto Repair, Automotive	14
+2005	e48UufPpmZdPc-x4HSWibw	3.5	Madison	[Pediatric Dentists, Health & Medical, Dentists, General Dentistry	6
+2006	zHdt_KW2QqgJJ9bLmtShdQ	4.0	Madison	[Tires, Automotive	11
+2007	SFJxz-ULe0DutaNq9hBVXg	2.0	Madison	[Financial Services, Insurance	4
+2009	CLvpX-lYjnz6FvtmMRkYew	4.0	Madison	[Shopping, Livestock Feed & Supply, Pet Adoption, Pets, Pet Stores	11
+2012	pHBQ-dQRwN3z7Rq7iSog-A	2.0	Madison	[Italian, Pizza, Chicken Wings, Restaurants	10
+2013	BB4Oz3qBqihEvgZAoaTeIA	3.5	Madison	[Auto Repair, Automotive, Gas & Service Stations, Auto Parts & Supplies	3
+2014	qbu5WjBSQyj8yCk2ENc0BA	4.0	Madison	[Elementary Schools, Trainers, Fitness & Instruction, Active Life, Education, Preschools	4
+2015	50SekjFjmwgN-lGXDu48qw	3.5	Madison	[Auto Repair, Automotive	5
+2017	JD04BlA142xkYsPTErQOrg	3.0	Madison	[Shopping, Home Decor, Home & Garden	3
+2019	QwUHifLjoc5hoxa74jpwGQ	1.5	Madison	[Food, Ice Cream & Frozen Yogurt	11
+2020	brkJrGv2Eaj9NTl9g2RMgA	2.5	Madison	[Pizza, Restaurants	5
+2022	8E1EzFMYtuJdrOfgft_nMQ	3.0	Madison	[Tires, Automotive, Auto Repair, Oil Change Stations	3
+2025	2ReWfLse0HhWOLLsM_bB1Q	4.0	Madison	[Automotive, Motorcycle Repair	5
+2028	ImBOmnSOb1ajWskhQyaa4Q	3.0	Madison	[Automotive, Auto Parts & Supplies	7
+2031	KwH79eA3cMwVbYNLLB0hew	3.5	Madison	[Auto Repair, Automotive, Body Shops, Auto Detailing	3
+2032	UyEbMXjDTNGks_k12fGNdg	4.0	Madison	[Hot Dogs, Restaurants	5
+2034	sjew4Yn7iP7jf_w7X6-vDQ	3.5	Madison	[Veterinarians, Pets	3
+2035	sfA0XJ7XVODirPBXpIFFKA	4.0	Madison	[Beauty & Spas, Nail Salons	4
+2036	psze2Qlw2_dEsFpDj0N08w	4.0	Madison	[Shopping, Antiques	13
+2037	OxR3b_qcMJlzwzGPU5fmdA	4.0	Madison	[Food, Grocery, Flowers & Gifts, Shopping, Florists	65
+2038	8AGIIxZ-BBHbEGsgmhOOwA	2.5	Madison	[Burgers, Restaurants	6
+2040	tE8MQ9I7E2_Xvm4AvykXrw	4.0	Madison	[Bakeries, Food	22
+2041	229b4Pen_-XsyZ3Y2ktxGA	3.0	Madison	[Food, Grocery	7
+2042	W0kwwRhto5fw8tURZ0cYBg	4.5	Madison	[Shopping, Home & Garden, Furniture Stores	3
+2043	DCvG8vjyi4xmYK7LqRQ7DQ	5.0	Madison	[Auto Repair, Automotive	3
+2047	r-c1oqAdSdLGcsdHRaaTYg	4.5	Madison	[Mattresses, Shopping, Home & Garden, Baby Gear & Furniture	3
+2051	UyGxVlb8gjVHpHczJ5ThRw	4.0	Madison	[Health & Medical, Dentists, General Dentistry	3
+2054	cCStad4wX3ADPbz5AHCn9g	1.5	Madison	[Fast Food, Chicken Wings, Restaurants	7
+2055	qctWDQ4cQ4w7Y2TCCILTmQ	4.5	Madison	[Discount Store, Shopping	7
+2057	OejdaKwkMAHvNe5mL2-emg	4.5	Madison	[Local Services, Appliances & Repair	6
+2060	QfCHvy6v39xPH7CvCASlFg	4.0	Madison	[Pizza, Restaurants	19
+2063	unXHmjewHGeWQwJr74Sy9g	2.5	Madison	[Chinese, Restaurants	17
+2064	JD1uVun5FEF_Ih2PnHCbuA	2.5	Madison	[American (New), Restaurants	17
+2067	d4JotJ_TGNCm9y-TB4e86Q	3.0	Madison	[Bars, Nightlife	3
+2069	R6TxOULUEMSq1-7P0w6kTA	2.5	Madison	[Burgers, Fast Food, Restaurants	5
+2072	_3j088e48AYv5yg3FQBoBg	5.0	Madison	[Mattresses, Thrift Stores, Shopping, Home & Garden, Furniture Stores	3
+2073	GqJI2nG2cfjCnxEBksIbrg	4.0	Madison	[Shopping, Flowers & Gifts, Nurseries & Gardening, Florists, Home & Garden	7
+2076	QIwnZALGRNSR2HvOzjyDlw	4.0	Madison	[Libraries, Public Services & Government	4
+2078	m-1fQ1yxirdD_Zl8UtMgJg	3.5	Madison	[Auto Repair, Automotive, Tires, Oil Change Stations	8
+2079	WBtMVB-3fUTsMV7VasVdug	2.0	Madison	[Medical Centers, Health & Medical	4
+2080	FiP9q_YD5vgxu_Sflo5oZw	3.5	Madison	[Food, Ice Cream & Frozen Yogurt, Fast Food, Restaurants	12
+2081	u5p8rf79qxDkXX129qZInQ	3.5	Madison	[Hobby Shops, Shopping	3
+2082	x9pglBo0UYkfje8ugC1OsQ	3.5	Madison	[Local Services, Community Service/Non-Profit, Thrift Stores, Shopping, Antiques	9
+2083	KchYxDnlevnfmA4bHMRQyA	3.0	Madison	[Local Services, Water Delivery, Water Heater Installation/Repair, Home Services, Water Purification Services	6
+2084	FIR1SRvSAMNTO3VvNaJn2g	3.5	Madison	[American (Traditional), Restaurants	74
+2085	DWnVV_l76GVyRLjhB0_wwA	3.5	Madison	[Endodontists, Health & Medical, Dentists, Orthodontists, Cosmetic Dentists	3
+2086	k5sC4u8XNyXdzJRqM72Glg	5.0	Madison	[Movers, Home Services	3
+2087	xTAflBEx2EF10-C-tvBf_Q	3.5	Madison	[Churches, Religious Organizations	3
+2088	rCETkP0iCUBZGcdDGeK7-g	3.5	Madison	[Pet Services, Pet Boarding/Pet Sitting, Pets	9
+2089	GLRTpAzQmGd7Jb2cb5xMbg	4.5	Madison	[Arts & Crafts, Shopping	3
+2090	yg-a8RuKe-_uiPyrwmGogA	5.0	Madison	[Food, Coffee & Tea	14
+2091	IvOeqnZZrGKjUxj6fW2P7Q	4.0	Madison	[Bakeries, Food, Donuts	4
+2092	yk3vlzcgo0OJpm0JFSLcoA	3.5	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels	8
+2093	MBLOaMM3g4TrLNpHUA5EtQ	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	10
+2094	zzhSCOVTZ7MUKOAfwT-Bsw	5.0	Madison	[Shopping, Nurseries & Gardening, Home & Garden	6
+2095	yrBo3c3OTKVO4H1ttBxadw	3.0	Madison	[Bars, American (Traditional), Venues & Event Spaces, Nightlife, Event Planning & Services, Sports Bars, Restaurants	33
+2096	cA77EZOm-TmUwLsQMrE07A	2.5	Madison	[Arts & Entertainment, Cinema	3
+2097	pACm1yLb9Pwc1mOuvC3UDw	2.5	Madison	[Arts & Entertainment, Cinema	16
+2098	-J-kQpDGIkX_1XHfi0HG2g	4.5	Madison	[Automotive, Body Shops, Windshield Installation & Repair, Auto Glass Services	6
+2099	R825-NTAI2wG2C4mN-dtNA	3.0	Madison	[American (Traditional), Pizza, Gluten-Free, Restaurants	47
+2100	T8X_qRCdd1j-C8uH6XTFbA	4.0	Madison	[Auto Repair, Automotive, Auto Parts & Supplies, Car Dealers	3
+2101	L3dTz2TQIyov5NbPdJLkSA	3.5	Madison	[Auto Repair, Automotive, Body Shops, Mobile Dent Repair	3
+2102	AJOejrnO0z4lzp_GHO6wUQ	3.5	Madison	[Automotive, Car Dealers	5
+2103	zjvhOPocFPsImtJMWV55WA	4.0	Madison	[Plumbing, Electricians, Home Services, Heating & Air Conditioning/HVAC	24
+2104	CNvF4BsuFEfC-0Ol4cAD3w	4.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	16
+2105	DdaBJ-NJrvXSjfNRhbA71Q	3.5	Madison	[Animal Shelters, Pet Stores, Pets	10
+2106	Qlkyr4jfUFsi7v9SgppcOA	4.0	Madison	[Active Life, Golf	3
+2107	QseK4W6BwKsyDd36ksxeew	5.0	Madison	[Hair Salons, Hair Stylists, Beauty & Spas	3
+2108	wN5WijlhJjW_3keXENR1cw	4.0	Madison	[Asian Fusion, Sushi Bars, Japanese, Restaurants	53
+2109	r5S_wYdu1vKRW1k-7_yOIA	4.0	Madison	[Sandwiches, Restaurants	18
+2110	Vz_4tkOoNohtVYyfS4RKhg	4.5	Madison	[Food, Beer, Wine & Spirits	3
+2111	Td4s3goUw5bES5JGxQcIbw	4.5	Madison	[Food, Grocery	6
+2112	TccRMp6gd1MgWy6hP44hGQ	4.0	Madison	[Food, Beer, Wine & Spirits	4
+2113	kudu7t-QHJJa0aC0ojpm8w	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	35
+2114	_DvzkmN2HbM9jTAjB47PKg	2.0	Madison	[Food, Automotive, Convenience Stores, Gas & Service Stations	3
+2115	x7nnNkAXy9aI4KBz6RMerw	3.0	Madison	[Car Wash, Automotive	30
+2116	Xia0Lo492MDWbCd48scnYA	1.5	Madison	[Restaurants	3
+12604	07g8i6Dg_8iXXjzbGeITHw	4.5	Madison	[Optometrists, Health & Medical	18
+12605	dgGpvbTjAWet0YPJ3kDJiA	3.5	Madison	[Sandwiches, Pizza, Chicken Wings, Restaurants	26
+12606	IPgqCGKLMc4HZ5KmDvL6tQ	2.5	Madison	[Active Life, Skating Rinks, Arts & Entertainment, Nightlife, Music Venues	8
+12615	fHkQlo4Fqrv_q8RtOpx-Fw	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	8
+12618	85GaloTNAYNl3hF87CPdkg	2.5	Madison	[Fast Food, Chicken Wings, Restaurants	8
+12643	ZiR5Fu1yD5fqDHAfAfTBig	2.5	Madison	[Burgers, Seafood, American (Traditional), Restaurants	59
+12658	SKMQf__GgPwVJiytSJRc9w	4.5	Madison	[Arts & Entertainment, Performing Arts	10
+12659	1wP5JrR9cOGaB00jJPqvfA	4.5	Madison	[Hair Salons, Nail Salons, Tanning, Beauty & Spas	3
+12660	2u28JEiKwG6TUAKg7fihXQ	4.0	Madison	[Food, Coffee Roasteries	4
+12661	iFl-kSk5CjLOjNBnH1ibdA	3.0	Madison	[Electronics, Shopping, Home & Garden, Appliances	6
+12662	XROHg2KXLXI6LfzylKbNMQ	2.0	Madison	[Shopping, Caterers, Event Planning & Services, Toy Stores, Restaurants, Pizza	8
+12664	0HnaJkc8q7Mb-LwbUjaJQQ	3.5	Madison	[Banks & Credit Unions, Financial Services	17
+12665	ZIEKY8NKHXrw4caeFhwgaw	3.5	Madison	[Gold Buyers, Hobby Shops, Shopping, Jewelry	3
+12666	u9XLGsqdOHphfSx6is0KdQ	3.5	Madison	[Hair Salons, Waxing, Beauty & Spas, Hair Stylists, Hair Removal	3
+12667	cyMrs8KNWQcL3Es-w14sTg	4.0	Madison	[Auto Repair, Automotive, Car Dealers	17
+12668	oqsGSo0MquI5i4Y7zxeadw	2.5	Madison	[Banks & Credit Unions, Financial Services, Mortgage Brokers, Home Services, Real Estate	3
+12669	aOnCxq0wQ-cOg2JwI_JuNw	4.5	Madison	[Sporting Goods, Bikes, Shopping	7
+12670	7FxfUAbNYz6YQoMjS5a1Ww	2.0	Madison	[Home Services	3
+12671	m2kbfuUba4hixid0ZtjsFg	4.0	Madison	[Sporting Goods, Bikes, Shopping	19
+12672	rTJbk4WAOPSh2WatyBq8gw	4.0	Madison	[Optometrists, Health & Medical, Shopping, Eyewear & Opticians	4
+12673	HX60bbSLGlikD1FwCd4_8A	5.0	Madison	[Financial Services, Insurance	3
+12674	m2nLCX6LpLRJcTNYX9pbRw	3.5	Madison	[Restaurants, Italian	63
+12675	pS5WsUlWOVAPM0S2rVI-SQ	4.0	Madison	[Bars, Breakfast & Brunch, Nightlife, Beer Bar, American (New), Restaurants	44
+12676	nDDxSnk-ZbYoHkdmNe06Tg	5.0	Madison	[Lingerie, Shopping, Fashion, Adult	42
+12677	9JSYmkJ-sRW4zJCun7N5vA	3.5	Madison	[Russian, Restaurants	12
+12678	PIDnX6hKBB_pm-w4T875pQ	4.5	Madison	[Head Shops, Fashion, Shopping	5
+12679	lOxfzufmX-fImGNDlhjRoQ	3.5	Madison	[Food, Beer, Wine & Spirits	3
+12680	aaYR5kTMqgRGVtTr1kKmKw	4.0	Madison	[Fast Food, Mexican, Restaurants	34
+12681	zsTO1b0YJSBv92y7ECoyWg	3.5	Madison	[Food, Coffee & Tea	14
+12682	9DoW6jACkEl-irp7Vu1K_A	2.5	Madison	[Restaurants, Italian	27
+12683	AumognPr-ttsca0u3KlPMw	4.0	Madison	[Lounges, Bars, Cocktail Bars, Nightlife, Dance Clubs	18
+12684	vzQFuuScWyBBakUtEPmPNQ	3.5	Madison	[Music Venues, Bars, Arts & Entertainment, Nightlife, Dance Clubs	20
+12685	3yGSxV6-rMa0wj1J2MTKng	3.0	Madison	[Optometrists, Ophthalmologists, Health & Medical, Doctors	5
+12686	oGE8GPmBvHXQskP-m2cdLw	4.5	Madison	[American (New), Restaurants	195
+12687	3C7AWEyLV1DHf8rTaJDACA	4.0	Madison	[Food, Grocery	104
+12688	z4acTO-MlZQdkgJE9QCM3g	3.5	Madison	[Korean, Japanese, Restaurants	5
+12689	2b_lt45uM8XMgX-weIJ3nA	4.0	Madison	[Food, Delis, Grocery, Restaurants	8
+12690	kHShR-QHa6lQI55qqOAeiA	4.0	Madison	[Hair Salons, Beauty & Spas	26
+12691	OQIRj00yvBAUoS2Eb1-ItA	5.0	Madison	[Shopping, Home & Garden, Furniture Stores	3
+12692	HvnLM5Z6UXc838cCLUfrZQ	5.0	Madison	[Acupuncture, Traditional Chinese Medicine, Health & Medical, Massage, Beauty & Spas	9
+12693	OmzjQ9yBhWHv6Bpfvzr2Tw	4.5	Madison	[Hobby Shops, Art Supplies, Shopping, Jewelry, Arts & Crafts	18
+12694	9IoGXbleh2TxP9S0PniU7w	4.0	Madison	[Hair Salons, Day Spas, Makeup Artists, Beauty & Spas	27
+12695	QJUPXBB37DE3-JElYxmZFg	5.0	Madison	[Art Supplies, Shopping, Arts & Crafts	12
+12696	CQRYL_4Mu3215d1F_C0Qpg	3.0	Madison	[Burgers, Bars, American (Traditional), Nightlife, Restaurants	17
+12697	oF6fkggof-biVezMoe0h3Q	2.5	Madison	[Bars, American (Traditional), Nightlife, Lounges, Restaurants	7
+12698	Z_9Q5UPY-zmzbNge9gRsyg	4.5	Madison	[Health Markets, Food, Shopping, Drugstores, Specialty Food	28
+12699	Hnh1bO3x4MrgtxUDqJRwLA	3.5	Madison	[Womens Clothing, Mens Clothing, Thrift Stores, Shopping, Fashion	20
+12700	5RNo_HDbcYMc1By8BYFBzQ	3.5	Madison	[Himalayan/Nepalese, Restaurants	55
+12701	oXup5d96auPpUOBh5YBeyA	3.5	Madison	[Seafood, Caribbean, Restaurants	82
+12702	k4tomQpZKZJEQ9tzvLoE3w	4.5	Madison	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas	51
+12703	k5WYudFqSpsm5nhTSlq3lg	4.5	Madison	[Restaurants	6
+12704	hjH_oyzhpg3c77ainpx3kg	3.5	Madison	[Restaurants, Italian	31
+12705	F0BTBm-CXuBk8JWZsMuBKA	4.0	Madison	[Food, Coffee & Tea	126
+12706	FB2jwdIRUzM_zxULDeT4Ww	3.5	Madison	[Nightlife	3
+12707	fuDFCQQmKrzuroldPGip1A	3.5	Madison	[Auto Repair, Automotive	7
+12708	7vna02kUki0igwOgF6YObg	2.5	Madison	[Print Media, Mass Media	6
+12709	jPuCOCHSIU_MtPidNl1PpA	3.0	Madison	[Local Services, Sewing & Alterations	7
+12710	uTyH2HUcFieB6wg-RKA6_Q	4.0	Madison	[Tattoo, Piercing, Beauty & Spas	17
+12711	GBgdaHOZrl6csfHS69MWyg	3.5	Madison	[Caribbean, Restaurants	48
+12712	OXLegbUo6HA3DN3lBFTsUg	3.5	Madison	[Greek, Mediterranean, Restaurants	112
+12713	U207MvzEpz3xYbcC1XotGQ	4.5	Madison	[Shopping, Mobile Phones	3
+12714	MRkKtODtC6p6weVE370vcw	3.0	Madison	[Mexican, Restaurants	42
+12715	F-AdB1lknzwNMurzMKiTzA	4.5	Madison	[Vegetarian, Restaurants	3
+12716	d_w6r-gy2ZG7_3cKdkGgMA	4.5	Madison	[Shopping, Jewelry	13
+12717	d0CenMtjZHYKFa4JntQoYg	5.0	Madison	[Party Equipment Rentals, DJs, Shopping, Event Planning & Services, Electronics	4
+12718	ed5VpqG6NlI2_ALQpZ0lLA	4.5	Madison	[Greek, Mediterranean, Restaurants	161
+12719	iopdE6KgGl8Jvcji-lybFA	4.5	Madison	[Music & DVDs, Books, Mags, Music & Video, Vinyl Records, Shopping	13
+12720	KzE5pMcqJG0YI2VW28_pig	4.0	Madison	[Steakhouses, Restaurants	3
+12721	hfCB7lqu3QhoQDxTmhJnag	4.5	Madison	[Endodontists, Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	7
+12722	A3ZK7esn3oKG5O3OEWMHiw	4.0	Madison	[Himalayan/Nepalese, Restaurants	176
+12723	XAbFbHhi2FlZ0sNSt3WJUw	4.0	Madison	[Restaurants, Italian	5
+12724	bxlI2VDy2MnAaPwn25YKcA	4.5	Madison	[Home Services, Utilities	3
+12725	Tjlj3DgQxXKKG4AmnbDnIA	3.5	Madison	[Party & Event Planning, Steakhouses, Event Planning & Services, Venues & Event Spaces, Restaurants	58
+12726	vUknX2e4fwgShNb2c8sasQ	4.5	Madison	[Food, Coffee & Tea	49
+12727	htkFIMGNHOLqmF0dtFCoiw	4.5	Madison	[Food, Beer, Wine & Spirits	23
+12728	QsMcaJ1a9otkJdUHtq3JRA	4.0	Madison	[Veterinarians, Pets	12
+12729	0wGWhZw81cIG7YjwghZhgw	3.5	Madison	[Breakfast & Brunch, Cafes, Salad, Restaurants	138
+12730	6jR5_SvSQ3tEn9BzM-2x4w	4.5	Madison	[Music & DVDs, Books, Mags, Music & Video, Vinyl Records, Shopping	10
+12731	WDZYmOJUREgSuE9ZfL25mA	4.5	Madison	[Videos & Video Game Rental, Books, Mags, Music & Video, Shopping	19
+12732	CogYonKuZ4NgOMzA-qu6cw	3.5	Madison	[Leather Goods, Fashion, Shopping, Accessories	6
+12733	XpoBPNL7LBsYZXjVY_a98Q	2.5	Madison	[Food, Grocery	6
+12734	KglkEgsfJwvi5FlVEeI_Rg	2.5	Madison	[Pizza, Restaurants	3
+12735	cbmgAeDgxFil6lKadLehsA	4.5	Madison	[Active Life, Dance Studios, Arts & Entertainment, Performing Arts, Fitness & Instruction	3
+12736	Dn5JUcOKejakeuUwMlSR5Q	3.0	Madison	[Middle Eastern, Mediterranean, Moroccan, Restaurants	17
+12737	IgHkvKIzy6Zjx5NBA0i0ng	3.5	Madison	[Seafood, Restaurants	47
+12738	Bz4XyeumLTsqS3Ysf3Dcyg	4.0	Madison	[Food, Specialty Food, Popcorn Shops	13
+12739	u7RUBFqBalXxFdlr0NKyBw	4.0	Madison	[Music & DVDs, Books, Mags, Music & Video, Shopping	5
+12740	r2DtJRPrDnaMpliSJ9I9_w	4.0	Madison	[Sandwiches, Restaurants	19
+12741	xDfGoYjar-rG0v7UuIShdg	3.5	Madison	[Food, Grocery	30
+12742	H-e74SghEFfIz_TdUS_2KQ	4.0	Madison	[Falafel, Mediterranean, Restaurants	9
+12743	4dL8yzQu974eCtTI-V4Znw	3.5	Madison	[Thai, Vegetarian, Vegan, Restaurants	76
+12744	itaXsW86s3cDeNY0qpQybQ	3.5	Madison	[Sporting Goods, Shopping	3
+12745	rgSSCx0tb9AQyCkAvMSIoQ	4.0	Madison	[Restaurants, Ethiopian, Vegan, African	79
+12746	bxrGCpJg-_l6YxsGO5Essg	4.5	Madison	[Shopping, Optometrists, Health & Medical, Eyewear & Opticians	7
+12747	zQwAa0sUQUnogE9uhKcGDA	4.5	Madison	[Hotels & Travel, Bed & Breakfast, Event Planning & Services, Hotels	10
+12748	KgJko4q5jewH8UD7n0eQIA	4.0	Madison	[Wedding Planning, Local Services, Sewing & Alterations, Event Planning & Services, Shopping, Bridal	17
+12749	irwz-t4JRDnsGVRDe5oTwg	4.5	Madison	[Hotels & Travel, Bed & Breakfast	4
+12750	qY_CBBuxvIXf0tfZxNqPsQ	5.0	Madison	[Pets, Pet Stores	33
+12751	43Jej-sIqlpq9LUXKiYMGA	2.0	Madison	[Bars, Nightlife, Lounges	3
+12752	rh61QuYb8Rs2SZOkaUoveA	4.0	Madison	[Books, Mags, Music & Video, Shopping, Bookstores	12
+12753	s4Juaxp_7gziJj1DXr2JGg	4.0	Madison	[Bars, Restaurants, Venues & Event Spaces, Event Planning & Services, American (New), Nightlife	14
+12754	JtSgAvhABBBxhXKujHHxBA	4.0	Madison	[Shopping, Jewelry, Books, Mags, Music & Video, Bookstores, Fitness & Instruction, Active Life, Yoga	11
+12755	QFMHjSUt08y0c98SA3aBrA	3.5	Madison	[Seafood, Sushi Bars, Japanese, Restaurants	68
+12756	3WYYCZq4spbRviIFN7dkJw	4.0	Madison	[Pubs, Bars, Gay Bars, Nightlife	16
+12757	hamtXHWojyMro1JAOycalQ	4.0	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels	83
+12758	kj2jl-pQET8E9A1YVezyHg	4.5	Madison	[Food, Ice Cream & Frozen Yogurt	105
+12759	m79L5WLftprDSKdXEtdrIg	3.0	Madison	[Nightlife, Bars, American (Traditional), Sports Bars, Restaurants	154
+12760	DR4xcr3eJ0vfYRomvx036w	4.0	Madison	[Cantonese, Noodles, Chinese, Restaurants	121
+12761	6vDyQZJAqkVRi8vNSLGkBg	4.0	Madison	[Barbers, Beauty & Spas	13
+12762	TL8mMCzr57CRrOLXGbxk_g	3.0	Madison	[Fashion, Shopping, Books, Mags, Music & Video, Sporting Goods, Bookstores, Education, Sports Wear, Educational Services	17
+12763	yTQjQZzY8fsJ6F9n6nhSrA	4.0	Madison	[Food, Juice Bars & Smoothies	13
+12764	-OPW-SzOLo98aCUUEVqK7w	3.5	Madison	[Food, Specialty Food	3
+12765	VB-tzuBR6BxMzOkY_cOpwQ	4.0	Madison	[Indonesian, Asian Fusion, Restaurants	163
+12766	wpoALFaOLjQU6sc67eiryA	4.5	Madison	[Gift Shops, Kitchen & Bath, Flowers & Gifts, Shopping, Home & Garden	6
+12767	oPy0Tl_2FDz0xmzdZJWLnw	2.5	Madison	[Fast Food, Restaurants	6
+12768	j6UXMSx_uqXdvUi-kaOJXA	3.0	Madison	[Shopping, Antiques	3
+12769	fGQg-IaVTk1vCwbyh-_n-g	4.5	Madison	[Fashion, Shopping, Jewelry, Accessories	30
+12770	NnZKF0QI8KvwYSIXsDGxew	3.5	Madison	[Dive Bars, Bars, Nightlife	28
+12771	p5t72ECxsXFUn7pgoukf8g	5.0	Madison	[Food, Beer, Wine & Spirits	5
+12772	wS6Qh5NkoPKDwjA_vbUcfg	4.0	Madison	[Bars, American (Traditional), Nightlife, Lounges, Restaurants	37
+12773	nisE3lGuzeEWY2KXMGbYNg	2.5	Madison	[Dive Bars, Greek, Bars, Nightlife, Restaurants	5
+12774	piiDdJ5EhVefYLOtk538fQ	4.5	Madison	[Shopping, Photography Stores & Services	3
+12775	G7Izuj1bwMFSJMQwM8YP6A	4.0	Madison	[Nightlife, Comedy Clubs	46
+12776	e-YQOv0Uid6uzCz23yCyXw	3.5	Madison	[Thai, Restaurants	54
+12777	Gu87BaXltz6qMyaNUdTHEw	2.0	Madison	[Food, Convenience Stores	4
+12778	Fuzyw-fRAEhFPcBmSgEmkA	4.5	Madison	[Hardware Stores, Shopping, Home & Garden	6
+12779	nbpY3tbPrAksoqOrYwlx7Q	3.5	Madison	[Restaurants, Mediterranean, Turkish	68
+12780	yH6iIl_4jzNF44L3HUZ3AQ	4.0	Madison	[Greek, Mediterranean, Mexican, Restaurants	4
+12781	TI0aHZioxrosjIqLCB4Lqw	4.0	Madison	[Shopping, Home Decor, Home & Garden	40
+12782	Fldz9eHJZn_PoVSo9SE6Iw	4.5	Madison	[Mass Media, Radio Stations	4
+12783	mZwmzhI1U_xXVpMRSaItIQ	4.5	Madison	[Mens Clothing, Fashion, Shopping	21
+12784	wXri8QF92KOYe2INyca0yQ	3.0	Madison	[Dive Bars, Bars, American (Traditional), Nightlife, Restaurants	30
+12785	3P6IQFwMyH2FE4msc5WM7w	5.0	Madison	[Auto Repair, Automotive	18
+12786	2vsPceME9rHNZ9OkR5zrpg	4.0	Madison	[Dive Bars, Bars, American (New), Nightlife, Restaurants	52
+12787	-_u5knHog2ai0ZxyMqK6hg	4.0	Madison	[Thrift Stores, Shopping	3
+12788	jSkzEQSTh_GJCwf1wCLEAA	4.5	Madison	[Home Services, Heating & Air Conditioning/HVAC, Contractors	5
+12789	5-zorZMowhrM6fEMOCAGqg	2.0	Madison	[Dive Bars, Bars, Nightlife	12
+12790	Q4oFbp3XgQXdHz3fR4N_Vw	4.0	Madison	[Keys & Locksmiths, Home Services	6
+12791	4TOVkJj25k-Sm0CTRcvkaw	4.0	Madison	[Food, Coffee & Tea, Cafes, Restaurants	57
+12792	vZkR7xkqtzcK7klbD--Rug	2.5	Madison	[Steakhouses, Seafood, Restaurants, Italian	75
+12793	fEX1IcPNrhJAdwk4DgyVVw	4.0	Madison	[Steakhouses, Restaurants	348
+12794	vOCmoA6cvhlA5bcATzUR0g	2.0	Madison	[Mexican, Restaurants	50
+12795	yRPXTsgpXdiaRuYJ2akQ9w	2.5	Madison	[Home Services	9
+12796	LLR8iqKn7nmfwXWl1S13Lw	3.0	Madison	[Bars, Restaurants, American (Traditional), Sports Bars, Nightlife	59
+12797	vuWwfljq41Yov7TucPDbFw	4.5	Madison	[Arts & Crafts, Shopping, Jewelry	8
+12798	upKjWj5qf-wcZOgf-4XKIQ	4.0	Madison	[American (New), Restaurants	11
+12799	mygl9lptIc4p1kPYnWSncA	4.5	Madison	[Music & DVDs, Books, Mags, Music & Video, Shopping, Jewelry, Bookstores	14
+12800	Rygjh3Lqy8r6LvnTnELOJw	1.5	Madison	[Local Services, Hotels & Travel, Taxis, Couriers & Delivery Services, Transportation	34
+12801	c1cGCn1syl9_c6XKEu4Mhg	3.5	Madison	[Bars, American (Traditional), Irish, Pubs, Nightlife, Restaurants	15
+12802	HOMBFwgPLC_Wc9k7Obo7OQ	4.0	Madison	[Breakfast & Brunch, Restaurants	60
+12803	0pXk2JkijBpi2Iz0D5pFXA	3.5	Madison	[Afghan, Mediterranean, Restaurants	133
+12804	FcmegKpfN3-URlKGgbSyKg	4.0	Madison	[Museums, Arts & Entertainment, Childrens Museums	53
+12805	8T62y41_xnOqh8dCaDGEmA	4.5	Madison	[Arts & Entertainment, Art Galleries, Shopping, Jewelry	4
+12806	CLW4LJCYbAkwlgNWB2rVbQ	4.0	Madison	[Bars, American (Traditional), Nightlife, Restaurants, Sports Bars, Pizza	71
+12807	SCkHO3E2ulcal8YhxucgyQ	4.5	Madison	[Womens Clothing, Fashion, Shopping, Accessories	3
+12808	phaiT959kOOKaMAWm1AtTA	5.0	Madison	[Music & DVDs, Books, Mags, Music & Video, Local Services, Shopping, Printing Services	3
+12809	oPsn2zSMchH0I4AuiiH5Qw	3.5	Madison	[Dive Bars, Bars, American (Traditional), Nightlife, Restaurants	19
+12810	EBF9x0PFZezvFhV4olMW-g	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	23
+12811	uI6ULMaiOOBGJkWtIKtRMQ	2.5	Madison	[Real Estate Services, Property Management, Home Services, Real Estate	8
+12812	rEhQS9FjkisGu4v0FgDDEg	4.0	Madison	[Museums, Arts & Entertainment, Art Museums	19
+12813	2qF0zck7dlPnB1X6asJBXw	4.0	Madison	[Food, Beer, Wine & Spirits	25
+12814	hSl4HdPdu6ohwFKJPfj93A	4.0	Madison	[Pizza, Restaurants	154
+12815	d6XyDGhXXW_KlxtiWz7hew	3.5	Madison	[Thrift Stores, Shopping	28
+12816	ZsW6u-VphwlGzF7jgpS_3w	3.0	Madison	[Fashion, Shopping, Sporting Goods, Mens Clothing, Womens Clothing, Sports Wear	3
+12817	jsmGUmgbyAoLOmDq1gF6Aw	4.5	Madison	[Hardware Stores, Shopping, Home & Garden	18
+12818	uwjl8UJhUINe_RwbgZsgsg	3.0	Madison	[French, Restaurants	10
+12819	XEnAF-JcPgoo5zcf02Xmrg	1.5	Madison	[Home Services, Real Estate, Apartments	10
+12820	XfIOLkocJrlKku0mZFZQkw	4.5	Madison	[Tobacco Shops, Shopping, Home Decor, Home & Garden, Gift Shops, Flowers & Gifts	9
+12821	IzzdbZmf8WJ488StO4DnKQ	2.0	Madison	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply	6
+12822	CQDpilFXuke4O2lt8-WeZA	3.0	Madison	[Food, American (Traditional), Breweries, Restaurants	10
+12823	ooJW9myvGU9dPbHAZ1lGtg	5.0	Madison	[Plumbing, Home Services	8
+12824	DTU4KeFL7HPzX_gPyhr3Qw	3.0	Madison	[Car Wash, Automotive	20
+12825	QxXxClmpVcsVlpv3Pvn4mA	4.5	Madison	[Books, Mags, Music & Video, Shopping, Bookstores	13
+12826	_NW61hsQvk7u2E_xWiWyMQ	4.0	Madison	[Pubs, Bars, American (Traditional), Nightlife, Restaurants	11
+12827	mfg_CS6IXZwfeUGGWKRUrg	3.5	Madison	[Shopping, Jewelry, Watches	16
+12828	yRm55eEPgnj2_0XoHyLDVg	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	16
+12829	R3taguNpzCJ4DRHrqWDkhg	4.0	Madison	[Tires, Automotive	7
+12830	YL29e6T9g_gOMJbkd7OKeQ	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	8
+12831	k31Dhlp0nzyu8NrQRR0r0g	4.0	Madison	[Sporting Goods, Fashion, Shopping, Outdoor Gear, Sports Wear	10
+12832	KX56UG1Er2lNDQKUs9AdCw	4.5	Madison	[Tires, Automotive, Auto Repair, Oil Change Stations	7
+12833	dpuSL_nJzRpeQaP5MK9tCQ	5.0	Madison	[Hair Salons, Hair Stylists, Beauty & Spas	7
+12834	DZV4_RtUL6hlreDupspxpQ	4.0	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels	126
+12835	BcaG79yRTstTnmdz7e5l8g	4.0	Madison	[Books, Mags, Music & Video, Shopping, Bookstores	9
+12836	_z9UrC5hCTBK1JIgQD0YDw	3.5	Madison	[Noodles, Restaurants	56
+12837	R-uBWKTDv8FS3Scskr6UCA	3.5	Madison	[Italian, Pizza, Restaurants	38
+12838	TmtKFFtFgtgbT_vv14R03w	3.0	Madison	[Auto Repair, Oil Change Stations, Automotive	11
+12839	aP9wnNPiOIWCyk27ZTeRqQ	3.5	Madison	[Bars, Fish & Chips, Nightlife, Restaurants	101
+12840	ejSXZ1-RcwNZdjghjTY_pg	4.0	Madison	[Food, Specialty Food, Pasta Shops	3
+12841	7dlX9oOy3o1_MPV-t7wTSA	3.0	Madison	[Pizza, Restaurants	8
+12842	bjUxKTk6JOf7OP4kaD4Ktw	4.5	Madison	[Gold Buyers, Shopping, Pawn Shops	8
+12843	jMuL6rhpAMlZUjxCRhoszg	3.5	Madison	[Seafood, Steakhouses, Restaurants	87
+12844	0Y-DGPgUpUD-_6_l_q-iOw	2.0	Madison	[Fashion, Shopping, Shoe Stores	3
+12845	ra84MHFuTnIX6metymk6zg	3.5	Madison	[Food, Bagels	13
+12846	06R9xljRMJQDjAd-bgnEew	3.0	Madison	[Arts & Entertainment, Performing Arts	6
+12847	Nn1Bh7-TnLcYJ1lfdSutDg	3.0	Madison	[Womens Clothing, Fashion, Shopping, Accessories	7
+12848	ZVCdIgZhGgnGBdzt2Y0Iiw	3.5	Madison	[Breakfast & Brunch, Bars, American (Traditional), Nightlife, Restaurants	84
+12849	IVPXZZXklwOc5cbZV-mLRg	4.0	Madison	[Nightlife, Restaurants	36
+12850	IS7OgA06mNbb3PKfPAeK7Q	3.5	Madison	[Fashion, Shopping, Home Decor, Home & Garden, Mens Clothing, Womens Clothing	13
+12851	9JCrzYOG4saIMG87sMGnQw	4.0	Madison	[Arts & Crafts, Fashion, Shopping, Costumes, Used, Vintage & Consignment	4
+12852	nX6u04km5inbGEbgnaJ-8Q	3.0	Madison	[Food, Coffee & Tea	36
+12853	Wv7AqSOOnMR676h3bZWyJw	3.5	Madison	[Food, Coffee & Tea, Internet Cafes, Sandwiches, Restaurants	41
+12854	slyBpcL9O_pU1ljR5tCBxQ	3.5	Madison	[Soup, Sandwiches, Salad, Restaurants	38
+12855	XCPAV44iWsJwzKo2yyXi2A	1.5	Madison	[Used, Vintage & Consignment, Fashion, Shopping	3
+12856	QqHl5Z0p8eAWxWxcTtaWkw	4.0	Madison	[Event Planning & Services, Venues & Event Spaces	30
+12857	Pb9cj71KFAFpffzgzIUPCQ	3.5	Madison	[American (Traditional), Event Planning & Services, Venues & Event Spaces, Restaurants	7
+12858	og3FXunNd_U3EmwJNpEFyQ	4.0	Madison	[Museums, Arts & Entertainment	9
+12859	4HDRS3XkrWR9rZYH1-JdiQ	2.0	Madison	[Hotels & Travel, Transportation	3
+12860	tle6nD07KGkC2qZHRFzINg	4.5	Madison	[Libraries, Public Services & Government	17
+12861	1fEAzQEmNN1bfXUtgPJZpg	4.5	Madison	[Museums, Arts & Entertainment	15
+12862	c988uFe1-6Xix-vUTd9rMQ	3.0	Madison	[Health & Medical, Hospitals	9
+12863	M9hINQo_GnEenib_3wA33Q	3.5	Madison	[Food, Coffee & Tea, Sandwiches, Restaurants	35
+12864	MAQuGx-ontt6sFidiyivRQ	3.0	Madison	[Sushi Bars, Japanese, Restaurants	126
+12865	fBBMlJIud_LXrTV-zfkM0g	3.5	Madison	[Soup, Italian, Pizza, Restaurants	77
+12866	AV81CF9cHqUW0HKaELreYA	3.5	Madison	[Bars, Nightlife, Lounges, Restaurants	7
+12867	rVFCvjvDooc_9tGuVJBktQ	4.5	Madison	[Auto Repair, Automotive, Car Dealers	10
+12868	pyy8EDCHrDWFZ-tGp6Dzpg	4.0	Madison	[Art Supplies, Shopping, Arts & Crafts	15
+12869	DcNjjiT0ONBCEfo500gJ5A	4.5	Madison	[Childrens Clothing, Fashion, Shopping, Books, Mags, Music & Video, Toy Stores, Bookstores	9
+12870	la6HHAjs9DKETo0qxLAgDg	4.5	Madison	[Fashion, Shopping, Jewelry, Home & Garden, Womens Clothing, Home Decor	17
+12871	rcF4ynGx5ySNQ3UFRPpcKA	4.0	Madison	[Breakfast & Brunch, Tex-Mex, Restaurants	217
+12872	sVbu6BoREK3QNKZ7KylwaQ	3.5	Madison	[Banks & Credit Unions, Financial Services, Mortgage Brokers, Home Services, Real Estate	3
+12873	v5mjUyUZeWfLTdxXfZYKMg	3.0	Madison	[American (New), Cafes, Restaurants	18
+12874	nJ-YC_uNcFGejWRJgA-Raw	2.5	Madison	[Bars, Shopping, Hookah Bars, Head Shops, Nightlife, Vape Shops	11
+12875	RuXPNPkBMTDfr7GlxB7Yfw	5.0	Madison	[Home Services, Real Estate, Apartments	9
+12876	HGebj0kKfcL5ai3p2GzsBA	4.0	Madison	[Hair Salons, Skin Care, Beauty & Spas	34
+12877	ZyaqYNhN6K6DIt21MesYoQ	4.5	Madison	[Pizza, Restaurants	4
+12878	XgNy4vCHn-1NVzu6xgZIxg	4.0	Madison	[Food, Beer, Wine & Spirits, Coffee & Tea, Cafes, Restaurants	51
+12879	bXwFv2IslBSzkMPFkS_aLw	3.5	Madison	[Seafood, Restaurants	30
+12880	IbYYCuGqR4Lgfvf_WJTNuw	3.0	Madison	[Restaurants, Italian	124
+12881	S4kdd9ARn6gA0-D6GgBq9w	5.0	Madison	[Local Services, Marketing, Printing Services, Professional Services	8
+12882	SYm-tS651b5jkdvIzAhWeg	4.0	Madison	[Food, Coffee & Tea	28
+12883	3_dKevejfGY3eRj2xprRIQ	4.0	Madison	[Food, Coffee & Tea, Cafes, Restaurants	54
+12884	QZFfD5SGIoe7WOWGHXWiTQ	4.5	Madison	[Bars, Nightlife, Lounges	38
+12885	Dzx8oPvlXsYDvAAONyONyg	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	42
+12886	3zA339EbjuYmPpzDvEVHQg	3.5	Madison	[Hotels & Travel, Hostels	16
+12887	54A2UMMV2i3Smx1F4TGByw	5.0	Madison	[Home Services, Flooring	4
+12888	_Aqv6vqRSE2hUeK0wS60Ug	4.0	Madison	[Fashion, Shopping, Sporting Goods, Bike Rentals, Bikes, Active Life, Sports Wear	29
+12889	qymr9oI_9DCswudVnbLmHQ	3.0	Madison	[Sandwiches, Restaurants	5
+12890	4OXNgYFTNQxBmMR-0cV7Aw	2.5	Madison	[Chinese, Restaurants	16
+12891	J3A5V0Hl07o_KQSI2hHf_g	4.0	Madison	[Breakfast & Brunch, Restaurants	414
+12892	BrmCKWkhok50lioPKFvQFA	4.5	Madison	[Gift Shops, Flowers & Gifts, Shopping	5
+12893	hw3PuW-d1SsRkXH-0EfaWw	4.5	Madison	[Active Life, Martial Arts, Gyms, Trainers, Fitness & Instruction	5
+12894	F55lzI0BrxnZLhwh6pF0ZA	3.5	Madison	[Food, Coffee & Tea	15
+12895	_tf1vHmO1Vns8YDiw8qKDA	5.0	Madison	[Active Life, Beauty & Spas, Yoga, Massage, Fitness & Instruction	7
+12896	lWtpoG_7K7wwyvggpdIDRQ	4.0	Madison	[Pizza, Restaurants	53
+12897	KlXFiE8uA4R7o0uH9_GFYQ	2.5	Madison	[Mexican, Restaurants	9
+12898	nomnWzvk6L7wQUsMxCYlVA	2.5	Madison	[Food, Grocery	8
+12899	vM5yWvYfNS4Q57VN4XTyEA	1.5	Madison	[Local Services, Dry Cleaning & Laundry	11
+12900	hqWftK-x7pihirsx5rSenw	4.0	Madison	[Pediatric Dentists, Health & Medical, Periodontists, Dentists, Cosmetic Dentists	7
+12901	Cn5BOReDVZ_RVStyzs_TYA	4.5	Madison	[Food, Bagels	81
+12902	XhDlbfGzy_sVDs76n9oTGQ	2.0	Madison	[Sandwiches, Restaurants	14
+12903	3sXEZQmJl-hwlOz-zoF7wQ	4.0	Madison	[Womens Clothing, Fashion, Shopping, Accessories	5
+12904	cnc5Fu-xE1CKLI_bh7P01g	4.0	Madison	[Breakfast & Brunch, Restaurants	110
+12905	bWovO2HjTuDwjtEhk7J31g	3.0	Madison	[Food, Grocery	11
+12906	7c4oNE_J9jyfy-WtrWLctQ	4.0	Madison	[Local Services, Computers, Shopping, IT Services & Computer Repair, Telecommunications	4
+12907	JsO7hfhbi_bGVr_eHvIWMg	4.0	Madison	[Arts & Crafts, Shopping, Fabric Stores	8
+12908	VmHw-izKsUeceM6YEjg9tA	4.0	Madison	[Banks & Credit Unions, Financial Services, Mortgage Brokers, Home Services, Real Estate	4
+12909	CESeX2Nb4m2kMNJPs3Qluw	3.0	Madison	[Automotive, Towing	11
+12910	FoHNVQQbiuY7CV8cc-iFzg	4.0	Madison	[Burgers, Bars, Nightlife, Barbeque, Restaurants	63
+12911	tR9OWXHm1H9EPrBhw1gLMQ	4.0	Madison	[Food, Specialty Food, Grocery, Meat Shops	10
+12912	CaczZDtFMnLT2hv5cyuBzw	3.0	Madison	[Home Services, Contractors	13
+12913	RC_6Br1TzdgWWDDIZMAI1A	3.0	Madison	[Steakhouses, Restaurants	53
+12914	tZLWRZhFIsiUXq107fT-JA	3.5	Madison	[Shopping, Toy Stores	4
+12915	dZVZQmj-UESxt1aocoBNyw	3.0	Madison	[Food, Beer, Wine & Spirits	4
+12916	yTo0of6qzLmyaOZ3Uiha8w	4.5	Madison	[Food, Specialty Food, Fruits & Veggies, Beer, Wine & Spirits, Cheese Shops	39
+12917	J-ufODi62MXZhzwJU2172g	1.5	Madison	[Hobby Shops, Electronics, Shopping, Mobile Phones	7
+12918	uQeCTU9vjgdvfXPw6uB5DA	4.5	Madison	[Food, Specialty Food, Candy Stores, Chocolatiers & Shops	3
+12919	8tE_yVAcMnxViAznIONBWg	4.5	Madison	[Auto Repair, Automotive	9
+12920	tr4lB0YBMxnWjbWr2BEd5w	4.0	Madison	[Food, Coffee & Tea	11
+12921	ogBpGx1dMb1XrQFYfuhW9Q	3.0	Madison	[Auto Repair, Automotive, Tires, Oil Change Stations	9
+12922	-oMxF2hKY-mnUsxbOxp5eQ	4.5	Madison	[Grocery, Food, Seafood, Seafood Markets, Specialty Food, Restaurants	7
+12923	0O0e2H4yNg3oQW805lsdzQ	4.5	Madison	[Barbers, Beauty & Spas	3
+12924	lr9UqdkgQesySRNAvyZPRA	4.0	Madison	[Food, Beer, Wine & Spirits	15
+12925	UsEsD5X9dHIMAWDUPs_Utg	5.0	Madison	[Oil Change Stations, Automotive	4
+12926	N5HNGklHszN9FZzzl3n03A	3.5	Madison	[Specialty Schools, Blood & Plasma Donation Centers, Local Services, CPR Classes, Health & Medical, Community Service/Non-Profit, Education	3
+12927	Wmwvg1tzJ4BXsAukaimyng	2.5	Madison	[Home Services, Real Estate, Apartments	3
+12928	HxHXs5cTOWtHGNA9l6ojFA	3.5	Madison	[Food, Health Markets, Grocery, Organic Stores, Specialty Food	78
+12929	JxYTEIQqDEXgjHXtfvecAA	1.5	Madison	[Fast Food, Mexican, Restaurants	3
+12930	OzB1Hv1A8Lz_V4hYZ7Duzw	4.5	Madison	[Bars, American (Traditional), Pubs, Burgers, Nightlife, Restaurants	34
+12931	u3aw72m1Vpwx7i71firyWQ	3.0	Madison	[Hair Salons, Beauty & Spas	4
+12932	5m0OPZOPkohxh1D67M7ncA	3.5	Madison	[Food, Sandwiches, Bagels, Breakfast & Brunch, Restaurants	15
+12933	hmPkit7DjWX9raBoACw_rg	3.5	Madison	[Fast Food, Chinese, Restaurants	26
+12934	XSSo39F3bO_8UyAosFMDjw	4.0	Madison	[Shopping, Bespoke Clothing	13
+12935	TqR8kAPQ-2Np8RAaL_aspA	4.5	Madison	[Middle Eastern, Mediterranean, Restaurants	60
+12936	1QINSZ-dgPQqL4N0TTFWPA	3.5	Madison	[Automotive, Motorcycle Repair	5
+12937	xajae0ukR4_hguNobwEawA	4.0	Madison	[Bars, Restaurants, Nightlife, Italian	137
+12938	-RYTgyTc6asckPO_R18RKg	5.0	Madison	[Veterinarians, Pets	8
+12939	YXfDJLWtchsCccaHMMkyYw	3.5	Madison	[Thai, Restaurants	110
+12940	bZX-b9fInWIk8j3Y50uBWQ	3.5	Madison	[Korean, Restaurants	54
+12941	Yiwc0B1OMMLCRDDPx3C0iQ	4.5	Madison	[Hair Salons, Day Spas, Tanning, Spray Tanning, Beauty & Spas	14
+12942	ZkefP3tMB3k75umsuP3sAw	4.5	Madison	[Pet Services, Pet Groomers, Veterinarians, Pet Boarding/Pet Sitting, Pets	15
+12943	7QEuGyfmNzxZPTxVhXyKYQ	3.0	Madison	[Fashion, Shopping, Shoe Stores	15
+12944	1bXW0Ac0VEKqD8zqvmbtEg	4.0	Madison	[Specialty Schools, Driving Schools, Education	6
+12945	XG1Wzo9TOe69r2m2omXi-A	4.5	Madison	[Food, Ice Cream & Frozen Yogurt	3
+12946	dgq6Y3t81Hq3Og-qd4C5Ew	3.0	Madison	[American (Traditional), Cafes, Restaurants	15
+12947	KZwhEVrTWdriiwzHX8aQ0A	4.5	Madison	[Barbers, Beauty & Spas	3
+12948	2DtS8_IjBx3cb9sgJ2sxjQ	4.5	Madison	[Food, Herbs & Spices, Specialty Food	17
+12949	Vt7kCJsL8xMrXEzrPyqmwA	2.0	Madison	[Banks & Credit Unions, Financial Services	4
+12950	S-fNAS3auvsDkAl3xcByeg	1.5	Madison	[Burgers, Fast Food, Restaurants	5
+12951	T8zH3Tb7aodO0QXJg1qJFg	3.5	Madison	[Skin Care, Hair Salons, Day Spas, Beauty & Spas	7
+12952	e3_uSU1HoMEn9A451Lrq_g	2.5	Madison	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply	6
+12953	LHyB122HpkWueoWj-0bX4A	3.0	Madison	[Pizza, Restaurants	18
+12954	MtqYWxZquv2kh4mtXhFAmg	3.5	Madison	[Shopping, Optometrists, Health & Medical, Eyewear & Opticians	6
+12955	A8QunvG1_F2i9oOJGRoxeg	4.5	Madison	[Health & Medical, Dentists, General Dentistry	4
+12956	omWFwLRqI3VTcM46L8-qaA	2.5	Madison	[Noodles, Restaurants	20
+12957	dOo_jUaYeHC4b6bgOytinw	4.0	Madison	[Seafood, Steakhouses, Mediterranean, Restaurants	61
+12958	0pwnv2HPiUCncY-8xXJf1A	3.5	Madison	[Hardware Stores, Building Supplies, Shopping, Home Services, Home & Garden	6
+12959	pMc19nT9vzoxZ3R2RK3ddg	1.5	Madison	[Restaurants	3
+12960	ivtZQyk8W-ZRbUHkUpXh6Q	3.0	Madison	[Soup, Sandwiches, Salad, Restaurants	17
+12961	IRo6kvc8HdYJUxnEVdV1EQ	4.0	Madison	[Active Life, Yoga, Fitness & Instruction	21
+12962	lIL_VuvmxBr_yQQH_P9QHg	4.0	Madison	[Bakeries, Food, Breakfast & Brunch, Restaurants	175
+12963	cG-wWJPO6MCuphYIqVcLsQ	3.5	Madison	[Pizza, Restaurants	69
+12965	vXK8lVxFjyhVSoSgMvTxww	3.0	Madison	[Bars, American (Traditional), Fish & Chips, Nightlife, Restaurants	20
+12966	juPm-LuC_jRwQtZuFlsoRg	3.0	Madison	[Food, Coffee & Tea	19
+12967	rcGhjWnTnDrnBlKQEKPjyA	5.0	Madison	[Auto Repair, Automotive	6
+12968	XWr5XeK6TD-oGQWfgnXm_Q	4.0	Madison	[Sports Medicine, Doctors, Health & Medical	4
+12969	EO_LRZc_g0KIR-uRC2ecnQ	3.5	Madison	[Food, Desserts, Restaurants, Ice Cream & Frozen Yogurt, Burgers	61
+12970	naUQ_ZHKq2ONBwW5EhJXJQ	3.5	Madison	[American (Traditional), Salad, Restaurants	235
+12971	GQKtoOLNysSneVweTD7wXA	2.0	Madison	[Home Services, Real Estate, Apartments	5
+12972	R-4tjfnekooHGA8C-SWVhQ	5.0	Madison	[Banks & Credit Unions, Financial Services, Mortgage Brokers, Home Services, Real Estate	4
+12973	-udZTulqQR5uG9b2whAFkA	3.5	Madison	[Plumbing, Home Services	6
+12974	xHbPpgOiJVWlzDi-gSA2xw	3.5	Madison	[Local Services, Sewing & Alterations	3
+12975	cBdOHrSxYC62ixBipsVAJg	3.5	Madison	[Shopping, Knitting Supplies	12
+12976	iqQPtw_1KJMGXARhApMN2w	4.0	Madison	[Hotels & Travel, Bed & Breakfast, Event Planning & Services, Hotels	21
+12977	FHZ64Oranz1H0P79lXKbug	4.5	Madison	[Arts & Crafts, Shopping, Costumes, Drugstores	7
+12978	1rgTvrHz2JXojwM0GbmK7g	4.5	Madison	[Local Services, Shoe Repair	11
+12979	XsDFvUcFxnOEOw9zKvO-iA	3.0	Madison	[Mexican, Tex-Mex, Restaurants	68
+12980	Br9o4CNzhwUw4YUHseGA-g	3.5	Madison	[Pizza, Restaurants	19
+12981	A_5rEz0Z9yD9JngBbeZfWg	4.0	Madison	[Active Life, Skating Rinks	4
+12982	5a4CX1l4pJ3tSp_KBNQ2VQ	4.5	Madison	[Hair Salons, Massage, Beauty & Spas	16
+12983	_4X98f4irlXGiFcsV7YPgA	3.5	Madison	[Shopping, Jewelry	5
+12984	d5lAPQVdqWrdaYBEVpDsIQ	2.5	Madison	[Electronics, Shopping	11
+12985	Q1boMG9CrpZ32njTInt1_A	4.5	Madison	[Childrens Clothing, Baby Gear & Furniture, Fashion, Shopping, Toy Stores	4
+12986	LtwfC-xDvCPhMMGJ0DdLnQ	4.0	Madison	[Comic Books, Shopping, Books, Mags, Music & Video	13
+12987	dOklkqk15g-6-w7pOSPPBg	4.5	Madison	[Barbers, Beauty & Spas	8
+12988	yO0vheaSkOLP_UDUBpsW1Q	4.0	Madison	[Arts & Crafts, Shopping, Framing	4
+12989	RHbBdErWlUxwpFahZmAJlA	4.0	Madison	[Kitchen & Bath, Shopping, Home & Garden, Toy Stores	30
+12990	rX_2X7SsHbQKau-LUk9zqQ	4.5	Madison	[Food, Specialty Food, Candy Stores, Chocolatiers & Shops	11
+12991	iM2Qx3BgWJUW4xS3_VRqWA	3.5	Madison	[Banks & Credit Unions, Financial Services	3
+12992	azZrKH7KIkB_w_zG2gzR4w	3.5	Madison	[Religious Organizations, Synagogues	3
+12993	ZfkEIrZi8V57afI1iDMudg	4.5	Madison	[Shopping, Drugstores	8
+12994	OwZGnPRa4ey7uVtmtkgOxw	3.0	Madison	[Mediterranean, Restaurants	9
+12995	t7KDRUUGG1sa1nEkCp_kUw	4.5	Madison	[Brewing Supplies, Shopping	6
+12996	nGsb8QS2Urlqm9HzwU15lQ	4.5	Madison	[Food, Coffee & Tea	7
+12997	yFf_1Yduhde1EnVIY7lZMQ	4.0	Madison	[Music & DVDs, Books, Mags, Music & Video, Shopping	26
+12998	prIu_ALn9HQlzOXN8Rp1kA	3.5	Madison	[Active Life, Golf	3
+12999	KcMG9fhpiEj4IeeIiXWASQ	4.5	Madison	[Libraries, Public Services & Government	8
+13000	-nmPUyAufz8M3uzYh04ncQ	3.0	Madison	[Beauty & Spas, Nail Salons	22
+13003	LHQWJ2ZoG6KTrBVJM99W1w	2.5	Madison	[Thrift Stores, Shopping	3
+13004	f1Kmu1MFsLOQui7t5vGHaQ	2.5	Madison	[Home Services, Real Estate, Apartments	3
+13005	LHPRjU_ZFRpLoL3c3kqZ7A	4.0	Madison	[Active Life, Mini Golf, Golf	28
+13006	dU9Gd_6-JZnybiH7dDMs_g	4.0	Madison	[Local Services, Printing Services, Shopping, Office Equipment	6
+13007	ivcHi0dN3bHVCf43-fqtzg	4.5	Madison	[Active Life, Gymnastics	4
+13009	Ihd6mI4cfXzIwcMSXZnhnA	3.5	Madison	[Pubs, Bars, American (New), Nightlife, Restaurants	28
+13010	lDN6NwNX9uDUZWt53yeDrg	5.0	Madison	[Arts & Crafts, Shopping, Home Services, Building Supplies	4
+13012	yR_oVVP2cOeDpu5WrlpquA	4.0	Madison	[Bars, Country Clubs, Arts & Entertainment, Dive Bars, Burgers, Nightlife, Restaurants	19
+13013	cFgkwdZqSFSHwvhCss8hbQ	3.5	Madison	[Hair Salons, Barbers, Beauty & Spas	9
+13014	1vXBMPl0It4jzUWBM-lJgA	3.0	Madison	[Breakfast & Brunch, Restaurants	22
+13015	ZusZ0l8gBpLvvYcTkuvRgw	2.5	Madison	[Bars, American (Traditional), Nightlife, Steakhouses, Sports Bars, Restaurants	16
+13016	oZaCeojhVeBMvcjk_bFDag	4.0	Madison	[Supper Clubs, Bars, Fish & Chips, Nightlife, Restaurants	10
+13017	EmYrg9eZoT0zoJfrcjV8Tw	3.5	Madison	[Food, Grocery	8
+13018	Nhv1SqQ9EDufBtwovJi2BA	4.0	Madison	[Local Services, Dry Cleaning & Laundry	9
+13019	TzVOQi5IsSVBpiaLJKob0A	5.0	Madison	[Auto Repair, Automotive	8
+13020	52sPwAsTpCFjbeuqJ6yt7A	3.5	Madison	[Home Services, Contractors	3
+13021	SN30ZyqM2mE1bW0Qhqnyjw	3.5	Madison	[Auto Repair, Oil Change Stations, Wheel & Rim Repair, Automotive	4
+13022	GiSp4eUXWQQjx-XDs-A0Wg	3.0	Madison	[Books, Mags, Music & Video, Shopping	10
+13023	2xRvgHdrm4X3myIFdp9Wew	2.5	Madison	[Pizza, Restaurants	9
+13024	3Jq5cde5lN9tLPrrOUAEFw	4.0	Madison	[Delis, Italian, Pizza, Restaurants	54
+13025	n2g9BkP_Wrcsv_x_CenwzA	4.0	Madison	[Department Stores, Fashion, Shopping	9
+13026	BywnwBmTMHrChhyJZtmI_A	4.0	Madison	[Chinese, Restaurants	13
+13030	v2CmJCwir4AyYJiuVlzIgg	5.0	Madison	[Arts & Crafts, Shopping	4
+13031	AuYLVZXmL0kw15E2MCDM3Q	4.5	Madison	[Dive Bars, Jazz & Blues, Arts & Entertainment, Nightlife, Bars	44
+13033	c2ZluDaHbes0-ZgvZyurBw	3.5	Madison	[Chinese, Restaurants	27
+13035	0zaZp4Kqar6P4iG0ZfuftQ	4.5	Madison	[Seafood, Restaurants	26
+13037	xYpgYf79bzT4z3YaakfQDA	3.5	Madison	[Active Life, Tennis	3
+13038	y7740AzeH-wrSNfCIdgO_w	4.5	Madison	[Skin Care, Nail Salons, Massage, Beauty & Spas	8
+13039	lnQu_tYVEzyPtjJTQWyBAw	4.0	Madison	[Discount Store, Shopping	3
+13040	3ZQmCHGtK6JNHlxaCeOx7g	3.5	Madison	[Nightlife, Bars, American (New), Sports Bars, Restaurants	63
+13042	REvqKe3tr77Tgxot1vhfBg	2.0	Madison	[Hardware Stores, Shopping, Home & Garden	5
+13045	hzplsnl4j4ygX6kVZdwrog	3.5	Madison	[Automotive, Auto Parts & Supplies	5
+13046	jKHUC5jxtDzzaasC8RgV8A	4.5	Madison	[Sporting Goods, Shopping	5
+13048	LxqgbNnmfSu-SeB366EaPw	2.0	Madison	[Shopping, Home Services, Arts & Crafts, Interior Design, Home & Garden, Art Supplies, Furniture Stores	3
+13049	ARO2J7qfxHnBpzngelVh3g	2.5	Madison	[Shopping, Eyewear & Opticians	3
+13050	ivTX3Aeo7KH2KTZpNompkA	3.0	Madison	[Local Services, Computers, Shopping, Printing Services, Office Equipment	5
+13051	fh5Ym2b5Va4u-Ajkyhy0Hw	3.5	Madison	[Food, Bagels, Breakfast & Brunch, Restaurants	8
+13052	IoWXpj8WFNNu47rKpPb-Og	3.5	Madison	[Mexican, Restaurants	68
+13054	UG8_qBLDftCK0ht3KdFkGQ	3.5	Madison	[Used, Vintage & Consignment, Fashion, Shopping	12
+13055	a9lJ_yFa3JO2rfDTlabSiw	4.0	Madison	[Beauty & Spas, Nail Salons	11
+13056	-fb1ovMqX0jCfgVOKLWD1Q	2.5	Madison	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas	4
+13057	TjjsCGcgCiSe6XM58i0cyw	3.0	Madison	[Sporting Goods, Bikes, Shopping	7
+13058	1s5nBRc-6BqFT_1-ZaVVug	4.0	Madison	[Cajun/Creole, Restaurants	81
+13060	JPCwC9IAWCgJLEGI4tSMdg	1.5	Madison	[Shopping Centers, Shopping	7
+13063	REYG0JxTWeM-zIbBKVEy1w	3.5	Madison	[Musical Instruments & Teachers, Shopping	3
+13064	YILwr2n06ZPhQYw0W0T8Rw	4.0	Madison	[Colleges & Universities, Education	4
+13071	LHvAln51CTzJffGJrHTDoQ	3.5	Madison	[Bars, American (Traditional), Nightlife, Lounges, Restaurants	7
+13072	PXCtidoEFAg4M8US9ZVMng	4.0	Madison	[Plumbing, Water Heater Installation/Repair, Home Services, Heating & Air Conditioning/HVAC	4
+13074	zL5n_isjIyB63Nlys1mBkg	3.5	Madison	[Real Estate Services, Home Services, Real Estate	5
+13077	ABbK1bVL9hMDNy6iG5rXiQ	2.5	Madison	[Automotive, Body Shops	12
+13078	2WxwgDMKm8XW6grbuMsDwg	2.5	Madison	[Pizza, Restaurants	13
+13079	t3Q79Fkxu8NTBlQVVCk1cA	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	94
+13080	ALE6n4ec-_JvopWx5de7PA	1.0	Madison	[Burgers, Fast Food, Restaurants	7
+13081	WERUCpgQ6bwyMI27uUTHjA	2.5	Madison	[Bars, American (Traditional), Nightlife, Restaurants, Sports Bars, Diners	34
+13082	wHS0hwstJrtnrXsWSuRQOg	3.5	Madison	[Local Services, Dry Cleaning & Laundry	7
+13083	WsgcDmTPfRNGos90P_t4Kg	2.5	Madison	[American (Traditional), Cafes, Restaurants	24
+13084	5w-qVzxUOGEajm9eH3gEkA	4.0	Madison	[Breakfast & Brunch, American (New), Restaurants	22
+13085	LaDMVEqZHyzJRjwx6i2w9g	3.5	Madison	[Fast Food, Mexican, Tex-Mex, Restaurants	4
+13086	MmpHE18veUOJKK3OGrfEGA	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	12
+13087	M_3doaDZA1KCpB6ouB6TWw	4.5	Madison	[Bars, American (Traditional), Dive Bars, Nightlife, Restaurants, Fish & Chips	8
+13088	aBr_8c1LJpDj-zk3_XacoQ	4.5	Madison	[Plumbing, Fire Protection Services, Home Services	7
+13089	t7rdgYV5ttvEXHw7wBUEnA	5.0	Madison	[Event Planning & Services, Caterers	8
+13090	pHxgejKktOx2pnArfdZwbw	4.5	Madison	[Bars, Nightlife, Lounges	3
+13091	YzoKsPgUSD7GBzNAjsfgRA	2.0	Madison	[Cabinetry, Flooring, Home Services, Carpeting	4
+13092	YulqCqk7GvX-iutkYTd-0Q	4.5	Madison	[Automotive, Auto Parts & Supplies	4
+13093	zS5Kjfpa64pR2cJymsHttw	4.0	Madison	[Hot Tub & Pool, Shopping, Home & Garden	3
+13094	PqbghB7yoOaxRgHXxTWfAg	4.5	Madison	[Food, Grocery	25
+13095	oJzdH5jOeHJrq4ukVUQ0uQ	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	17
+13096	h29KqgiReV9_Ga58aPjGqA	4.0	Madison	[Food, Grocery	14
+13097	GCeC3Qf1YmageCuNgaVpDA	4.0	Madison	[Libraries, Public Services & Government	3
+13098	k6WR9uJmwYyMdLgRZXYSGg	3.5	Madison	[Music Venues, Arts & Entertainment, Event Planning & Services, Venues & Event Spaces, Nightlife	5
+13099	H6CnqXqKqiAZQhW6nmBlGA	3.0	Madison	[American (Traditional), Venues & Event Spaces, Event Planning & Services, Bowling, Active Life, Restaurants	16
+13101	pGb32r9TP7mdr801igJYOA	2.0	Madison	[Shopping, Appliances & Repair, Home & Garden, Local Services, Electronics, Furniture Stores	12
+13102	M7NcaD07G9hM7hoQfcNDqA	2.5	Madison	[Shopping, Adult	5
+13104	pOqPZHdrJN9LfMZcLiz6tA	3.0	Madison	[Home Services, Garage Door Services	4
+13105	IMJeC9lLrUD8BM6gnPvSCw	4.0	Madison	[Pet Services, Pets	5
+13106	0UL_ZuWauXthShF2mb9iKw	3.5	Madison	[Pubs, Bars, American (Traditional), Nightlife, Restaurants	15
+13109	-OVQaFk91T5twcGjy75NNA	5.0	Madison	[Auto Repair, Automotive	10
+13110	Y2WSo7PpZ4sIw7rRFgGUIQ	4.0	Madison	[Home Cleaning, Home Services	6
+13112	ikbFzbxoBxxXGtAi6RJIiQ	3.5	Madison	[Automotive, Motorcycle Repair, Motorcycle Dealers	5
+13114	ji1pb4z0DC9v4koKhZapxw	4.5	Madison	[Movers, Home Services	6
+13115	nKwwdWcLWDyvEV_wtCDfew	4.0	Madison	[Veterinarians, Pets	4
+13116	XDSF7FG4XHH9hQ1Atnz23Q	3.0	Madison	[Movers, Home Services	19
+13118	udR__ymJC0QPOarPFxQlNA	3.5	Madison	[Bars, Gay Bars, Nightlife, Dance Clubs	9
+13120	or7RTcy30R45mzkJJMgJdQ	2.0	Madison	[Pets, Pet Stores	10
+13121	FtcehGdADcNqSi2KV1tTQw	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	19
+13122	NXvSn-78mqOK3mBJpVSLZA	2.5	Madison	[Shopping, Home & Garden, Furniture Stores	31
+13124	Urnid7YUwfMuoFAwYT7PFw	5.0	Madison	[Lighting Fixtures & Equipment, Home Services	3
+13125	5RXqAiQZkSxGvZFI1h20kw	4.0	Madison	[Shopping, Home & Garden, Antiques, Furniture Stores	5
+13126	r0ZYxiM57yUv8wM2Ce5PIA	3.0	Madison	[Auto Repair, Automotive, Tires, Oil Change Stations	7
+13127	mgdNiQffPfdw0aBagF_0bA	4.0	Madison	[Health & Medical, Hospitals	11
+13128	zaBxRSSUx9w8AlclYTaM9w	5.0	Madison	[Food, Ethnic Food, Grocery, Seafood Markets, Specialty Food	17
+13130	kIfBN_8lbCL_U4ZWme45ng	4.0	Madison	[Food, Specialty Food, Grocery, Seafood Markets	8
+13131	Yrt5ogp8-mcJrKpg879AeA	4.5	Madison	[Flowers & Gifts, Shopping, Florists	8
+13132	pk6qvheIWTX6d8Ndr8ejbg	3.5	Madison	[Local Services, Shipping Centers, Printing Services, Notaries	7
+13133	ik657BW7tdD0TL73VQYcXw	5.0	Madison	[Auto Repair, Automotive	8
+13134	uwQedgHu-r1cNQN1kz9bYg	3.5	Madison	[Food, Beer, Wine & Spirits	4
+13135	tHXoHR1XjNaxf_qT6qZKfw	3.5	Madison	[Food, Grocery	41
+13136	FGuHcNuM69jqDzoAY21XNw	3.5	Madison	[Local Services, Shoe Repair	11
+13137	vK5sub1Y993EtLHVtnt9Pg	3.0	Madison	[Pizza, Restaurants	42
+13138	b3ZOCcD_bU9Tfv21o9ThBQ	3.5	Madison	[Delis, Restaurants, Italian	25
+13139	rweHhCO0jb3MuiGMBCAOMg	3.0	Madison	[Italian, Pizza, Restaurants	19
+13140	xKy1DMGxI5VWrkyLqXV3yQ	5.0	Madison	[Auto Repair, Automotive	13
+13141	eKLPDFbIjgjZIMJyai1wwg	4.0	Madison	[Barbers, Beauty & Spas	12
+13142	QJI-AfNpU3d4QOdUg7MY7A	3.5	Madison	[Health & Medical, Dentists, General Dentistry	4
+13143	wPZCYnPkdHjGkN1_Zs0q4g	4.5	Madison	[Bakeries, Food, Flowers & Gifts, Gift Shops, Shopping	11
+13144	VJ8GN_gYG1og823wzzDlNQ	4.5	Madison	[Local Services, Shoe Repair	4
+13145	8XHad9b3D7Zynt5ZkrQK7w	3.0	Madison	[Bars, American (Traditional), Nightlife, Restaurants	55
+13146	IGSRMosqxLsl__B22dMDsQ	2.5	Madison	[Flowers & Gifts, Shopping, Florists	11
+13147	ozbJre3J477wZJ_69hw-qA	5.0	Madison	[Hardware Stores, Shopping, Home & Garden	7
+13148	N9Fhc21FV5AokjZm54TNYg	3.5	Madison	[Dive Bars, Bars, Nightlife	6
+13149	a5FttSCTWbAZmfkIkUENJw	3.0	Madison	[Burgers, Fast Food, Restaurants	14
+13150	CmCvsKSVNJwtiGggMw9Khw	4.5	Madison	[Bakeries, Food, Donuts	154
+13151	wYj6NDK3SNCHL0kFPKRKug	3.0	Madison	[Shopping, Jewelry	6
+13152	YCKOz3ja7i3nbavwdf6lWQ	4.0	Madison	[Restaurants, Pizza, Italian	137
+13153	sDztr8JurdXSFy48pfL5RA	4.0	Madison	[Arts & Crafts, Shopping	11
+13154	b1Rosp3eIyRKgSbr6Axg1Q	3.0	Madison	[Pizza, Restaurants	115
+13155	9mLTQ3K7FreunEE_QcqDJA	2.0	Madison	[Thai, Restaurants	3
+13156	a8UhvURurzrNwhXJBj8fzw	2.5	Madison	[Car Wash, Automotive, Auto Detailing	24
+13157	DB8DUwOP5KUmafPCN-RKEA	2.0	Madison	[Hotels & Travel, Taxis, Transportation	20
+13158	4UsqmhU5wCmt1VnNyVoI7Q	3.5	Madison	[Bars, American (Traditional), Nightlife, Restaurants	20
+13159	o7QEF204B1ACUp2bvwMuiQ	3.5	Madison	[Auto Repair, Automotive, Towing	3
+13160	JqFd6WfrCqDvvgPmfY5njw	3.0	Madison	[Chinese, Restaurants	52
+13161	ZdDgpzsj655q2XBUJ9inEQ	4.0	Madison	[Persian/Iranian, Restaurants	4
+13162	XY_vRB1QTqo86sGALFLjAw	3.0	Madison	[Buffets, Chinese, Restaurants	41
+13163	Rugkh68gnv43PHZjp5Bwtw	4.5	Madison	[Colleges & Universities, Education	21
+13164	Rz9pomCN5c-AUuDSZbV4PA	5.0	Madison	[Doctors, Hospitals, Health & Medical, Obstetricians & Gynecologists	8
+13165	g5FAsWG5zxs0lO-VfGUD1g	4.0	Madison	[Sandwiches, Restaurants	5
+13166	f393NrFKAIV-gqbp27LGfQ	4.0	Madison	[Food, Coffee & Tea	30
+13167	sywKS0egWKmb9vJr9a_zUA	3.5	Madison	[Indian, Restaurants	61
+13168	V5Jq0oT5DitHzmOIQO65yw	3.0	Madison	[Arts & Entertainment, Dance Clubs, Nightlife, Music Venues	4
+13169	OAXWfsklsATjpui2C8HilQ	3.0	Madison	[Caterers, Pizza, Event Planning & Services, Restaurants	26
+13170	K2BxGfj37me-kf__ey4GVQ	3.0	Madison	[Barbeque, Restaurants	50
+13171	iFd_GU21RrxyzL8eE0RQEQ	3.5	Madison	[Noodles, Restaurants	74
+13172	5JOVLm1SYfXPCO3OUZqVtg	3.5	Madison	[Bars, Karaoke, Nightlife	20
+13173	k0buiR7AyQ0PuoMM6YuRtA	4.0	Madison	[Specialty Schools, Education, Event Planning & Services, Venues & Event Spaces	10
+13174	WLYrwAPDP7h6Z8mavSTDvw	2.5	Madison	[Doctors, Health & Medical	4
+13175	-zxEyWr_W19N5Rvr-KDNlA	3.5	Madison	[Doctors, Health & Medical, Cardiologists	3
+13176	uLVxcapjrEBiEAJo0Om7gQ	2.5	Madison	[Libraries, Public Services & Government	6
+13177	wEObycryWb89BMjp5-QTwQ	2.0	Madison	[Allergists, Optometrists, Dermatologists, Health & Medical, Doctors	6
+13178	cvEtq-MZ7x-NON5mz4jZdg	3.5	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels	27
+13179	NG6A1dF_kEpvv7yCbDyOXw	3.0	Madison	[Italian, Steakhouses, Restaurants	4
+13180	tLyaM-S_iZZKCeo45AbDpw	3.5	Madison	[Soup, Sandwiches, Salad, Restaurants	19
+13181	h2IzpWxS1VR96D_vP_NOdA	3.0	Madison	[Pizza, Restaurants	36
+13182	Osj-65iYNCkbj0y0exOP3Q	4.0	Madison	[Books, Mags, Music & Video, Shopping, Bookstores	17
+13183	hygjBzyt7x4UAOwtKJh-vA	5.0	Madison	[Veterinarians, Pets	8
+13184	ql-SBU0Pds1gaTo9Ym8swQ	3.5	Madison	[Department Stores, Fashion, Shopping	15
+13185	hu-bN_hviJBJCir03tfWZA	3.5	Madison	[Shopping, Home & Garden	6
+13186	JoqEMWBfPFS6pLhBxPyENQ	2.5	Madison	[Noodles, Restaurants	28
+13187	_5tKO0-1dAiUUn8nDBYt9Q	2.5	Madison	[Party Supplies, Arts & Crafts, Shopping, Event Planning & Services, Costumes	3
+13188	ZP761-os3_PHEaNohcz_7A	2.5	Madison	[Steakhouses, Restaurants	34
+13189	_xeigHhwNOB6N1if3lQO3w	3.0	Madison	[Bars, Salad, Wine Bars, Nightlife, Italian, Restaurants	41
+13190	zBq9sxQ1lfhqufowqt35yw	4.5	Madison	[Chinese, Restaurants	3
+13191	1qz8Ws6tEu04X632x08pzg	2.5	Madison	[Pizza, Restaurants	17
+13192	hi193MeeL_rMEh_JF_g_uw	2.5	Madison	[Womens Clothing, Fashion, Shopping	3
+13193	ERFoZinwdmyN9ZoAL8-1Hw	2.5	Madison	[Doctors, Health & Medical	4
+13194	rnuJIxhGzwkGGY-X4wYOhQ	3.0	Madison	[Food, Grocery	6
+13195	fsn139vIDwz7a6TKOuc3cw	3.5	Madison	[Active Life, Gymnastics	7
+13196	D71QSaNEuvnh6OQLseRMZg	2.5	Madison	[Bakeries, Food, Delis, Restaurants	5
+13197	fLX-zTknkBKHnONEx7qIdA	3.5	Madison	[Active Life, Gyms, Trainers, Fitness & Instruction	4
+13198	jOt2dDDvOJrvHMUPNgqyVA	3.5	Madison	[Chinese, Restaurants	12
+13199	s3MpNIkdbkFOfJ29W8PFmA	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	18
+13200	ktlq6DjqmRCos9FN2dfQVQ	2.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	6
+13201	ITgHcPGmiGBochqwNdVhVQ	3.0	Madison	[Mens Clothing, Fashion, Shopping, Formal Wear	16
+13202	sQ3xlXVOBL-cJQOCcLu4MA	4.0	Madison	[Beauty & Spas, Nail Salons	20
+13203	P5xrEmDbRS75BYOv3D64aA	4.5	Madison	[Shopping, Flowers & Gifts, Nurseries & Gardening, Florists, Home & Garden	3
+13204	8kjtI9PjoHMYn8w_BT3gTg	4.0	Madison	[Oral Surgeons, Health & Medical, Dentists, General Dentistry	4
+13205	Ff3T6bdHh7o8hFb7Bhkn7g	1.0	Madison	[Local Services, Dry Cleaning & Laundry	3
+13206	RGhrKwpovRj0Xp9qO6PcCA	3.0	Madison	[Womens Clothing, Fashion, Shopping, Accessories, Outlet Stores	5
+13207	tzoG3PygQtg_aiHyEQjpxQ	2.5	Madison	[Health & Medical, Periodontists, Dentists, Orthodontists, Cosmetic Dentists	3
+13208	p-M9_xIqI4v6gSUaPr7W3g	2.5	Madison	[Optometrists, Health & Medical	3
+13210	FDTwiSW2IUJVJCeS3Jv3eQ	2.0	Madison	[Department Stores, Fashion, Shopping	5
+13211	2f6Yl56vp1cbMwZdKBJ6pg	2.5	Madison	[Department Stores, Health & Medical, Fashion, Shopping, Optometrists	3
+13212	jX2ibRfoHT-lw0Q5_xBzsA	4.5	Madison	[Bakeries, Food, Gluten-Free, Restaurants	24
+13213	by3KLTDO4WH-WiISERWRxQ	2.5	Madison	[Auto Repair, Automotive	13
+13214	sH51uts7AIRB_iUPrQGbkw	5.0	Madison	[Pediatric Dentists, Health & Medical, Dentists	3
+13215	oUxY7X9MCqd_wrZgfV4GNQ	3.0	Madison	[American (Traditional), Pizza, Gluten-Free, Restaurants	31
+13216	vPvo-JCzeM_i4evGbE_vTg	5.0	Madison	[Arts & Entertainment, Art Galleries, Shopping	3
+13217	fc7QD3p7hOyewBFNOvTdOg	2.5	Madison	[Italian, Pizza, Chicken Wings, Restaurants	15
+13218	R5uo6DzA8vGLIbatkt7vZQ	4.0	Madison	[Videos & Video Game Rental, Books, Mags, Music & Video, Shopping, Bookstores	7
+13219	xG7wiKZC0Yu_ZpZtnLC91Q	3.0	Madison	[American (Traditional), Tex-Mex, Restaurants	21
+13220	-GS_ZNY138B8weIpJLoRmA	1.0	Madison	[Shopping, Home & Garden, Furniture Stores	4
+13221	M90CZuQrJdaLLlluL0TqAw	4.0	Madison	[Local Services, Home Cleaning, Window Washing, Dry Cleaning & Laundry, Home Services	3
+13222	ZsRokIPEQ9t7qob68L5vlQ	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	9
+13223	DeaPJJsg4i4uITiYQkvyqg	3.5	Madison	[Shopping, Home Services, Building Supplies, Home & Garden, Hardware Stores, Pet Stores, Pets	20
+13224	hDdre8uLDKF-GyPE7me8Vw	4.0	Madison	[Auto Repair, Automotive, Body Shops, Auto Glass Services	10
+13225	lesm5dewWD9yv0tpMPhu_g	2.0	Madison	[Department Stores, Grocery, Fashion, Shopping, Food, Mobile Phones	17
+13226	mbUd7YxdLQfMVeeK6SULRQ	4.5	Madison	[Local Services, Dry Cleaning & Laundry	14
+13227	2qk20hZsYefw8drFFdNaAw	2.5	Madison	[Public Services & Government	3
+13228	7l-FWHDt3bn0nU_xXyssCw	4.5	Madison	[Local Services, Musical Instrument Services, Piano Stores	4
+13230	I07CozN6VIjhTogeEq6dcQ	3.0	Madison	[Home Services, Contractors	7
+13231	o_sZxHSWl3LW6kABmQulWg	3.5	Madison	[Plumbing, Home Services	6
+13232	NeRjPW16feUHOcDJqexUEA	3.5	Madison	[Auto Repair, Automotive	6
+13234	6LNptbDHEKFDOpiJ7f-QYQ	3.0	Madison	[Burgers, Fast Food, Restaurants	9
+13236	6veME2D8jNfyX-_YQJkJVw	4.5	Madison	[Tires, Automotive, Wheel & Rim Repair, Auto Repair	11
+13237	Z7zTB4SCOO5c6ZtR5rxsfQ	2.5	Madison	[Auto Repair, Oil Change Stations, Automotive	5
+13238	kJMUMpRfGMZUhjzoz-YvmQ	2.0	Madison	[Fast Food, Sandwiches, Restaurants	5
+13239	0NeDVUK7wtKDZ3OvgB0I9A	2.0	Madison	[Department Stores, Grocery, Fashion, Shopping, Food, Electronics	8
+13241	tLRXIk4exmTclgKJfNSlGA	4.0	Madison	[Thai, Restaurants	66
+13242	D8x41ntd9r-2vksuFg1dPg	4.0	Madison	[Shopping, Landscaping, Nurseries & Gardening, Home Services, Home & Garden	5
+13243	9q53nI98Zm_Y9sF7aBS3XQ	4.5	Madison	[Oral Surgeons, Health & Medical, Dentists, General Dentistry	5
+13244	8WoT1ANS_UaPbd6MgVIfjw	5.0	Madison	[Home Services, Garage Door Services	4
+13245	JMhZzPBxAgAx3cce0SoE1Q	4.5	Madison	[Art Supplies, Shopping, Arts & Crafts	5
+13246	dO84oZ6TtSU0zJO7zm2aug	5.0	Madison	[Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	5
+13247	jJsjo7PC2GRPQveAtw317g	3.5	Madison	[Shopping, Jewelry	7
+13248	UjhiTN9qJAEo2duSOXiYoQ	4.5	Madison	[Active Life, Gyms, Trainers, Fitness & Instruction	9
+13250	JLRKM_B7zBNTQnmP_IypeQ	4.0	Madison	[Pediatric Dentists, Health & Medical, Dentists, Orthodontists, Cosmetic Dentists	4
+13251	zCm-stt_czGayumPwlzn2w	2.5	Madison	[Fast Food, Restaurants	7
+13252	aoVBfrELrShGVrY3750jCA	5.0	Madison	[Auto Repair, Automotive	6
+13253	DBWQd4ImpWwWusHfXl4irA	1.5	Madison	[Elementary Schools, Trainers, Fitness & Instruction, Active Life, Education, Preschools	5
+13254	drqf5VHj2RH-AXki4wIWJQ	2.5	Madison	[Food, Ice Cream & Frozen Yogurt, Restaurants	4
+13255	o82lAY-adYznv9Cb52xEcw	2.0	Madison	[Used, Vintage & Consignment, Fashion, Shopping	25
+13256	nkzV9qC4KP9w6gmf_wG0UQ	4.5	Madison	[Home Services, Home Inspectors	8
+13258	xjCxFHReoW-BWML5BjVT3Q	5.0	Madison	[Arts & Crafts, Arts & Entertainment, Art Galleries, Shopping, Framing	7
+13260	dT38fkQhb3l9JJgNhlkhfg	5.0	Madison	[Mattresses, Shopping, Home & Garden	10
+13261	_nXuHlyXaDyKbCXresxvdg	4.5	Madison	[Home Services, Real Estate, Apartments	3
+13262	nwK7JruT3p9cBZIFfOO-Lw	5.0	Madison	[Shopping, Toy Stores	3
+13263	NJEg98cpn8GeUkxBAh-iYQ	4.0	Madison	[Veterinarians, Pets	8
+13265	8sYsE-RIvdubisaa69PxiA	3.0	Madison	[Mexican, Restaurants	47
+13266	OLyWEeR8btxP9ijvKkuVmA	5.0	Madison	[Shopping, Appliances & Repair, Arts & Crafts, Home & Garden, Local Services, Appliances	7
+13270	T0my8-bJcy_h4MOTuau4AQ	4.0	Madison	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas	5
+13271	evmYSQQ8jVkQL6mcJj6xOg	1.5	Madison	[Shopping, Mobile Phones	3
+13272	M6x-UZlloCE0W62_QjkbCw	2.0	Madison	[Beauty & Spas, Nail Salons	10
+13273	GeLUSRVqE5_EY-TvYH9JnQ	1.5	Madison	[Fast Food, Mexican, Tex-Mex, Restaurants	18
+13274	1HbKFWG5QKzYkuNxig6H7w	4.0	Madison	[Vietnamese, Noodles, Restaurants	253
+13275	TaaTA2MB4NaYVZbcow4zDQ	3.5	Madison	[Hair Salons, Day Spas, Nail Salons, Beauty & Spas	16
+13276	_BixD7yelciWJchKldbKkQ	1.5	Madison	[Shopping, Toy Stores	7
+13278	kCTrdyO4zVdfVE16uh6PhQ	4.5	Madison	[Auto Repair, Automotive	17
+13279	ghB8dBRz8VfB9hrVigFWZQ	4.5	Madison	[Barbers, Beauty & Spas	7
+13280	cgjHJZpdZ4KLI5hP9hb3Ng	2.5	Madison	[Local Services, Computers, Shopping, IT Services & Computer Repair	27
+13281	PFLFWLHtIkZsTwxVDdj4SA	2.5	Madison	[Auto Repair, Automotive, Tires, Oil Change Stations	11
+13282	N-NIiQWzqijSjbjdeU316Q	3.0	Madison	[Shopping, Optometrists, Health & Medical, Eyewear & Opticians	6
+13283	pVbEQv1TNgLuGcG_895K1g	3.5	Madison	[Tires, Automotive	13
+13284	JlvNACJVl7irjkosXgwhIw	1.5	Madison	[Arts & Entertainment, Pizza, Arcades, Restaurants	11
+13285	8j5fks9FJvMeqPqwLDUX1A	2.5	Madison	[Optometrists, Health & Medical, Shopping, Eyewear & Opticians	12
+13286	kTMB9_Le46vyx5lIGEXhng	2.5	Madison	[Food, Coffee & Tea	8
+13287	fk8ZVg1xQqmr0venv2spqw	3.0	Madison	[Food, Coffee & Tea	25
+13288	qhwB94T_uMI10QG9vR5pZg	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	29
+13289	0ZcJhkUVGmBKEJJWwMK41w	3.5	Madison	[Bars, American (New), Nightlife, Restaurants	8
+13290	KI0J9tjBwtMrHhkiV28W3A	2.5	Madison	[Flooring, Home Services, Carpeting	3
+13291	y-fM_ccmrCxoTDUwNJbD9Q	5.0	Madison	[Automotive, Truck Rental	4
+13292	eB9lTbMK0K7KTkfZ_IxnEg	3.5	Madison	[Shopping, Photography Stores & Services	16
+13293	0ABuQK-TA7hd1u_QNBVbZA	4.0	Madison	[Arts & Entertainment, Cinema	18
+13294	1LiX7sIDpfHpRoCu8zWEBw	3.5	Madison	[Shopping Centers, Shopping	27
+13295	O2PZaekw1IFz-UN7IQq_0Q	4.5	Madison	[Womens Clothing, Fashion, Shopping, Accessories	3
+13296	dZV_ZHwAUkrxZK5KEtTeyw	2.5	Madison	[Shopping, Jewelry	3
+13297	cd5bMHS4w56rLfjcLGTobg	4.0	Madison	[Indian, Restaurants	141
+13298	oqAQ812E75Ie1i_Ov3sgNw	3.0	Madison	[Hotels & Travel, Car Rental	4
+13299	JuMxHFuKYx5IO14CBeRVsg	3.5	Madison	[Hair Salons, Beauty & Spas	6
+13300	voqtmU6avZef-05Ty1eDEw	2.5	Madison	[Beauty & Spas, Gyms, Trainers, Fitness & Instruction, Active Life, Massage	27
+13301	WtQQv6-NAeTn5j476X0SGQ	4.0	Madison	[Banks & Credit Unions, Financial Services	4
+13302	zK4R5ChJ-1NoKOLvhvEbDQ	4.5	Madison	[Auto Repair, Automotive	6
+13303	EIyak9L4OeDk6G7_6gV6yQ	4.5	Madison	[Food, Specialty Food, Specialty Schools, Education, Cooking Schools	10
+13304	0v5uVSevADLPwkemcIUfSA	3.5	Madison	[Home Services, Real Estate, Apartments	4
+13305	C2DIoHBB6xyTyb_PZ69rDA	3.5	Madison	[Womens Clothing, Mens Clothing, Fashion, Shopping	3
+13306	Fik8yq-66Gfe0AHw8DvoSw	3.5	Madison	[Chinese, Restaurants	16
+13307	o6ElCp3Wy5H_bhf2WHEmsQ	4.5	Madison	[Shopping, Home Services, Battery Stores, Mobile Phone Repair, Local Services, Lighting Fixtures & Equipment, IT Services & Computer Repair	3
+13308	zra9deZ8qgR7zeVtMRIfDA	3.0	Madison	[Womens Clothing, Mens Clothing, Fashion, Shopping	5
+13309	MYcnL_YBBqbUDBv_avrNsw	3.5	Madison	[Shopping, Office Equipment	4
+13310	rwzhL0ZumcsaBIgNXq2QCw	5.0	Madison	[Food, Specialty Food, Candy Stores, Chocolatiers & Shops	4
+13311	9XDzxvCvyQcG6R_hE9olGQ	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	14
+13312	981Ygo5EUHR7dnFlLHGPuA	3.5	Madison	[Womens Clothing, Mens Clothing, Fashion, Shopping, Shoe Stores	3
+13313	xIiZ6ZXPnDscMxAk9ggxMQ	5.0	Madison	[Barbers, Beauty & Spas	9
+13314	gyfXtFsbMkwlzHTgOYiqQg	3.5	Madison	[Local Services, Shoe Repair	32
+13315	gn-4Bqp8KJPOnAD2Z3VbDA	2.5	Madison	[Tires, Automotive	9
+13316	8REGSaP_BKW1_rCQxY3G4Q	2.5	Madison	[Chinese, Restaurants	11
+13317	H7tw19v9LaUtfqMCECfIzA	2.5	Madison	[Burgers, Fast Food, Restaurants	8
+13318	p49LHFXVbw-AbQ9bBdyPfw	4.5	Madison	[Food, Beer, Wine & Spirits	6
+13319	1S8UbFUI-MhrS_KWGld-pg	4.0	Madison	[Bridal, Shopping, Event Planning & Services, Party & Event Planning	56
+13320	BPAB-qdSj7urRBl-uv2UWA	2.5	Madison	[Pet Services, Pet Groomers, Pet Training, Pet Stores, Pets	11
+13321	h5_W6IBTVySDkJHy8oZUdQ	2.5	Madison	[Local Services, Automotive, Truck Rental, Self Storage	7
+13322	gqtuCbwYOSjKQQ6rSUQEzw	3.5	Madison	[Food, Ice Cream & Frozen Yogurt, Coffee & Tea, Juice Bars & Smoothies	18
+13323	qbi1Q6LFOm7HTqF2L2Ws5A	2.0	Madison	[Lingerie, Shopping, Fashion	5
+13324	m4dsORRhBW_AxSEh_EXrSg	3.5	Madison	[Bars, American (Traditional), Nightlife, Bowling, Active Life, Sports Bars, Restaurants	19
+13325	lIZIzyPMiI76KD-oYTAo-A	3.5	Madison	[Steakhouses, Restaurants	48
+13326	8p6_bY2MjsWULZkiHzd8OA	2.0	Madison	[Local Services, Shipping Centers, Printing Services, Notaries	7
+13327	0lslsYnEVGDtXiM9V2GxWg	2.5	Madison	[American (New), Restaurants	56
+13328	kfYnngcxyboDx8I5JTri7w	4.5	Madison	[Food, Ice Cream & Frozen Yogurt	7
+13329	YXWgg3j2mhSUW07AY4Pj0w	4.0	Madison	[Active Life, Sporting Goods, Bikes, Shopping, Bike Rentals	6
+13330	PwoprUYCL7q-Qf42Vo6K7g	4.0	Madison	[Japanese, Restaurants	11
+13331	VNTVqBjjzg2ooKMyazd_sQ	4.0	Madison	[Active Life, Arts & Entertainment, Laser Tag, Arcades	16
+13332	XZP1kK1-j4UxQ2KCuww9GA	2.5	Madison	[Mexican, Restaurants	23
+13333	UkRPebb_86NTjw6yDq2Juw	2.0	Madison	[Car Wash, Automotive	26
+13334	KXD-zUSon4YGZUbiRPuiOg	4.0	Madison	[Womens Clothing, Department Stores, Fashion, Shopping, Mens Clothing	6
+13335	j4Khzlm0PzW344W1MgSzIw	1.5	Madison	[Home Cleaning, Home Services	7
+13336	BfbselK2SaPRzAUHrGcC1A	2.5	Madison	[Food, Specialty Food, Kitchen & Bath, Shopping, Home & Garden	3
+13337	JyCWSJ81-AJf1DQGZXnzUQ	2.5	Madison	[Department Stores, Fashion, Shopping	7
+13338	ff6SbJPxZLTFf74O1JXRBA	3.5	Madison	[Active Life, Bowling	16
+13341	_xssBWvthbdPh2KdAaAJSw	3.0	Madison	[Pizza, Restaurants	26
+13342	zOSlt2_wFiV4NPQ6vMtIUg	5.0	Madison	[Health & Medical, Dentists, General Dentistry	3
+13343	wXPOQ5LWcVc8U9e2mZ7HtQ	2.5	Madison	[Hair Salons, Beauty & Spas	5
+13344	lbsXdPS87AOWpEgOYFQlFg	2.5	Madison	[Fast Food, Sandwiches, Restaurants	6
+13345	egZ8KMNJMczzjvQCnh05VA	4.5	Madison	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply	3
+13346	F3Lzg82TAexZhKO_RPQaWw	2.0	Madison	[Pizza, Restaurants	6
+13347	h5kTxXkNr2ZS6m6X9T73pA	4.5	Madison	[Food, Coffee & Tea	3
+13348	MDIjfewJQr8YvEDDLeiGsw	2.5	Madison	[Restaurants	18
+13349	6aT-Sx-wa12KuKyelxNzAg	2.5	Madison	[Department Stores, Fashion, Shopping	4
+13350	BOrRXNltV5CblgxOF1yXWg	1.0	Madison	[Sporting Goods, Shopping	3
+13351	aIqSnZtx16px9GMWD-kW7Q	1.5	Madison	[Financial Services, Insurance	4
+20011	TypkaxMUTthOfl_Btj5X1A	4.0	Madison	[Pizza, Restaurants	157
+20012	KQGuS3oqSsb8qMlGQnRIvA	2.5	Madison	[Car Stereo Installation, Shopping, Automotive, Computers, Local Services, IT Services & Computer Repair	24
+20013	HpSBHeixIP2YxLy4L1f-HA	3.0	Madison	[Food, Ice Cream & Frozen Yogurt, Delis, American (Traditional), Restaurants	195
+20015	t7B85p8vXnDVqewsJJuxfw	4.5	Madison	[Arts & Entertainment, Bars, Nightlife, Music Venues	63
+20016	483YdaCOad1RD5GVvCaaKw	4.5	Madison	[Hair Salons, Barbers, Hair Removal, Beauty & Spas	14
+20091	3nwskbfFgsSjVe6T8keTeg	4.5	Madison	[Laotian, Restaurants	234
+20092	RgBq9TFI8q6-vCvF6wOMVg	4.0	Madison	[Bars, Nightlife, Lounges	117
+20093	aCMhR8XTu-f8GgMHYl0ipA	4.5	Madison	[Bakeries, Food, Breakfast & Brunch, Restaurants	177
+20094	Z3qmQ6N4VEudR45exSHrTg	4.0	Madison	[Pubs, Bars, American (New), Nightlife, Restaurants	159
+20095	-lM-2nuo2PWM_VbG6h1g1Q	4.0	Madison	[Asian Fusion, Japanese, Restaurants	28
+20096	EH7sT3dV-B365RETWCQhIA	4.0	Madison	[Burgers, Vegetarian, Vegan, Restaurants	357
+20097	5d81GQoFfZ2xnv0vLcM82w	4.5	Madison	[Landmarks & Historical Buildings, Public Services & Government	18
+20098	6dYVigClLIUpvsg7hsghJA	3.0	Madison	[Dive Bars, Bars, Nightlife	21
+20099	RHZcJuvnYxiLOkoiE1aTcQ	3.5	Madison	[Pubs, Irish, Nightlife, Bars, Restaurants	194
+20100	pllyLRTz3UgZD3xZ0afknA	3.5	Madison	[Arts & Entertainment, Nightlife, Music Venues	44
+20101	FFox_Hm1gZGvlRxlQsxaLw	4.0	Madison	[Food, Beer, Wine & Spirits, Grocery, Delis, Restaurants	30
+20102	vw11jqwr8H-b0uNFNJfUxQ	4.0	Madison	[Bars, Music Venues, Arts & Entertainment, Wine Bars, Nightlife, Restaurants	29
+20103	PrgdIc0zK9nc8jo8I18x8A	3.5	Madison	[Burgers, Bars, American (New), Nightlife, Restaurants	43
+20104	gTsg3Nj8pKvsmVz3dbLfiA	3.5	Madison	[German, Bars, Nightlife, Restaurants	169
+20105	hO91yFmQKGV5l0OHUyRmeg	4.0	Madison	[Pubs, Burgers, Bars, Nightlife, Restaurants	59
+20106	N08cWNaWWYIncaiYjCJJKQ	4.0	Madison	[Active Life, Yoga, Gyms, Trainers, Fitness & Instruction	40
+20107	3x_CqRwRgiHczkqPGAwacA	4.0	Madison	[Bars, American (New), Nightlife, Restaurants	21
+20108	TWtdZw-QCgG71af01hAU4w	3.5	Madison	[Bars, American (New), Nightlife, Lounges, Restaurants	83
+20109	EbhnT9RcTyyGNBp1s2NQZQ	3.5	Madison	[Bars, American (New), Nightlife, Restaurants	182
+20110	NITVSI02lVfCujdwKw-w4Q	2.5	Madison	[Diners, Restaurants	15
+20111	N8Q2s-Snz2vL79zB3rEEug	4.0	Madison	[Burgers, American (New), Restaurants	399
+20112	OLV_KmtKkIcxs3QJIXk6gA	3.0	Madison	[Mexican, Restaurants	26
+20113	3SnqTPne49E5XSYv7BvYUw	4.0	Madison	[Bakeries, Food, Breakfast & Brunch, Cafes, Restaurants	206
+20114	647UMi4gd2TQZjyVICztkw	2.5	Madison	[Food, Coffee & Tea	3
+20115	qsBet6HtxE0x41cUYl8vgQ	2.5	Madison	[Nightlife, Bars, American (New), Sports Bars, Restaurants	25
+20116	vGCetjJwnPU5bqoNxFM3sw	4.0	Madison	[Tapas/Small Plates, Bars, Nightlife, Lounges, Restaurants	73
+20117	A5ECBI0p_9mZ46Y5J3cjsg	3.5	Madison	[Food, Coffee & Tea, Fast Food, Restaurants	32
+20118	Cq4prPqm0KFrCf_wI8Pufw	3.5	Madison	[Food, Beer, Wine & Spirits, Grocery	80
+20119	MIP-qZ2VW2QlMonxe76k3Q	2.0	Madison	[Local Services, Automotive, Truck Rental, Self Storage	13
+20120	nHGbn1rhdyjQC20aagiTlQ	3.0	Madison	[Active Life, Sporting Goods, Bikes, Shopping, Bike Rentals	19
+20121	m7A3dirXL7hki-N_3ljCXw	3.5	Madison	[Soul Food, American (Traditional), Southern, Restaurants	7
+20122	OdetLT5gBDPneWZUfyf7_A	3.5	Madison	[Bars, Nightlife	63
+20123	PU0mSETFzjlHjPpvuG2L7Q	3.5	Madison	[Burgers, Bars, Nightlife, Lounges, Restaurants	38
+20124	EHCy0X05YTjSkohxWRwVkA	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	38
+20125	tHQEAEsW8RagML78cJk0AQ	4.5	Madison	[Colleges & Universities, Active Life, Education, Lakes, Local Flavor	192
+20126	r5vubOtIllL_hVZE9qXeFw	3.5	Madison	[Sandwiches, Restaurants	18
+20127	YdN00GJNgC5uY8tlwbzr0Q	4.0	Madison	[Dive Bars, Burgers, Bars, Nightlife, Restaurants	54
+20128	nNz_Apyi4yqO87hNae9aUQ	1.5	Madison	[Restaurants	6
+20129	WuFqL5uURZwfootmgAMCyA	4.0	Madison	[Breakfast & Brunch, Restaurants	232
+20130	jeVW4mtueMKmy-zIAosOmw	3.0	Madison	[Bars, American (Traditional), Burgers, Nightlife, Sports Bars, Restaurants	31
+20131	3xgqwzxZ0_tdcGSw27Q8vg	4.5	Madison	[Food, Cheese Shops, Delis, Restaurants, Specialty Food	3
+20133	f0gIqoBYj7GKOh6Icl8vAg	4.0	Madison	[Food, Ice Cream & Frozen Yogurt, Fast Food, Restaurants	38
+20134	ydMlE3QgKXymCmCF0Gjazg	2.5	Madison	[Dive Bars, Bars, Nightlife	16
+20135	r7E92DYxYlvX3IMO4Wu_ag	3.5	Madison	[Shopping, Sporting Goods, Bike Rentals, Local Services, Bikes, Active Life, Bike Repair/Maintenance	33
+20136	eMnFm6h_rzraY1OflB-npw	4.0	Madison	[Active Life, Zoos	105
+20137	o8tByeItJvauPe3ro4C-Jw	3.5	Madison	[Mexican, Restaurants	82
+20138	0NNw9CHm0X8LJBvmIJvBIA	4.5	Madison	[Bars, American (Traditional), Pubs, Nightlife, Sports Bars, Restaurants	69
+20139	y7GRFf2jsQxUwu1pw5kkXQ	3.0	Madison	[Japanese, Restaurants	74
+20140	u3330_sZNrfUbPGe22OypA	2.0	Madison	[Bars, Nightlife	12
+20141	b22A_zYXzA8uaqYbAhMBlQ	2.5	Madison	[Food, Grocery	7
+20142	M2Rc-mt6QjbWaIXzqY0Pew	2.0	Madison	[	3
+20143	W4cHF12due10J7xevvjvPw	3.0	Madison	[Thai, Vegetarian, Restaurants	87
+20144	BcSaNiXBsGaxdnZU096QTg	2.5	Madison	[Breakfast & Brunch, American (Traditional), Diners, Restaurants	17
+20145	qvFc9cdA_mx9XGksKrsQpQ	3.0	Madison	[Nightlife, Bars, Sports Bars, Restaurants	3
+20217	gTjmN2S00zbXSpH3HOZgVQ	3.5	Madison	[Bars, Arts & Entertainment, Nightlife, Music Venues	38
+20218	WhBxWYRj6rycigYqdXY9cA	4.0	Madison	[Bars, Food, Breweries, Pubs, Nightlife, American (New), Restaurants	590
+20220	HcYgayvViHr6GneVeeM0kg	3.5	Madison	[Pizza, Restaurants	93
+20221	xb9Ql2HYlQLHIzITj_4X7g	3.5	Madison	[Bars, American (Traditional), Nightlife, Pool Halls, Restaurants	41
+20222	lYtEUImN4UeqRiDblcbmkw	4.0	Madison	[Bars, Tapas/Small Plates, Wine Bars, Nightlife, American (New), Restaurants	211
+20223	myck1Tde_kSBGZWtS3IcHA	4.0	Madison	[Dim Sum, Bars, Chinese, Nightlife, Restaurants, Pizza	150
+20224	SkHb1w-oNPW1hHlzgLb9ew	3.0	Madison	[Burgers, Bars, American (Traditional), Nightlife, Restaurants	113
+20226	sGSmXubqAr6r3g8HWNJSjw	4.5	Madison	[Arts & Crafts, Shopping	3
+20227	akBR5CMRuiCqlPIdlS-eiQ	4.0	Madison	[Delis, Restaurants	10
+20243	FHqwLwpLjUjeLP-IdG_o_w	4.0	Madison	[American (Traditional), Restaurants	1184
+20244	fjaMSLUCjCFKdFgq5QiFkA	4.5	Madison	[Restaurants	25
+20250	LTH49EEOLJdpQt87K12Xgg	3.5	Madison	[Arts & Entertainment, Venues & Event Spaces, Nightlife, Music Venues, Event Planning & Services	50
+20253	o9yOVCn0XH-E-lGVvhR0SQ	4.0	Madison	[Food, Beer, Wine & Spirits, American (Traditional), Sandwiches, Restaurants	28
+20254	UAmh-XWQXxzmjDeBmkXpZQ	3.0	Madison	[Vegetarian, American (Traditional), Pizza, Restaurants	9
+20256	O9To0ksdjaVO_8yqmnUPaQ	4.5	Madison	[Food, Coffee & Tea, Restaurants	4
+20264	87D1pIZ2UDbYL9NdHBUtoQ	5.0	Madison	[Print Media, Mass Media	10
+20268	0PMsO7yf9VkOrIig6WCmdw	4.0	Madison	[Bakeries, Food	22
+20271	q0CxKqFVJwtQpIPfQcfrxg	3.5	Madison	[Restaurants	7
+20296	wZHi1uLUBz8aVhfF7MP6wQ	4.0	Madison	[Active Life, Beaches, Parks, Bike Rentals	10
+20298	nQK95GJD_KB-bc_g14bD9g	4.5	Madison	[Food, Coffee & Tea, American (New), Sandwiches, Restaurants	52
+20302	rINqiBnIgisJ1T21OePKtQ	4.0	Madison	[Soul Food, Restaurants	143
+20328	9vcPZJKD46IkBlFuU4Z-Dg	3.5	Madison	[Thai, Laotian, Restaurants	80
+20344	ygFtI71WLsC49NcuBuRrRg	4.5	Madison	[Food, Specialty Food, Fruits & Veggies, Farmers Market	239
+20350	Aio5aGXkf0aEeGCcSpWkRg	3.5	Madison	[Mexican, Tex-Mex, Restaurants	227
+20363	uEPywMEDKhmajrk41x8kZw	4.0	Madison	[Coffee & Tea, Shopping, Food, Art Galleries, Arts & Entertainment, Venues & Event Spaces, Event Planning & Services	9
+20371	aE0Wo8zNiFcxvlsNRgR0dw	3.5	Madison	[Food, Coffee & Tea, Vegan, Restaurants	69
+20387	exLaqeER1uY9kVfwfFxvKA	4.0	Madison	[Food, Coffee & Tea, Cafes, Sandwiches, Restaurants	55
+20467	bDqqbz8x5w8hWImc1WG4iw	4.5	Madison	[Mens Clothing, Fashion, Shopping	17
+20472	ppeTb_JfnAbO200zcTgNMw	4.0	Madison	[American (New), Restaurants	143
+20512	_jnCoIQ54mY-UpVZe5CwDQ	1.0	Madison	[Auto Repair, Oil Change Stations, Wheel & Rim Repair, Automotive	15
+20580	rXEGCpdboVwczMIDZuXXaA	4.0	Madison	[American (New), French, Restaurants	304
+20677	w7XfqsXO3ZEtoZs8_Q5QSw	4.0	Madison	[Pizza, Restaurants	6
+20678	7pYZPjPrxefAhnxIz2ImEA	4.0	Madison	[Arts & Entertainment, Cinema	58
+20691	ckliJ8meY4ZMF6aQUb8PYw	4.0	Madison	[Pizza, Restaurants	308
+20716	f4uVDIJvQ75JRZJ3vqfuIA	4.5	Madison	[Food, Specialty Food, Chocolatiers & Shops	55
+20729	z_WA9j09K3dbWIbXWSEwkQ	2.0	Madison	[Sandwiches, Restaurants	6
+20768	xgku6TQ_HzM-vZxaos6JWw	4.0	Madison	[Italian, Pizza, Restaurants	130
+20769	F92FlIAD1dyD7LObQeS3WQ	4.0	Madison	[Steakhouses, Restaurants	35
+20800	VULvBdiunj7HSycDBqmakw	4.0	Madison	[Restaurants, Italian	127
+20815	w2Z7GJjCYVL6JKJEQ9UgYw	3.0	Madison	[Chinese, Restaurants	59
+20818	lu6_ThA4Akt7yKf7SUyoKA	4.5	Madison	[Food, Beer, Wine & Spirits	13
+20836	7JneLiyOX-XI_vkWt7a4nw	3.0	Madison	[Hardware Stores, Shopping, Nurseries & Gardening, Appliances, Home & Garden	31
+20898	iH_M6BQkAPM7kz3_vJ79RQ	3.5	Madison	[Breakfast & Brunch, Restaurants	64
+20914	zubci5acSdGeNdi1VMgG2Q	3.5	Madison	[Food, Food Delivery Services	6
+20983	m892tIZECgluvVNsfcXjfQ	3.5	Madison	[Wine Bars, Bars, Steakhouses, Nightlife, Restaurants	94
+21159	V1EbOEcC-U3dI0l5ysAeiw	3.5	Madison	[Vegetarian, Restaurants, Sandwiches, Local Flavor, Italian	3
+21282	K8H3xHHqQU4ptS-KMU1Rpg	3.5	Madison	[Burgers, Bars, Nightlife, Sandwiches, Restaurants	33
+21295	EwxURzkF_rhj6cVP7lxPhQ	3.5	Madison	[Mexican, Restaurants	64
+21296	hJxzqajebKdt2mgiC2YNSQ	4.0	Madison	[Diners, Restaurants	50
+21322	cfmwTAy22bUUtf_zSy2svQ	4.0	Madison	[Local Services, Musical Instrument Services, Guitar Stores	11
+21352	hZ3DkjunIpZSUWiVAcjG3Q	4.0	Madison	[Delis, Sandwiches, Restaurants	4
+21372	ermmqHwPQKg9VqUFZx61xQ	3.5	Madison	[Cajun/Creole, Restaurants	7
+21414	V9Rha825Yz3VfMWjfgVR8w	3.0	Madison	[Soup, American (Traditional), Sandwiches, Restaurants	15
+21577	indOAgOrxvOzlKA0SW5sKw	3.5	Madison	[Auto Repair, Automotive, Car Dealers	22
+21579	SDNsfcWackoUtqsmuubvrw	3.5	Madison	[Food, Grocery	79
+21580	7AFuQq5FCu2WGZP1GUntdQ	4.0	Madison	[Food, Coffee & Tea	136
+21584	I6zcITvWhTC9v9Ovbnq0IQ	3.5	Madison	[Food, Bagels, Breakfast & Brunch, Delis, Restaurants	123
+21587	CgZG8x59kWo4-wVt5vHT4w	4.0	Madison	[Peruvian, Seafood, Latin American, Restaurants	162
+21626	Blv95aU63EQSMw7wH9xSQA	3.5	Madison	[Pakistani, Indian, Restaurants	164
+21668	-odkpokd88CBC5yKwe5RBw	3.0	Madison	[Restaurants, Italian	48
+21694	u6QHP2ogsqnQHnhwa6Q03Q	4.0	Madison	[Food, Gelato, Coffee & Tea, Cafes, Restaurants	59
+21712	E7suHPqErWxNpcKA9PCSHQ	3.5	Madison	[Thai, Restaurants	71
+21741	Wy57kItgi-LUbczoX1eO-A	2.5	Madison	[Womens Clothing, Mens Clothing, Fashion, Shopping, Accessories	3
+21742	e7Z4yONP3uZ4fXtYKtmoOg	2.5	Madison	[Post Offices, Public Services & Government	6
+21743	wqdoDHIAQhWLGQj4cMJ6ew	4.5	Madison	[Museums, Arts & Entertainment, Performing Arts, Event Planning & Services, Venues & Event Spaces	53
+21744	y-Bh0AI9SWv0XMaDCqjuMQ	4.5	Madison	[Active Life, Parks	7
+21746	lg1YA74CwLsclHRlZ1PLkw	4.5	Madison	[Fashion, Shopping, Jewelry, Home & Garden, Womens Clothing, Furniture Stores	9
+21748	D9H2EYJa9n7yDU013SVgvg	3.5	Madison	[Vegetarian, Mediterranean, Moroccan, Greek, Middle Eastern, Restaurants	8
+27152	icDyD_-bONBSgWlIUfuFZQ	4.0	Madison	[Shopping, Home & Garden, Furniture Stores	6
+27155	zeDcEyeIZX-Zzdqcbe61pg	3.5	Madison	[Sushi Bars, Japanese, Restaurants	75
+27175	3_rXUwW0s36FpQgvrj2O6Q	3.0	Madison	[Food, Coffee & Tea	21
+27196	f0Pu46xqZJnnuGuqnWOmOA	4.0	Madison	[Chinese, Restaurants	3
+27297	nGITQ2y2zIiTtdZIcpnPpQ	3.5	Madison	[Vegetarian, Restaurants, Pizza, Italian	13
+27377	fsWrXr42acPXByS_TdNgiA	2.5	Madison	[Chinese, Restaurants	29
+27383	8wj6i7lHo9R4gPaXrxpWRw	1.5	Madison	[Indian, Buffets, Restaurants	34
+27384	LpN4BOAEjA5SJJUFzwlFow	4.5	Madison	[Indian, Restaurants	6
+27438	M1n4HVSdD9FIyfmIoxxRrg	4.0	Madison	[Restaurants, Mediterranean, Italian	124
+27508	LfZkD8a_d3joEnGHlaw_sQ	4.0	Madison	[Sushi Bars, Japanese, Restaurants	166
+27551	TxTaJXqiqEAM7eXjyYxdog	3.0	Madison	[Endodontists, Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	10
+27553	LczmFOyHd7US9DlxC4FUWg	3.0	Madison	[Bars, Food, Breweries, Pubs, Nightlife, American (New), Restaurants	6
+27585	z6XSiEI3a0jjjLks1MWbIQ	3.5	Madison	[Bars, Venues & Event Spaces, Nightlife, Lounges, Event Planning & Services	24
+27593	tyiUlSZ4A6gcUIXcPqGKsQ	4.0	Madison	[Mexican, Restaurants	5
+27653	0pQhnZ5CV60lSKTQg2GKng	4.0	Madison	[Bars, American (Traditional), Fish & Chips, Nightlife, Restaurants	52
+27657	JeXAH4ViHZpZi7RMC-NQjw	3.0	Madison	[Bars, American (Traditional), Pubs, Nightlife, Sports Bars, Restaurants	18
+27658	Ahxtxiyb19N2x13hD5V3hA	3.5	Madison	[Seafood, Restaurants	45
+27669	jEf18KTlek4zRHdsv6kIPQ	4.0	Madison	[Brasseries, Belgian, Restaurants	248
+27673	FWRtNNIvS5Nm1zGJM3decQ	4.5	Madison	[Used, Vintage & Consignment, Fashion, Shopping	3
+27702	syfCpXqRXeL4tyokKx6JJw	4.0	Madison	[Indian, Restaurants	125
+27767	yJYXwvF_RBUIdguShrYSSg	4.0	Madison	[Bars, Mediterranean, Nightlife, Lounges, Hookah Bars, Restaurants	26
+27813	Gtcq8csNOko-L7iSwMLVqA	3.0	Madison	[Vegetarian, Gluten-Free, Restaurants	96
+27820	Htwla8cEt8Lec_yJBmwlZg	4.0	Madison	[Cafes, Restaurants	70
+27823	jZfIaXavQxYnDhTwE3PZUA	4.0	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces	22
+27844	WXl4rymMskrrNlK5g6ml6w	4.0	Madison	[Food, Breweries	190
+27880	ka2hxeDmMCiechV3GfAJvw	4.0	Madison	[Hotels & Travel, Airports	141
+27883	Z0m66wX5-zjfDKam77Z04w	3.5	Madison	[Food, Cheese Shops, Specialty Food	5
+27884	KIRJ2mgFVpq-xXG3ayehrA	4.0	Madison	[Sporting Goods, Fashion, Shopping, Sports Wear	17
+27885	BZRZ-3TDk0M__cJsvqJxBg	4.0	Madison	[Bars, Nightlife, Lounges	34
+27918	fAVu_-C5-zrhkqPiKBpovw	3.5	Madison	[Food, Beer, Wine & Spirits, Grocery	53
+27961	FO3SpeDotNVzBiehHKgr0Q	3.5	Madison	[Tapas Bars, Restaurants	111
+27970	MLhAJtjWHoToXm4pXzIV_Q	3.0	Madison	[Restaurants, Brazilian	16
+28026	YcuBpuI7SpTU_2-BmEqpYw	4.0	Madison	[Dive Bars, Bars, Arts & Entertainment, Nightlife, Music Venues	23
+28038	ttoub5SnLqMGjm0uN0y1nA	2.5	Madison	[Mexican, Tex-Mex, Restaurants	104
+28150	vt0zrlzlHOcvXZsZ0Y-D_g	3.0	Madison	[Afghan, Restaurants	6
+28178	P46Logr1MjUMaX5LkdKmWQ	4.5	Madison	[Pizza, Restaurants	4
+28181	9VTqoZgjPan8lRfrGN6pyw	4.5	Madison	[Arts & Crafts, Shopping	5
+28186	0AsJNgbhmky5Z0Yls-ZsjQ	3.5	Madison	[Arts & Entertainment, Cinema	95
+28207	4i1CVNFxRVOKK4-rkt98sA	4.5	Madison	[Landmarks & Historical Buildings, Public Services & Government	61
+28238	0_VBVWP6SyThNs-lhpfvew	4.5	Madison	[Food, Specialty Food, Beer, Wine & Spirits	21
+28254	eYs6QM0CpOQDS4TuIh6tlA	2.0	Madison	[Womens Clothing, Fashion, Shopping, Shoe Stores	6
+28270	AW5lMwA8JoOt0aCjNLUPMA	3.5	Madison	[Latin American, Caribbean, Restaurants	67
+28273	g_qPNogmKC17gGs_gGsEpg	4.5	Madison	[Pets, Pet Stores	15
+28340	ZSQUIXn-FM22hP8ujtIKfA	3.5	Madison	[Hotels & Travel, Transportation	6
+28383	aMxgW7RlILhF-vcD-sihhg	3.5	Madison	[Food, American (Traditional), Breweries, Restaurants	119
+28407	4nfYYEVcOc4bGP0uAQ2U3A	5.0	Madison	[Books, Mags, Music & Video, Arts & Entertainment, Shopping, Vinyl Records	7
+28426	E6MOhbSbSu8Jqf9kNcNokg	4.0	Madison	[Restaurants, Pizza, Italian	75
+28429	pi6eN2zM9VAR4RjAoFSqzg	4.0	Madison	[Sushi Bars, Restaurants	193
+28458	lT0ojiymSxa_hqG5i91Umg	3.5	Madison	[Restaurants, Brazilian	145
+28528	N5Ha9RpMPYnYqBurfS1mtg	3.0	Madison	[American (Traditional), Steakhouses, Barbeque, Restaurants	80
+28529	JfwNftzYnLyX5O1Koc794g	3.5	Madison	[Burgers, American (Traditional), Restaurants	43
+28676	fj9NoCcjZVBs_HpPO6ROsw	2.0	Madison	[Bars, Restaurants, American (Traditional), Sports Bars, Nightlife	7
+28722	Agr28_3DohGpTAD0NGS95Q	4.0	Madison	[Breakfast & Brunch, Cafes, Vegan, Restaurants	139
+28750	igIYj4v02l7KNIIY6jSlDQ	3.5	Madison	[Burgers, Restaurants	63
+28838	W90bRiGawkJgQzs6npy5cw	4.5	Madison	[Hair Salons, Day Spas, Nail Salons, Hair Stylists, Beauty & Spas	58
+28991	vA3WNmLiLTIygm2tCJ6M6g	3.5	Madison	[Coffee & Tea, American (Traditional), Food, Bars, Nightlife, Lounges, Restaurants	34
+28992	yquKh3nFyVLMpEFE2gHG0g	2.5	Madison	[Sporting Goods, Bikes, Shopping	7
+29015	YgUzy6r0sT-4JCoM__6DWg	3.5	Madison	[Tanning, Beauty & Spas	8
+29072	hRhfF2UJI0KY0oEdaYUsfg	3.0	Madison	[Mexican, Tex-Mex, Restaurants	28
+29073	C4OV-RMJmH6_CauQki_PhA	3.5	Madison	[Sandwiches, Restaurants	20
+29115	mqPmjFACOPAgjeL_tGas7Q	4.5	Madison	[Food, Tea Rooms, Arts & Entertainment, Art Galleries, Shopping	45
+29144	FPyYoexztOi-I0-uOaUFgA	3.5	Madison	[Food, Ice Cream & Frozen Yogurt, Delis, Cafes, Restaurants	44
+29175	uxOS4S91Vq9pnyo2Up1Zjg	1.5	Madison	[Buffets, Chinese, Restaurants	4
+29209	1alcD9lDjwxDIcGaUh9oCw	4.0	Madison	[Indian, Restaurants	41
+29214	l_0JhWjpL2BesMEIDAM4Fg	4.5	Madison	[Pizza, Restaurants	258
+29219	1MNXPs6hqohwNiem-690bA	4.0	Madison	[Food, Specialty Food, Chocolatiers & Shops	24
+29221	gwbTxAvzZG1Cg2oyz3cDkw	4.5	Madison	[Food, Specialty Food, Chocolatiers & Shops	47
+29225	iChdAsAIPgKIhV7fLOkt1Q	4.0	Madison	[Food, Cheese Shops, Restaurants, Sandwiches, Specialty Food	153
+29238	KBsLagkr8NN8SCozXI9zvQ	4.5	Madison	[Food, Coffee & Tea, Creperies, Restaurants	257
+29317	JAOacRZOhpHaAI-pQzuMog	3.5	Madison	[Pet Services, Pet Boarding/Pet Sitting, Pets	14
+29319	jrTLGX0d57NqYJ6NscZHaA	4.5	Madison	[Hair Salons, Barbers, Hair Removal, Waxing, Beauty & Spas	43
+29388	Z137pkw7O9Fmfb7SGktEtA	3.5	Madison	[Fast Food, Mexican, Restaurants	28
+29401	m-0PvFac1qIsX81xhYHWZg	4.0	Madison	[Tires, Automotive	44
+29406	gUYjl5fXsvmHuNc4lwJO7g	4.0	Madison	[Local Services, Dry Cleaning & Laundry	5
+29423	Rm7H1A-t11g1j6c8tSYAag	4.5	Madison	[Womens Clothing, Fashion, Shopping	3
+29445	m62qxyrrX_TzxRPqTfTEuQ	5.0	Madison	[Pet Services, Veterinarians, Pets	6
+29449	fI33gSlUBxDrc2OnLxIKew	3.5	Madison	[Seafood, Steakhouses, American (Traditional), Restaurants	41
+29468	jk5X-r36JQpZBxJGSVS8QA	4.0	Madison	[Womens Clothing, Fashion, Shopping	6
+29478	1TuDep1-bkTot7PQU3_ceg	2.0	Madison	[Pubs, Bars, Fast Food, Nightlife, Restaurants	5
+29497	RfGFbLuc_9lcpXtYfC0rLg	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	50
+29546	P5wXrOYE9Xzq9wtjrZMh7g	4.5	Madison	[Food, Beer, Wine & Spirits, Fruits & Veggies, Cheese Shops, Specialty Food	26
+29573	CRfdXmAVNXZ6BHmnHTX1iQ	1.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	13
+29586	25XliadakX5VWw3mdcsHug	3.0	Madison	[Hot Dogs, Restaurants	20
+29603	VToMv6ukjQv3KMOXAO30TQ	3.5	Madison	[Mexican, Restaurants	15
+29722	EA5Hew-jm2Qh5U6N3VWapg	3.5	Madison	[Restaurants	3
+29732	8td5sTIz7ArIBZECuTOnVQ	4.5	Madison	[Cards & Stationery, Arts & Crafts, Flowers & Gifts, Shopping, Event Planning & Services	31
+29793	10t_S631bQRYmDEhrUb6LQ	3.0	Madison	[Bakeries, Food	5
+29826	YqRptNqPphwwP4Cg2sYQ2g	2.5	Madison	[Pubs, Bars, Nightlife, Irish, Restaurants	32
+29836	L9ANG1S2a-ap3FDASsyNgw	2.5	Madison	[Bars, American (New), Nightlife, Restaurants	8
+29866	ShObkipoAQV3I_vn_f-mDg	2.5	Madison	[Restaurants, African	10
+32552	Br9w9HWDOBMdg6KvgKr_rQ	3.0	Madison	[Bars, Nightlife	3
+32700	Ra4S2OWIo7BOs6AJVT4u8Q	5.0	Madison	[Local Services, Funeral Services & Cemeteries	9
+32714	_gcBSraIov44FbXQqBAPCA	2.0	Madison	[Fast Food, Restaurants	3
+32758	9GUN0cEAK6ysOz0oGhCK8A	4.0	Madison	[Greek, Breakfast & Brunch, Restaurants	79
+32804	J7LSbTM72--2497H1kkM0w	4.0	Madison	[Burgers, American (New), Restaurants	237
+32805	4l0HQdFVM8Kz3YKvr5vmBw	1.5	Madison	[Nightlife, Dance Clubs	4
+32830	zFFN-NQjuQROEQW_xtQXWQ	3.5	Madison	[American (New), Restaurants	54
+32852	qtof0pEDDUNjEqyWhTv7rg	4.0	Madison	[Mexican, Restaurants	135
+32880	1XbjMTMynhnMtqosQPS7CQ	5.0	Madison	[Food, Food Stands, Food Trucks, Restaurants	4
+32889	owSUyyh0E-SuMUVhEoYRfQ	4.0	Madison	[Russian, Restaurants	8
+32895	9c8B8j3IoTpd4zKP7vzD9w	4.0	Madison	[Arts & Entertainment, Cinema, Nightlife, Music Venues	20
+32917	ocM1uh1T3HP_6g9b3GxLHg	4.0	Madison	[Mexican, Restaurants	27
+33066	Oz5q0yRBlu1EwRurhdgXog	3.0	Madison	[Financial Services, Automotive, Auto Parts & Supplies, Car Dealers	9
+33069	_9N1qgPjSY6ISrvA_-xJmg	3.0	Madison	[Bars, Nightlife, Restaurants	14
+33084	Kr7Vx-Yk7BpKcbGH6X1NeA	1.5	Madison	[Food Court, Restaurants	4
+33097	9ml8dQ72JTz5hcW4w0t0ig	4.5	Madison	[Food Stands, Restaurants	8
+33173	1B2-6qlMYvus8MLvXIs_VA	4.0	Madison	[Kitchen & Bath, Shopping, Home & Garden	18
+33182	QUQnReqGpCruIPLC0akVrQ	4.0	Madison	[Barbeque, Restaurants	19
+33188	krE40ctsaf0zh7P4rs7q5g	3.5	Madison	[Bars, Sports Bars, Nightlife	12
+33203	k-Qn8eTYiPuupKbvPS1I9A	4.5	Madison	[Pubs, Bars, Nightlife	76
+33218	Mk3Zdgr98L5aX8OZbamLUg	3.5	Madison	[Bars, American (New), Nightlife, Lounges, Restaurants	91
+33256	4h7Fz2FeBu_KAx5FnFQ-Tg	2.5	Madison	[Sandwiches, Restaurants	11
+33272	Vxb8xRSm79m3WosnTNvVFQ	4.0	Madison	[Thai, Restaurants	72
+33274	LY_N7ALZ59BlCZIktlp13Q	3.5	Madison	[Pubs, Irish, Nightlife, Bars, Restaurants	112
+33300	-oJ8glm7xInlKpPixCKhJQ	4.5	Madison	[Bars, Arts & Entertainment, Nightlife, Music Venues	26
+33302	TakzvjVEcezDYtsmZ1QW_Q	4.0	Madison	[Mexican, Restaurants	276
+33311	0n6IjepPcqmf-ZpdT-qV7g	1.5	Madison	[Nightlife	4
+33414	JqqcxDcVl_johHEkcedK8A	4.0	Madison	[Food, Desserts, Bakeries	14
+33415	f8yu0g5WmbToJQYKqLqQMA	4.0	Madison	[Food Stands, Restaurants	9
+35127	KZqtFAwDj83bTXxft2FMjg	4.0	Madison	[Indian, Restaurants	31
+35130	u2JMTEY5H0NRk8ZTMkxPGg	3.5	Madison	[Asian Fusion, Sushi Bars, Restaurants	161
+35157	0E9RWn7u-FpFLxZseSkQFg	4.0	Madison	[Hair Salons, Nail Salons, Massage, Beauty & Spas	22
+35250	-4y4TmS1BA-snz5wFnadiA	2.5	Madison	[Tires, Automotive, Hardware Stores, Shopping, Home & Garden	19
+35267	Ra-YjaLMpi2GA2Y_JhI_Mg	3.5	Madison	[Soul Food, Southern, Restaurants	7
+35331	y9ZpQBfTsy62Lzqvz3ls4Q	5.0	Madison	[Banks & Credit Unions, Financial Services	4
+35348	owGvJscfm-k-rpAH8mEmBg	3.5	Madison	[American (New), Restaurants	19
+35454	ubuQDBiAIECa9DEUNddFiQ	3.5	Madison	[Food, Convenience Stores	7
+35455	T24xqMTc4Le1vJe4pEb_bg	3.0	Madison	[Art Supplies, Shopping, Arts & Crafts	5
+35557	O4Vj8OBC47rfnDiT40xWgw	3.5	Madison	[Steakhouses, Restaurants	19
+35584	RFADvMrK5KBjM7f1QGg6tg	3.5	Madison	[Thrift Stores, Shopping	3
+35608	qhPbmsT1nEJK6yVezXeXLg	3.0	Madison	[Food, Desserts, Fondue, Salad, Restaurants	49
+35748	k5H_Rach_UfUMBzceYDmPA	3.0	Madison	[Nightlife, Seafood, Tiki Bars, Bars, Restaurants	25
+35769	Ls1TY4eIvtjx9DcQDn0fWg	4.0	Madison	[Bars, Gay Bars, Nightlife	9
+35800	D090EfA12awOvoA2O1wU8Q	4.0	Madison	[Thrift Stores, Shopping	13
+35820	bw6tMI_B2GnmTjljq_ytOw	3.5	Madison	[Piano Bars, Nightlife	55
+35872	URiVQQpWMAwG6EvrPKL5fQ	4.5	Madison	[Barbers, Beauty & Spas	13
+35874	JQrF4iHYZkF5IBTvOQBpIw	3.5	Madison	[Breakfast & Brunch, American (New), Pizza, Restaurants	132
+35876	k3xGmYXcHY8UPiAkxe_nyg	4.0	Madison	[Arts & Entertainment, Stadiums & Arenas	20
+35920	roZ3dxN37swf0dgglLUUCA	3.5	Madison	[American (New), Restaurants	15
+35969	vxqvzSkMxznFP6JcV2CpyA	2.5	Madison	[Sandwiches, Restaurants	9
+35970	r9qTBqmKG4TCb4IE6NcVXQ	3.0	Madison	[Mongolian, Restaurants	86
+36026	LeyxCoKcozBu81k0AWHNYA	3.5	Madison	[Arts & Entertainment, Performing Arts, Nightlife, Comedy Clubs	11
+36045	GCXIX5KKhaQciRzJcx6bSA	2.5	Madison	[Womens Clothing, Mens Clothing, Fashion, Shopping, Accessories	5
+36051	t6HgfCRbK1Wpb3uMT0GOKw	3.5	Madison	[Womens Clothing, Fashion, Shopping, Accessories	7
+36052	R3aIjQ_dNsZ6dk8jymfYSA	2.5	Madison	[Food, Bars, Nightlife	19
+36053	VXxbj6kbrxAcOFmIf2eVrQ	4.5	Madison	[Hair Salons, Beauty & Spas	110
+36079	3aZTCzXPSKeJU-sDEwLYWw	3.5	Madison	[Thrift Stores, Shopping	6
+36104	8fZRZrdYdBYFzg6-sOxsXw	5.0	Madison	[Local Services, Screen Printing, Printing Services, Screen Printing/T-Shirt Printing	5
+36132	PcLmJ_dANY6lHkae19Kfzw	3.0	Madison	[Bars, Sports Bars, Nightlife	3
+36216	1OihGv4V3icCyW31wNX_Og	4.0	Madison	[Food, Coffee & Tea	61
+36258	Kll7gNga3DJAqBlI_QfQvQ	3.0	Madison	[Mongolian, Restaurants	6
+36326	jDjDbnik5zlOeX6Qvton6g	4.5	Madison	[Food, Ice Cream & Frozen Yogurt, Cafes, Restaurants	22
+36367	Ju-rDrJHTNjN0j0C8rDlDQ	4.0	Madison	[Food, Grocery	24
+36396	S-n6gL7uF-LxZu8WNgnuuA	2.5	Madison	[Chinese, Restaurants	12
+36459	YoNY4UVbOtLUaM_-2UzoHQ	4.5	Madison	[Food, Grocery	3
+36460	Ajhc8sooWSX5cCkz4LVUXA	4.0	Madison	[Food, Coffee & Tea	33
+36481	o_HVMHPQwnuJj7yqn_c5lg	3.0	Madison	[Bars, American (Traditional), Pubs, Nightlife, Restaurants, Fish & Chips	5
+36484	GTzBzNa-rywEeyPhF6Ruvw	3.5	Madison	[Mexican, Restaurants	7
+36544	eq5za-Fm-8zRPTse36U17g	3.0	Madison	[Sandwiches, Restaurants	9
+36573	S6_mfgekXJGN09b3AGFk-w	2.5	Madison	[Bars, Breakfast & Brunch, Cocktail Bars, Nightlife, Lounges, Restaurants	6
+36587	H_GfmtVf485JdJFijCgIMA	3.0	Madison	[Food, Ice Cream & Frozen Yogurt	30
+36597	sVKxxrHqzHiCiJMStGSdIQ	4.5	Madison	[Museums, Arts & Entertainment, Art Museums	18
+36600	js34oCYYc3od-WQcR1_yPg	3.5	Madison	[Cajun/Creole, Restaurants	72
+36602	OPSra94tNtjQSwn220l-Yg	5.0	Madison	[Womens Clothing, Fashion, Shopping	3
+36619	lqd_NPFUjuYsRAQvv8kEjQ	4.0	Madison	[Shopping, Arts & Crafts, Books, Mags, Music & Video, Event Planning & Services, Bookstores, Cards & Stationery, Flowers & Gifts	14
+36620	GokvXs_TzVFZFTLY8XZcOA	4.0	Madison	[Bakeries, Food, Cafes, French, Restaurants	80
+36623	S2PszSc6uq-RoYhbRDQIrA	3.5	Madison	[Food, Coffee & Tea, Breakfast & Brunch, Restaurants	74
+36648	5_TX9FincQ29TOSLDfFxUQ	3.5	Madison	[Italian, Mediterranean, Restaurants	65
+36770	FNRimJN6wz2Bywuz4RV_TA	2.5	Madison	[Breakfast & Brunch, Pizza, American (New), Restaurants	3
+36811	ZEp1Xpu57FRWrzVKtztYYQ	3.0	Madison	[Massage Therapy, Health & Medical, Massage, Beauty & Spas	12
+36876	J4ZBKazzp0nGJPNgoIpl1w	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	24
+36890	I-myanp6_t-UQVmd6AR4BQ	5.0	Madison	[Local Services, Community Service/Non-Profit	7
+36891	6jCcIZcdhNPVep1oeUvegg	3.5	Madison	[Cafes, American (New), Sandwiches, Restaurants	20
+36899	9KVwl4YhPt_clpI5HOGNTg	3.0	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels	16
+36912	MGbC315JXydUZyLT0K1dAA	3.5	Madison	[Food, Juice Bars & Smoothies	3
+36920	oDhW8nHK3wxxpNGsebByeg	3.5	Madison	[Bars, American (Traditional), Nightlife, Restaurants	37
+36963	0kjMRgCiqlNWAXMDQwdWSw	3.5	Madison	[Local Services, Dry Cleaning & Laundry, Tanning, Beauty & Spas	4
+36964	v8cTq3_Ll2E8_EvD0dCsow	4.0	Madison	[Bakeries, Food, Breakfast & Brunch, American (New), Restaurants	212
+36979	qUa5DAxq1081RL9aSk8tSQ	2.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	16
+36989	DKecie8wkfIK7rcgMdiaeQ	4.5	Madison	[Active Life, Parks, Hiking	6
+37062	-1utnrNGA6PiD1LMmIqMzw	4.5	Madison	[Pet Groomers, Pet Services, Pets	16
+37090	Zt8AwvVw9F6Dn6Q9LXz4xw	5.0	Madison	[Pets, Pet Stores	21
+37106	rh6Ieo2hIejppvew2bVL0A	3.5	Madison	[Sandwiches, Restaurants	7
+37107	-XXTy9ywL9Mv_-uFfXkpNA	3.0	Madison	[Books, Mags, Music & Video, Shopping, Bookstores	4
+37140	DWZM3Qw0WJminDcXoBE_eA	4.0	Madison	[Burgers, Bars, American (Traditional), Nightlife, Restaurants	38
+37161	cJ4P2k6hfBvZUXqRWtwmaw	4.5	Madison	[Hair Salons, Hair Stylists, Beauty & Spas	49
+37177	8wpowlm_ZzxwSgp_6uExbA	4.0	Madison	[Local Services, Dry Cleaning & Laundry	7
+37210	k0Tl7dv_WEXLIwwd27vPsQ	3.5	Madison	[Active Life	5
+37220	xZMLYZIRAA78LmZaEGLLDw	5.0	Madison	[Arts & Entertainment, Botanical Gardens	10
+37280	NU-zCTASWAWs4Q3urXH34g	2.5	Madison	[Thai, Restaurants	6
+37313	th4uGmjyjPnQpN-ukf20PA	4.0	Madison	[Thai, Vietnamese, Restaurants	421
+37347	OHnHjQzH_Lwh65eRyFjKzQ	4.5	Madison	[Food, Ice Cream & Frozen Yogurt	31
+37361	rfG2hqn4fIvv0vF-_s-3mQ	3.5	Madison	[Hotels & Travel, Tours, Transportation	14
+37379	2LnMd8XzQq5an2NYN9j5vw	3.5	Madison	[Food	5
+37405	n7Kql1QE_xpVXJFSjR_6Ww	3.0	Madison	[Shopping Centers, Shopping	18
+37421	qKA4zRUfS8dGjdGABuhX5Q	3.5	Madison	[Hair Removal, Beauty & Spas	7
+37448	VoXdUuhO4b4np0w65MNu0A	5.0	Madison	[Active Life, Yoga, Fitness & Instruction	5
+37450	NdoFRKikGkbZ3NyMzK7vqQ	4.0	Madison	[Food, Coffee & Tea	3
+37452	B8OZfTKnEpgZNyMLrH5Tiw	5.0	Madison	[Active Life, Dance Studios, Fitness & Instruction	3
+37460	QclAMzo7Gb5eZjT6oVvyMQ	4.0	Madison	[Bars, Sports Bars, Karaoke, Nightlife	4
+37506	_zE-CKTejbhR6KJacLxrvQ	3.5	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels	12
+37572	k9UNxF9iFzx8mRfzILh8Fg	4.5	Madison	[Local Services, Sporting Goods, Bikes, Shopping, Bike Repair/Maintenance	26
+37578	zIOu9KKXDd5PSTothAhK9g	4.5	Madison	[Endodontists, Health & Medical, Dentists	5
+37581	Tkw_g5Sz7uXZdePKGPgopw	1.5	Madison	[Keys & Locksmiths, Home Services	3
+37622	kIFYMeaYAQ44wQVQSO2qqA	3.5	Madison	[Asian Fusion, Dim Sum, Chinese, Restaurants	135
+37632	vnnZKz4MhVtC7S3QdQPnfw	3.0	Madison	[Greek, American (Traditional), Mediterranean, Restaurants	16
+37674	gXxmznTEr1oCt_LIEvD4aA	4.0	Madison	[Shopping, Baby Gear & Furniture	11
+37677	Ckhd7SFHUFvrIMn2zlftaw	4.0	Madison	[Bakeries, Food	5
+37736	x6SGXzrmGPJklnbKO_SGxg	3.5	Madison	[Bars, American (Traditional), Food, Breweries, Nightlife, Restaurants	155
+37741	JQe0zkldovoBtBG6WoxRdA	4.0	Madison	[Dive Bars, Bars, American (Traditional), Nightlife, Restaurants	25
+37766	vQWDLPfPEi_LkotJEKISkQ	4.0	Madison	[Active Life, Yoga, Fitness & Instruction	37
+37773	NgtL59zyO_uHkCRdAKx9Aw	4.0	Madison	[Food, Bagels, Sandwiches, Restaurants	11
+37794	-SdeIC_FHjcHZd-r7XCcww	4.5	Madison	[Used, Vintage & Consignment, Fashion, Shopping	8
+37816	qRQXWEib6OM8N20d3XgGpg	3.5	Madison	[Arts & Entertainment, Art Galleries, Shopping, Nightlife, Music Venues	3
+37826	HQKGOy09PH4Fy35ljaDGcQ	4.5	Madison	[Local Flavor	11
+37836	THnVGSPlfeKf9p1C1LbjOQ	4.5	Madison	[Food, Farmers Market	6
+37851	tteHjtbjQfWnJgFe4jPoMA	4.0	Madison	[American (New), Gluten-Free, Restaurants	185
+37855	YnAYdlHFr4y34-UMEpLY1A	5.0	Madison	[Vegetarian, Food Stands, Vegan, Restaurants	4
+37857	j61tzz0XkdFV8YUBZNNzhw	3.0	Madison	[Mexican, Restaurants	18
+37858	7CoEq0l62ysXcJuKibgENA	3.5	Madison	[Arts & Entertainment, Art Galleries, Shopping, Antiques	19
+37871	Y5wogPjBG-pm090-gbZzUw	2.5	Madison	[Sporting Goods, Fashion, Shopping, Sports Wear, Outdoor Gear	10
+37906	2BV00o-xt4EDpUq1U5ywwA	4.5	Madison	[Used, Vintage & Consignment, Fashion, Shopping	19
+37907	2A1764Mly4f-WEysgPgZFw	3.5	Madison	[Food, Ice Cream & Frozen Yogurt, Cheesesteaks, Hot Dogs, Restaurants	5
+37910	vuki3_Z5ryc8VmgUTkVF_g	3.5	Madison	[Local Services, IT Services & Computer Repair	3
+37967	Hx49HNQ--njuK71y2JnUIg	3.5	Madison	[Beauty & Spas, Nail Salons	35
+37968	si4ldaJGGZL0OqkTXF72bA	4.5	Madison	[Hair Salons, Day Spas, Massage Therapy, Health & Medical, Beauty & Spas	22
+38001	DBRorYonHlsKfEstXcy7aQ	4.0	Madison	[Kitchen & Bath, Shopping, Home & Garden	17
+38003	UlV-Pi9HF446jP7xm_KD-w	3.5	Madison	[Food, Ice Cream & Frozen Yogurt	22
+38004	78oLyqhI4yFRX7XKeJt_kg	4.5	Madison	[Food, Coffee & Tea	21
+38080	F3RQ2RZkik8inAocmz6cbQ	3.0	Madison	[Bars, Gay Bars, Nightlife, Dance Clubs	55
+38085	Sd9exwQrSKcZiN3RAhcAUA	4.0	Madison	[Vegetarian, Cafes, Vegan, Restaurants	193
+38117	6K-wOhRGrgqfU7arDtWuUg	4.0	Madison	[Coffee & Tea, Music Venues, Food, Arts & Entertainment, Juice Bars & Smoothies, Nightlife	27
+38154	Vy_HoX_ZaJOMpVIE3W4Srg	2.0	Madison	[American (New), Restaurants	6
+38155	XvXisQrvJXcGK5nTImokrw	2.5	Madison	[Bars, American (Traditional), Sports Bars, Nightlife, Chicken Wings, Restaurants	37
+38190	ZZcTIDMSePa7bFcu1caZag	2.0	Madison	[Doctors, Health & Medical, Internal Medicine	3
+38240	49150bdhn4UlD0bygx0pAg	3.0	Madison	[Mexican, Restaurants	18
+38340	SGXxugJwTuR4BI7qKso4cg	2.5	Madison	[Cajun/Creole, American (Traditional), Sandwiches, Restaurants	36
+38362	lJ42TdBYPhu5YL0S1MTx2A	2.0	Madison	[Sandwiches, Restaurants	13
+38369	OggJmWsEoD4u05HYZ1Tm3g	2.5	Madison	[Used, Vintage & Consignment, Thrift Stores, Shopping, Fashion	11
+38395	m2IBKgBvGX4Dd5Ggm3BfOg	4.5	Madison	[Food, Bakeries, Coffee & Tea	114
+38401	qgVp-2nMz_3LwQvJRyOnng	3.0	Madison	[Bars, Restaurants, Nightlife, Sandwiches	3
+38451	v0LuR3pve-W40icwtmwbzQ	4.0	Madison	[Hair Salons, Beauty & Spas	7
+38466	8hiTUKOtTa_7a2qnqGnkcw	1.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	10
+38476	mCkBmMzzebIqJgEFQnYbkQ	3.5	Madison	[Asian Fusion, Barbeque, Restaurants	19
+38541	zIkglWWJ8_fbIK0MMNlRiQ	5.0	Madison	[Arts & Entertainment, Performing Arts, Nightlife, Music Venues	3
+38554	JYqXrOLdA4DH1B72L5EK0g	3.5	Madison	[Food, Grocery	70
+38593	gW0k1iIF1xuuFclzI_HbBA	3.5	Madison	[American (New), Restaurants	179
+38685	IRyLAtjcr5maOdgmu1RlXQ	3.0	Madison	[Cafes, Restaurants	8
+38732	Zrj5ETRPc9-Zy4AZ4ie0NQ	2.5	Madison	[German, Bars, Nightlife, Restaurants	13
+38774	fAb6A9JIkhHoUEMaRg1rgg	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	34
+38834	U166qieBZu1dzTBoRbYDzg	4.0	Madison	[Japanese, Restaurants	14
+38839	I9kyu_01k2juleTL5nAdjA	3.5	Madison	[Automotive	5
+38848	Iy1w1o5ryLzBHQyTNCgmVA	4.5	Madison	[Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	17
+38859	_eRCcfm68VqYwi8bTqAeiw	4.0	Madison	[Food, Desserts, Cupcakes, Bakeries	68
+38880	EXhgynZdOfPAbIn0_O-e_w	2.5	Madison	[Mexican, Restaurants	7
+38883	QKZfKyU8ZGy2UMfV7pnXtg	3.5	Madison	[Mexican, Restaurants	95
+38908	cuDgyPCi1TQ0Yf-reY8koQ	3.5	Madison	[Books, Mags, Music & Video, Shopping, Bookstores	7
+38942	pWtBXyPyK3awxYzAAsOYjg	3.5	Madison	[Shopping	4
+39123	I8jnAw0IocjYsIQ9Vwu5zg	5.0	Madison	[Active Life, Dance Studios, Fitness & Instruction	4
+39125	PIbQOAEfpM91r_9Ttm8faA	5.0	Madison	[Active Life, Yoga, Trainers, Fitness & Instruction	4
+39126	07hjn2Q2uoANaIFohzY_hw	4.0	Madison	[Childrens Clothing, Fashion, Shopping, Baby Gear & Furniture	6
+39127	ACeVfqQ23aCNOpigdevVPQ	4.5	Madison	[Auto Repair, Automotive	13
+39128	BLjV1Dah5T6FrEACR8LI9w	3.5	Madison	[Health & Medical, Diagnostic Services, Diagnostic Imaging	4
+39129	hqHW5yRMU8LeYXTnooQ13Q	3.5	Madison	[Home Cleaning, Home Services	10
+39131	yhzPRkZuX8d_D4jtTN8P2A	3.0	Madison	[Hobby Shops, Shopping	4
+39133	cjSdu6RR_VBPGt0yQN1BmA	4.5	Madison	[Veterinarians, Pets	26
+39137	EtbpXG06BTxaYzrfO35wGg	4.5	Madison	[Tattoo, Beauty & Spas	6
+39141	mVsXwma1L2BX8mv1TdQC3Q	3.5	Madison	[Banks & Credit Unions, Financial Services	4
+39143	2B6155r0l3vGtJTUs7PVmw	3.0	Madison	[Fashion, Shopping	4
+39146	nCp7s62QjtcmbtnRt_6c4w	3.5	Madison	[Food, Brewing Supplies, Breweries, Shopping	8
+39148	BwQiwAZTHjmoBY0yO06inQ	3.0	Madison	[American (Traditional), Restaurants	9
+39149	JFtE_LnG2D8jYKxiWaVfzg	3.0	Madison	[American (New), Restaurants	37
+39150	hLjTkcTjXb9AqSvyQI3uTg	1.5	Madison	[Barbers, Beauty & Spas	5
+39152	94l8OcgPsLx2n3AeETSKLw	5.0	Madison	[Optometrists, Health & Medical	4
+39153	s9wjkr7qf8DVJYuRiLk30Q	3.0	Madison	[Sandwiches, Restaurants	6
+39154	Gtrcog5oMh7BxUGlU8A-QA	4.5	Madison	[Active Life, Swimming Pools	7
+39157	A3BxYKWLW0olBtvaRkC4KQ	4.5	Madison	[Day Spas, Beauty & Spas, Nail Salons	44
+39159	Ui2PR1YCjP-VPxcYGrrokQ	1.5	Madison	[Home Services, Apartments, Event Planning & Services, Hotels & Travel, Real Estate, Hotels	7
+39161	-ntkzXz9IpDkH588QRzazQ	2.5	Madison	[Chicken Wings, Restaurants, Pizza, Italian	7
+39162	AmQwDsLAb34nPbo-GDN2Qg	1.5	Madison	[Beauty & Spas, Nail Salons	12
+39164	0p3MbCriuvH9hgqRK9W-LA	2.5	Madison	[Sandwiches, Restaurants	5
+39165	CuKrLZRWFC6KkulZcw1mUQ	3.0	Madison	[Local Services, Computers, Shopping, Mobile Phones, IT Services & Computer Repair	47
+39167	iL3oi5msyKjvJ1opSc-DHA	4.0	Madison	[Automotive, Auto Parts & Supplies	3
+39168	u_pwS_Sq3bS2LBjjWcCxCg	3.0	Madison	[Food, Bakeries, Coffee & Tea	27
+39170	wdrMRv81CD_T8OoW8pcaWQ	1.5	Madison	[Burgers, Fast Food, Restaurants	6
+39175	OEhWSvCHHbEzWzL5SlX54A	1.5	Madison	[Videos & Video Game Rental, Books, Mags, Music & Video, Shopping	3
+39176	cXoNKzXP-WmbfabdDS13_w	3.0	Madison	[Automotive, Auto Parts & Supplies	5
+39180	22ojP4PqNxlYV72fvWvrrw	5.0	Madison	[Arts & Crafts, Arts & Entertainment, Art Galleries, Shopping, Framing	3
+39181	8L4iJBgmvywiDWIi4lGtBg	5.0	Madison	[Arts & Entertainment, Art Galleries, Shopping	3
+39183	zlFQU7ARDSYsB_mI_p-9mA	3.5	Madison	[Local Services, Shipping Centers, Printing Services	7
+39185	h9RXqN5BjFOiSaxH1IzQRA	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	10
+39188	K4eeZZ32VWCT6FSd_zqfOA	3.0	Madison	[Shopping, Paint Stores, Home & Garden	5
+39190	QOv1so2RgfGFS6BlShLZrA	3.5	Madison	[Mattresses, Shopping, Home & Garden, Baby Gear & Furniture	6
+39194	GvbxCtfZ1dHb7hDe0Dx-pw	5.0	Madison	[Shopping, Jewelry	3
+39195	Jp0EHCipOb_dNuZSCNs5OA	4.0	Madison	[Food, Grocery	3
+39196	wLn0vREghbwCTM5Nx_YzcQ	2.0	Madison	[Doctors, Health & Medical, Obstetricians & Gynecologists	3
+39197	Zl9L3ssueXfDXXc9oKK27Q	3.0	Madison	[Health & Medical, Urgent Care	3
+39200	B28JmnWXD9yv_U3QOWmuCA	2.0	Madison	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply	5
+39202	TT6CU8sz1t_ZHv7VzB1LbQ	4.0	Madison	[Boat Charters, Event Planning & Services	14
+39203	qW48KDqO0OAuA8OXPnK5WA	4.0	Madison	[Auto Repair, Automotive, Car Dealers	12
+39204	S14cMthCMdvOmaU_TgJBnw	4.0	Madison	[Food, Coffee & Tea	11
+39209	ky0xmyn1SXlAXaeUCGIAnA	5.0	Madison	[Health & Medical, Chiropractors	3
+39210	0bo2PsY7zaYiFIKJvCeHUw	4.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	14
+39211	1TIsPSLZtfjaiqJMcRirOw	4.0	Madison	[Active Life, Sporting Goods, Bikes, Shopping, Bike Rentals	9
+39214	SLERUasSBNLxMA_zD6QmZw	3.5	Madison	[Banks & Credit Unions, Financial Services, Mortgage Brokers, Home Services, Real Estate	3
+39215	UOG_Ecb2nAAY5S_OFf1oeg	3.5	Madison	[Comic Books, Toy Stores, Shopping, Books, Mags, Music & Video	8
+39217	auCDzWLt_nOklxE3oRAd9w	4.5	Madison	[Libraries, Public Services & Government	4
+39219	EKt8wl6-hS0vdXBcdLBnvw	5.0	Madison	[Pets, Pet Stores	5
+39220	96-__E9bD-aVQsYVZ_E7uQ	2.5	Madison	[Womens Clothing, Department Stores, Fashion, Shopping, Mens Clothing	25
+39221	qL6nIkKf8tBU4bsaNoMmNQ	3.5	Madison	[Veterinarians, Pets	7
+39225	QHwYQ7p7eGbEr_i809Akjg	4.0	Madison	[Beauty & Spas, Nail Salons	15
+39226	Dp7YA8Y8q_mQbSDEKzM9Ng	3.5	Madison	[Banks & Credit Unions, Financial Services	6
+39228	07cMlpbiOeiR8AP8JR0c_g	3.5	Madison	[Sandwiches, Restaurants	4
+39230	-pADJ-FnLJ-67wVxsj7u9Q	1.5	Madison	[Shopping, Mobile Phones	3
+39231	0KHsxF6gt8gZdxfsypW3mg	5.0	Madison	[Arts & Entertainment, Shopping, Arts & Crafts, Art Galleries, Event Planning & Services, Cards & Stationery, Flowers & Gifts	6
+39232	SYoHBAzPeoraOTMQp09PQg	3.0	Madison	[Hair Salons, Beauty & Spas	5
+39239	5HyML9Rp7sDoksUjicP_sg	5.0	Madison	[Acupuncture, Health & Medical	4
+39241	bdgpLQ_8-ys1XdBj0TQdFQ	2.0	Madison	[Local Services, Shipping Centers, Printing Services	12
+39242	wjHa00WUk9srHGeMMlm85g	4.5	Madison	[Food, Coffee & Tea	34
+39243	Bcq5Nmj6iQNncrpyG4m65Q	5.0	Madison	[Acupuncture, Health & Medical	4
+39244	9vFT_BeOMu3ILh7bOry_sw	4.5	Madison	[Veterinarians, Pets	8
+39245	eQs9QwKWiEoLBTuTDj_SDQ	5.0	Madison	[Veterinarians, Pets	4
+39246	wPR7--rF177aXzDK9Xaelw	3.0	Madison	[Shopping, Nurseries & Gardening, Home & Garden	6
+39251	7BEzalVM8dLVqELzYXXKog	5.0	Madison	[Health & Medical, Chiropractors	6
+39252	DgKTPEdH5yk552xBU5lgCw	2.5	Madison	[Pizza, Restaurants	7
+39254	e8EODhFjwcYUzt_qFKJWzw	5.0	Madison	[Sandwiches, Restaurants	5
+39255	EZwI5OaiqJq2w2_z6qP0rQ	3.0	Madison	[Sandwiches, Pizza, Chicken Wings, Restaurants	12
+39256	Rs0zaOlDI8aUad29CGHvtQ	1.5	Madison	[Used, Vintage & Consignment, Fashion, Shopping	4
+39257	GeJ-B98ljcntQSjzsJTnIA	3.5	Madison	[Fast Food, Mexican, Restaurants	27
+39258	KubbMA1cuBJFdtVE2dcstQ	4.5	Madison	[Active Life, Gyms, Trainers, Fitness & Instruction	6
+39259	120FPCmDjdvuHrAnRmHKKQ	2.5	Madison	[Burgers, American (New), Sandwiches, Restaurants	9
+39260	Fn5eocQntKgSQaZdcZn-HQ	3.5	Madison	[Seafood, Chicken Wings, Restaurants	6
+39262	aXBAj0kUkeTfhswpKVKueg	3.0	Madison	[Auto Repair, Oil Change Stations, Wheel & Rim Repair, Automotive	9
+39264	nm8-Bn7O3DUytb5RZw4V5A	3.0	Madison	[Food, Ice Cream & Frozen Yogurt, Fast Food, Restaurants	15
+39265	3ny4BvEqO1uxJM-nrItmIQ	4.0	Madison	[Libraries, Public Services & Government	3
+39266	tRinf-VhAImGO72__sfSwA	4.0	Madison	[Property Management, Home Services, Real Estate	7
+39267	EKctZ5U8z0UwaoYGxiIecQ	2.0	Madison	[Arts & Crafts, Shopping, Fabric Stores, Home & Garden, Home Decor	18
+39269	ljM93seasLFGNZIljfHLKQ	3.5	Madison	[Chinese, Restaurants	8
+39272	-bY4XJM1HrDpsyF1yhabqw	3.0	Madison	[Bars, American (Traditional), Nightlife, Restaurants	4
+39273	fLfnyDBlnW7Kf6xTVh0rdg	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	4
+39274	kCmvdTKgdcHoF-q4E5gmMQ	3.5	Madison	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply	5
+39276	PAEZEsC4w-UFcQydE7XCgA	3.5	Madison	[Hair Salons, Beauty & Spas	3
+39277	Wd5-DgZAV4Lww0nxHoKv5g	4.5	Madison	[Hair Salons, Beauty & Spas, Nail Salons	16
+39280	IJnaMjZAOVecuOnBEYaFKA	5.0	Madison	[Fashion, Shopping	7
+39282	75eh9iZ1wqpu-lhgeav5pQ	4.5	Madison	[Hair Salons, Beauty & Spas	25
+39284	GwY65OC7f8zz5nlXVj_sIQ	3.0	Madison	[Sporting Goods, Fashion, Shopping, Outdoor Gear, Sports Wear	4
+39285	iiI5GbIiTbks8xcfwyXTWQ	5.0	Madison	[Flowers & Gifts, Shopping, Florists	16
+39286	YQdDWLF6pCQHb9EUbmagsw	2.5	Madison	[Food, Grocery	3
+39289	xmp-PR0eVgFcGt2pqPmZbA	3.5	Madison	[Womens Clothing, Fashion, Shopping	4
+39290	80kCi9jgnyWXc5OEvF1MTA	3.5	Madison	[Bars, Nightlife	5
+39291	qZvOUSrOPDvtqCXdeuVacg	3.0	Madison	[Soup, Sandwiches, Salad, Restaurants	18
+39293	AtJ7DeDejpqHvsVYuooQxw	3.5	Madison	[Bakeries, Food	3
+39295	g5vh5GldLzYLjQS-UFPIeg	2.0	Madison	[Home Services, Real Estate, Apartments	4
+39296	7G3XpcqhtIR3lgUuqtYKxw	4.0	Madison	[Home Cleaning, Professional Services, Office Cleaning, Home Services	4
+39298	xXIhRlVSJT946tnQQptYqA	4.5	Madison	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas	20
+39301	pHo_QQqyIdV683NxuNlZmA	3.5	Madison	[Auto Repair, Automotive	4
+39302	OQiuH7p9g5il4A37ovvoag	3.0	Madison	[Steakhouses, Restaurants	47
+39303	hR2GLrIvxzCp2TqWf4sRkA	3.5	Madison	[Active Life, Gyms, Trainers, Fitness & Instruction	7
+39304	PSyhY08tgexo4xlvOii5yQ	2.0	Madison	[Home Services, Real Estate, Apartments	3
+39305	K7sziWHChqAyb8HsQYEGoA	4.5	Madison	[Shopping, Art Classes, Paint-Your-Own Pottery, Party & Event Planning, Event Planning & Services, Arts & Crafts, Education	4
+39307	0L0_0UaCMqGayRAcsc0jHw	3.5	Madison	[Childrens Clothing, Department Stores, Fashion, Shopping	7
+39309	Hjff1gfNx5YZNAJHTzHVpQ	3.5	Madison	[Food, Bagels	4
+39312	sJmCncodnYVFwXTbNpRQLA	4.0	Madison	[Beauty & Spas, Nail Salons	13
+39315	y8rPxSf0m9Qc2A-wwiPkJw	2.5	Madison	[Pizza, Restaurants	7
+39316	NjhS6VQIOK8wWyfAb6e8QA	4.0	Madison	[Pizza, Sandwiches, Salad, Restaurants	19
+39317	c_Bl2seWC_VnIj2v6rBgnQ	5.0	Madison	[Building Supplies, Home Services	4
+39318	aSmrw_SloGjiHH2SVrv_Kw	4.5	Madison	[Active Life, Sporting Goods, Bikes, Shopping, Bike Rentals	5
+39319	mQjO3qU_AWukAgP9EG_qMA	3.5	Madison	[Beauty & Spas, Nail Salons	7
+39322	AHhKaFn0vFjeAiySMac2dg	2.5	Madison	[Thrift Stores, Shopping	7
+39326	frfQiZLxQqfXXhQT6usvHw	4.5	Madison	[Plumbing, Home Services	3
+39328	3hyQZJqcPflkerTVr2zAEA	2.5	Madison	[Womens Clothing, Fashion, Shopping, Accessories	4
+39330	OxCl2YtxmY3wQW9GRSQizA	3.0	Madison	[Shopping, Mobile Phones	12
+39332	OsD6trYZkIHMnv7hFhC6vA	3.0	Madison	[Health & Medical, Hospitals	3
+39333	agxXbna1nwFzLY5ACNy2Og	5.0	Madison	[Pet Services, Pet Training, Pet Boarding/Pet Sitting, Pets	8
+39335	GWy44IkifrxF-o4TeJf48Q	4.0	Madison	[Thai, Restaurants	14
+39336	779Rt7-gZHNBO8AekDHEtQ	1.5	Madison	[Tanning, Beauty & Spas	11
+39338	-xMyOsCndrf-3qggGJWSQQ	2.5	Madison	[Professional Services	3
+39341	771zAy4Y4aYiMkRofZ8uYQ	4.0	Madison	[Fashion, Shopping, Shoe Stores	9
+39343	MV4jSFS2tOiUn_k7TYH_8Q	4.5	Madison	[Shopping, Jewelry	8
+39344	HhOLgA1ljcxzm3iL1XU9-Q	2.5	Madison	[Sandwiches, Restaurants	7
+39345	loqWBxMRsUGGKIkgJLNIvg	3.5	Madison	[Oil Change Stations, Automotive	8
+39346	WSWuVPSRUZTJ8ghvka5zqw	2.5	Madison	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply	4
+39348	Atd-F83vo0rMSI5unq7sJg	4.5	Madison	[Childrens Clothing, Fashion, Shopping, Thrift Stores	9
+39349	boD6NiUV09U9OAxWAM5wnA	3.0	Madison	[Automotive, Car Dealers	5
+39350	eogDKV-Bp2sj4JylS7q_0w	4.0	Madison	[Tires, Oil Change Stations, Auto Repair, Automotive	12
+39351	IgDXiAlYILhNvqwKDXBtFQ	4.5	Madison	[Pet Services, Pet Training, Pets	8
+39354	mXOqJ5ZwISnWYzqCklCDcw	3.5	Madison	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply	9
+39355	9xncPz8c0hQp1wXZNyZynQ	2.5	Madison	[Sandwiches, Restaurants	3
+39356	w2fZehyfK68qGG0vYPjbgA	2.0	Madison	[Active Life, Gyms, Fitness & Instruction	3
+39357	_IE3nSDcprkNz1ZAkHaCzQ	4.5	Madison	[Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	11
+39358	yyFp6roweCVACGtzG77epw	3.0	Madison	[Bakeries, Food, Coffee & Tea, Sandwiches, Restaurants	3
+39359	mcc_xBMCQQvqeiVoyvlBLg	5.0	Madison	[Food, Distilleries	9
+39361	s1g-KfWuJhk9bhzKcVO93Q	4.5	Madison	[Specialty Schools, Education	4
+39362	HlCumau3xO8vau_JAteqUg	4.5	Madison	[Food, Grocery, Mexican, Restaurants	79
+39363	v2AxJeWVvqpw2yMlUZMQqw	2.5	Madison	[Auto Repair, Automotive	17
+39364	_qHHelJVDdZYt-pa4fNSbQ	3.5	Madison	[Optometrists, Health & Medical	6
+39365	jLxTTUnHoWhCwV88z7BROw	4.0	Madison	[Food, Ethnic Food, Grocery, Specialty Food	5
+39368	vNSSn98ePYBbCwRCDnRlVA	2.5	Madison	[Chinese, Restaurants	18
+39369	fEjEBLbGOtZEvAWagnpSoA	3.0	Madison	[Pets, Pet Stores	4
+39370	JdIDnJocVGw3qPQt-TUCzg	3.0	Madison	[Barbeque, Restaurants	176
+39371	yJGMzeEcGTnRF_VVJVXgFg	4.5	Madison	[Local Services, Shoe Repair	17
+39372	G6uZ7mgP8YzP8qFcFH33dQ	3.0	Madison	[Day Spas, Beauty & Spas	24
+39373	QPDROsFns00fqJqroRsPmQ	2.5	Madison	[Automotive, Gas & Service Stations	3
+39374	Y8wjkgRaGezhcZtZgtQmWA	4.0	Madison	[Active Life, Sporting Goods, Bikes, Shopping, Bike Rentals	6
+39376	k9kMU75RBrnr1Tg-350AZQ	4.0	Madison	[Health & Medical, Dentists, Orthodontists, General Dentistry, Cosmetic Dentists	11
+39377	JAH6Z8BvBSftwSEqcR7xUA	4.0	Madison	[Active Life, Gyms, Fitness & Instruction	8
+39380	G0lqU5_S5IJIdz4L7-qPKA	4.0	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels	59
+39381	GQB16Ri8lapgEXfsaOlbnw	4.5	Madison	[Art Schools, Specialty Schools, Education	3
+39383	MxnqbkvJ5_7UVElWFq_ZdQ	5.0	Madison	[Veterinarians, Pets	10
+39384	B5n_4U72uoZ3mkZeQCt9RQ	3.0	Madison	[Delis, Sandwiches, Restaurants	4
+39387	X4xo2fHqoWLnU7Vu4Ty22Q	3.5	Madison	[Thrift Stores, Shopping	3
+39388	pFHIPQVRbu0nElC92nvHfA	2.5	Madison	[Local Services, Sewing & Alterations	7
+39389	_6dQ-bO9HA9eNMqZ4JLIUg	4.0	Madison	[Pets, Pet Stores	7
+39390	1fZaZV_b0SoSwMONiklUGg	4.5	Madison	[Sporting Goods, Fashion, Shopping, Shoe Stores, Sports Wear	13
+39391	wnSzGlTmJClzmsLI2A_lCQ	4.0	Madison	[Shopping, Florists, Food, Chocolatiers & Shops, Gift Shops, Specialty Food, Flowers & Gifts	5
+39392	9uS7KnxzXV_-ZJMk_2rUSA	3.0	Madison	[Bars, American (Traditional), Sports Bars, Nightlife, Chicken Wings, Restaurants	22
+39393	ggUi2hAXbCRph285lcritw	1.5	Madison	[Doctors, Shopping, Optometrists, Ophthalmologists, Health & Medical, Eyewear & Opticians	5
+39394	YGMqGY39YUjdIV18IEj-0w	4.5	Madison	[Sporting Goods, Fashion, Shopping, Shoe Stores, Sports Wear	18
+39397	4Psyi34eStZ_li86p9n3zg	4.0	Madison	[Doctors, Health & Medical	3
+39398	zRYt1B4R-1ZVjNk4sASsOA	2.0	Madison	[Pet Services, Veterinarians, Health & Medical, Pets	4
+39399	wV6DacA2ZlSMibk2K52pEA	3.5	Madison	[Local Services, Printing Services	3
+39400	qzTAzj9XaiUjr3vV_F5-oA	1.5	Madison	[Shopping, Baby Gear & Furniture	4
+39401	0XWHjnyCRQHDHn5jmrtSFw	4.5	Madison	[Sporting Goods, Bikes, Shopping	7
+39402	sv6Fg9VlhTqpDdQ4hvrV9g	5.0	Madison	[Shopping, Toy Stores	3
+39403	g5Sy0l5DfiuK7lx9q0fnQQ	1.0	Madison	[Hotels & Travel, Car Rental	4
+39409	0Ap1rl9WFfS3JS-gBylY4Q	4.5	Madison	[Food, Beer, Wine & Spirits	3
+39428	yZwWJQmisOgR5r1hMaTGyg	4.0	Madison	[Pubs, Bars, Steakhouses, Nightlife, Restaurants	84
+40573	boqWlYtu48UVFiJilQBjyw	3.5	Madison	[Food, Grocery	39
+41076	A32mYktgckODsMR3gM3hRQ	3.0	Madison	[Bars, Restaurants, American (Traditional), Sports Bars, Nightlife	17
+41098	rt1N-s1B3rA8AyvbzIWrMw	2.0	Madison	[Food, Automotive, Convenience Stores, Gas & Service Stations	9
+41138	CU5d1QN2A5cgcR9zmLVS0g	3.5	Madison	[Pubs, Bars, American (New), Nightlife, Restaurants	306
+41171	kkJjyRQHnFYojucX1XrV8Q	3.5	Madison	[Bars, American (Traditional), Food, Breweries, Nightlife, Restaurants	217
+41196	OfvhMAnPFpcHEj9WWCki2g	1.5	Madison	[Arts & Crafts, Shopping	6
+41212	di0k415NkTOQp6mZ6AbTOQ	3.0	Madison	[Bars, American (Traditional), Pubs, Nightlife, American (New), Restaurants	135
+41245	ZWqB_HBXrfSdWgbmJJ05Ww	5.0	Madison	[Acupuncture, Massage Therapy, Health & Medical	4
+41257	n-XCVdiTbK5uhl8twwlRZQ	3.0	Madison	[Chinese, Restaurants	16
+41287	LZhSXYnTkl19ADNbuhflPg	3.0	Madison	[Chinese, Restaurants	21
+43670	QQbrS9OZpQ_eALmMcw4tVw	4.0	Madison	[Mexican, Restaurants	7
+45471	looWLIdxZLUt6PZtVPLvfA	4.5	Madison	[Home Services, Heating & Air Conditioning/HVAC, Contractors	7
+45493	4bBYl_RCAqiQcyADojHUWw	3.0	Madison	[Peruvian, Restaurants	7
+45494	bfd122ps5lrVDwXW-7VePw	3.0	Madison	[Food, Ice Cream & Frozen Yogurt, Juice Bars & Smoothies	18
+45563	xukZlnZOtWp3M8eH2MmIdg	4.5	Madison	[Arts & Entertainment, Performing Arts, Nightlife, Comedy Clubs	17
+45583	nMWzwFu1QZ4lsGFg-F1Ltw	4.0	Madison	[Auto Repair, Automotive, Tires, Body Shops	16
+45686	SNsR4JKTEISDe6Q4B0sIGw	5.0	Madison	[Skin Care, Waxing, Hair Removal, Beauty & Spas	7
+45762	hV22wvZcG-ppTGJUKr7sBQ	5.0	Madison	[Food, Street Vendors, Sushi Bars, Japanese, Restaurants	6
+45774	2uapF8uioz-DZ2Eq0eeXmQ	3.5	Madison	[Chinese, Restaurants	37
+45796	SYSvcy1VVQoprZhYVuMydg	3.5	Madison	[Bakeries, Food	62
+45825	H8c1h6C85_yWpZJyTo_1Ow	3.0	Madison	[Shopping, Mobile Phones	11
+45925	6jchWjYBBLfa4vrODZtgKQ	4.5	Madison	[Bars, Nightlife, Lounges	44
+45937	wDbybGfOTodZ-FHcAkFJew	4.5	Madison	[Pet Services, Pet Boarding/Pet Sitting, Pets	6
+45955	GNNQAUC72sEoqrqB3Qg7EA	3.5	Madison	[Sandwiches, Restaurants	31
+46002	D29kq7IMnXgUO38dqE9aqA	3.5	Madison	[Mexican, Restaurants	6
+46214	UwUkSpVnU5hlw-zHrCBa0w	3.0	Madison	[Womens Clothing, Department Stores, Fashion, Shopping, Baby Gear & Furniture	8
+46292	hie20LBtxJNRU76iSL_LBw	3.5	Madison	[Himalayan/Nepalese, Restaurants	11
+46339	KeB7A7vUQG1dg6a0R43khw	4.5	Madison	[Bars, American (Traditional), Music Venues, Arts & Entertainment, Pubs, Nightlife, Restaurants	11
+46394	SQbHqhfb-x2WuVBmo1WsFQ	4.0	Madison	[Bakeries, Food, Mexican, Restaurants	17
+46439	fMT9pA91dW7jOhaqTlJPRA	2.5	Madison	[Pubs, Bars, Nightlife, Venues & Event Spaces, Event Planning & Services	7
+46465	xCoAdsSkgwEm-hzkN25NHA	2.5	Madison	[Mexican, Restaurants	39
+46568	WgAG5p6oSKPheFRjbWKdnQ	3.0	Madison	[Mexican, Restaurants	16
+46767	JHH_izscXkz4L_vhSWgj1Q	4.0	Madison	[Barbeque, Restaurants	10
+46807	y5DEWK5MJoZav-V5BQ8jEA	2.5	Madison	[Tapas/Small Plates, American (Traditional), Restaurants	12
+46818	mwNNG8ex3cAluiJ3HsJmhw	3.0	Madison	[Auto Repair, Automotive, Car Dealers	9
+46943	N2JLcJVu7GNI1gljz7MfDw	4.0	Madison	[Moroccan, Restaurants	8
+46952	AzK5N3C1KP3TU45f-WV3eQ	2.5	Madison	[Mattresses, Shopping, Home Decor, Home & Garden, Furniture Stores	5
+46988	f-Dr_xP_V4Sq2hVEDjecQw	3.0	Madison	[Active Life, Yoga, Fitness & Instruction	4
+47036	Rp-v0BKc8JaN7pKj8P0pyg	3.0	Madison	[Active Life, Beauty & Spas, Yoga, Massage, Fitness & Instruction	4
+47040	qN-ZkN7mJ_HpA1eKr4TJpw	2.5	Madison	[Steakhouses, Sandwiches, Restaurants	24
+47066	H_v6RNdguzFiINUKkMWvZA	2.5	Madison	[Vegetarian, Sandwiches, Salad, Restaurants	23
+47070	CE9LhgZAlFsbNCbGhts61w	5.0	Madison	[Professional Services, Graphic Design, Signmaking, Web Design	3
+47076	mmET_2OZTfcI1VDJRMpEkA	3.0	Madison	[Bars, Restaurants, American (Traditional), Sports Bars, Nightlife	11
+47082	-v5_76SRmuhFPC283NIAJA	4.5	Madison	[Seafood, American (Traditional), Restaurants	14
+47107	FuBvRp5gR0_Y6DV_l5ph3A	5.0	Madison	[Food, Street Vendors, Sandwiches, Restaurants	52
+47136	5KF3AmuVuaNQVD-R7JGDpA	3.5	Madison	[Vietnamese, Chinese, Restaurants	14
+47192	81PXKNXkILVMu1UiLey6eQ	4.5	Madison	[Arts & Entertainment, Landmarks & Historical Buildings, Stadiums & Arenas, Public Services & Government	28
+47206	ChGhLt5JU2TfoDb3DLQa2A	3.5	Madison	[Nightlife, Bars, Pizza, Sports Bars, Restaurants	21
+47586	mCDxCgLrtC6ehnqA2kdlBA	4.0	Madison	[Peruvian, Latin American, Restaurants	8
+47712	XRYsM9QOsmktvsu0ZJyYqg	4.5	Madison	[Food, Coffee & Tea	13
+47718	9ba9aK35i8Jj_Q0h6IF4uA	3.0	Madison	[Arts & Entertainment, Festivals	9
+47878	TsED6jRb5oz3jc9HXJ2dAA	3.5	Madison	[Event Planning & Services, Caterers	11
+48154	uhPXsYt-6nAzYcUoo2InFg	3.5	Madison	[Asian Fusion, Chinese, Restaurants	62
+48266	Xys8CR7m-Lf8j3SUSAN9Ug	4.5	Madison	[Mexican, Restaurants	105
+48300	oIJYW6CGV3anvQE-SpofzA	3.5	Madison	[Mexican, Restaurants	107
+48301	tsRvkXctd4Aw-5tpXpFH6Q	3.5	Madison	[Restaurants, Italian	92
+48334	cmv6wUUe-H0xRiFEY0__iQ	4.0	Madison	[American (New), Restaurants	719
+48364	V-Ic99jKW-IG4EnI_5HunA	3.5	Madison	[American (Traditional), Steakhouses, Barbeque, Restaurants	53
+48389	wYjGLaqPl4zi8RlJHWapfw	4.5	Madison	[Local Services, Carpet Cleaning	4
+48436	WJTlpUuFOb7TULbvummxBA	4.5	Madison	[Automotive, Motorcycle Dealers	3
+48508	v_05CQcbsFHOPMujmdIB9w	4.0	Madison	[Pediatric Dentists, Health & Medical, Dentists	3
+48518	mJIjKI-ZvW9GapzG-KSGVA	4.5	Madison	[Fashion, Shopping, Home Decor, Home & Garden, Mens Clothing, Womens Clothing	5
+48664	GmzXl2AyaOrEcfszW4zSsQ	3.5	Madison	[Burgers, American (Traditional), Chicken Wings, Restaurants	14
+48751	umOU5q-ZEWQvDPNo8N8yFg	3.0	Madison	[Burgers, Restaurants	17
+48989	KxuBaq2D2yCM9b6EDM6SRw	5.0	Madison	[Veterinarians, Pets	18
+48994	nyAk_mJcKKLk3R6kixxWUg	2.5	Madison	[Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	3
+49027	1rI0DyMCLppyISON3V3kcw	4.0	Madison	[Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	10
+49125	_jCzbhNoIMqGXkqUbvWZJQ	5.0	Madison	[Day Spas, Hair Removal, Beauty & Spas	3
+49170	mdyBmiI5tZtCmfa4RtHy5Q	3.5	Madison	[Local Services, Shipping Centers, Printing Services	6
+49217	3mEOCjX7s9mW4QUMqAAyOA	4.0	Madison	[Vietnamese, Noodles, Restaurants	100
+49220	YAD6k6DBBxgevBkyXgKE4Q	3.5	Madison	[Mexican, Restaurants	11
+49245	tgTEZ7OPGwf9z4WbMAYLOQ	4.0	Madison	[Post Offices, Public Services & Government	9
+49317	Qn4X80v1Qomn-c7VrHT8Tw	2.5	Madison	[Hotels & Travel, Taxis, Transportation	88
+49468	lJZ6Fmei-JTNb-6AsGVFJg	3.5	Madison	[Chinese, Restaurants	90
+49479	KHLvc28_VA3X5CWS6JeVXQ	3.5	Madison	[Bakeries, Food, Cupcakes, Desserts	69
+49482	tycjOWP7WcaltU2C41g1Ug	3.0	Madison	[Doctors, Health & Medical, Obstetricians & Gynecologists	6
+49493	8GlGakyGqp9WvToKcnJmxg	4.0	Madison	[Italian, Mediterranean, Restaurants	174
+49584	U1NONT5u_OXMy93MYiPByA	4.0	Madison	[Food, Beer, Wine & Spirits	9
+49634	B1HTB6w695NqBmsE0P3abg	3.5	Madison	[American (Traditional), Steakhouses, Restaurants	45
+49648	MjYLrxeKrOwC08oWgLdPJg	4.0	Madison	[American (Traditional), Restaurants	13
+49651	VwImfQqQfbUuUaj4aCN1rA	4.0	Madison	[Sandwiches, Restaurants	19
+49694	FK_jzgn-m43CMlgIijEdZg	3.5	Madison	[Tapas/Small Plates, Brasseries, American (New), Restaurants	34
+49708	kb9tYt5ROG7UCErX0zhskg	3.5	Madison	[Mexican, Restaurants	70
+49804	Qnv-Kl3HW650ad8vl6M3fw	3.0	Madison	[Sushi Bars, Japanese, Restaurants	16
+49926	aqnvzRlSMlW5OX9A-qipLA	2.5	Madison	[Breakfast & Brunch, Restaurants	25
+49942	nO59tN9sr4bqHbFP7WvMFg	5.0	Madison	[Food, Grocery	5
+50043	11TesR4KkvWZaTHaVINe2w	3.5	Madison	[Chicken Wings, Restaurants	32
+50082	Bm1OdFUtvf-PuWAKUyItaA	4.5	Madison	[Hair Salons, Beauty & Spas	30
+50129	FN0sVCC23RqzW3bM9T4dlg	4.5	Madison	[Hair Salons, Barbers, Beauty & Spas	38
+50171	1OHZI2oR6BuU49qK9kXoOQ	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	7
+50181	Uf78XOVc46wcUt5pzdasQg	4.5	Madison	[Thrift Stores, Shopping	4
+50185	9GHHH-edaSLwKZahZTdM3g	3.0	Madison	[Pubs, Bars, American (Traditional), Nightlife, Restaurants	94
+50215	SX2jx_B1zRpvtexn83Y0CQ	3.0	Madison	[Shopping, Drugstores	8
+50216	mJFWRws-E-ak1_CoBo9rcA	4.5	Madison	[Bakeries, Food, Coffee & Tea, Cafes, Restaurants	5
+50272	0SI8uf2eMgzzvIsckSVxbA	4.5	Madison	[Arts & Entertainment, Shopping, Jewelry, Art Galleries, Gift Shops, Flowers & Gifts	5
+50279	xdVoVO0SjRth_Af5mtOvTg	3.5	Madison	[Pubs, Gastropubs, Nightlife, Bars, Restaurants	81
+50386	buDBYbGktJibkZ5W5jtp0Q	4.0	Madison	[Shopping, Home Services, Building Supplies, Home & Garden, Kitchen & Bath, Tiling	6
+50401	wKMtRo4WdqEgdX3Tob6ORQ	5.0	Madison	[Libraries, Landmarks & Historical Buildings, Public Services & Government	6
+50405	nSCCxCizP103ClWTEYyC-A	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	10
+50449	wYV2cd3qIun7rLqQVPvWFw	5.0	Madison	[Hair Salons, Beauty & Spas	4
+50453	ImJ7QAw6T6ayJT1AGr7OgA	4.0	Madison	[Bars, Wine Bars, Cocktail Bars, Nightlife, American (New), Restaurants	362
+50476	-VTXuh3Ci330BRrnam6XUQ	3.5	Madison	[Food, Desserts, Ice Cream & Frozen Yogurt	10
+50491	_z764KtuUP8Y41Ga5ejUlQ	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	6
+50513	QLiuMn911qIKSrtovtX1Fw	4.0	Madison	[Food, Coffee & Tea	41
+50639	6u4Ew2EWkU2KEJHowFu3jg	5.0	Madison	[Bakeries, Food, Farmers Market, Desserts	6
+50695	XENVkdPK6UsiVABOWTTUoA	5.0	Madison	[Massage, Beauty & Spas	3
+50710	bee_DAFUBI2MzhBytXHGoQ	3.5	Madison	[Burgers, Tex-Mex, Barbeque, Restaurants	9
+50762	GTAOZFZqZmis3TuM9H_t1w	4.0	Madison	[Tapas/Small Plates, American (New), Restaurants	94
+50798	Qks_SXttsPnCPLgRt_H73Q	4.0	Madison	[Massage, Beauty & Spas	8
+50859	FbMM7eqnhQuZ6yQ2D4qXcw	2.0	Madison	[Soup, Sandwiches, Salad, Restaurants	9
+50961	nTtHXkGVjBrE1Eez-mT3aA	2.5	Madison	[Japanese, Restaurants	27
+51041	E1Sa0iT3ehP4lMGOfmGB5g	4.5	Madison	[Pet Groomers, Pet Services, Pet Stores, Pets	4
+51126	-7kSfrNsb-RUUD0No9eLmw	4.0	Madison	[Massage Therapy, Health & Medical	17
+51254	Op-zCqnKJ5ya9pPHVa7LAg	4.5	Madison	[Food, Distilleries	62
+51265	jyZgW2VXHiprCxMFQSvYhA	4.5	Madison	[Active Life, Playgrounds, Parks	8
+51293	yWJxSAVa1lFx15g7Ws0XAw	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	7
+51309	dnpvVu7Pv8-9sf7ydmEA7g	2.5	Madison	[Auto Repair, Automotive, Tires, Oil Change Stations	6
+51366	tCYKZXzVg2zBAzmprrZt-g	3.5	Madison	[Taiwanese, Japanese, Chinese, Restaurants	270
+51388	bZHiRv_pvggzA6fTEhy8dg	4.5	Madison	[Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	7
+51433	KJzbxY4NJir2JTyf2ZpyuA	3.5	Madison	[Chinese, Restaurants	141
+51472	hbDgPvNwfC0-Lpr2lhmG7g	4.0	Madison	[Department Stores, Fashion, Shopping	24
+51588	mu-TKEfv_8qvhWjF_Jd9DQ	3.5	Madison	[Beauty & Spas, Nail Salons	25
+51600	2sJ3f-1lKo3oL5URrAAhPw	3.5	Madison	[Bakeries, Food, Cafes, Restaurants	10
+51628	bJXouCx55hUu7EJKF99ZzA	5.0	Madison	[Veterinarians, Pets	3
+51634	_FHj7CEbxgXppkP-XKMuXg	4.5	Madison	[Mexican, Restaurants	13
+51638	jbg4nsAmAsAy4uk7GO9GuQ	4.5	Madison	[Thai, Restaurants	8
+51672	g-lhHfhIDKFWwEEG0pk1dg	4.5	Madison	[Skin Care, Hair Removal, Makeup Artists, Beauty & Spas	68
+51676	HUkY1CIeUeaSnW1vZplC0w	4.5	Madison	[Food, Bubble Tea, Coffee & Tea, Specialty Food, Ethnic Food	74
+51863	7C73amhxIR12YQmrxyHsZQ	5.0	Madison	[Photographers, Session Photography, Event Planning & Services, Event Photography	4
+51864	mUiYZD7HXLM7IpBVEJ_kNw	4.0	Madison	[Active Life, Gyms, Meditation Centers, Yoga, Fitness & Instruction	33
+51868	VkQYdpbna8eTYaHZ3fAMbg	4.0	Madison	[Coffee & Tea, Food, Breakfast & Brunch, Bars, Pubs, Nightlife, Restaurants	132
+51897	6BaQ2FZTDi2FYX9dIxWeJA	3.5	Madison	[Bars, American (New), Nightlife, Lounges, Restaurants	45
+51924	pkdEo8b3IEREOGJLbI71bA	3.5	Madison	[Hot Tub & Pool, Shopping, Home & Garden	3
+52047	WxpKD8iGDNX6Gtpi8y-AVA	5.0	Madison	[Auto Repair, Automotive	16
+52074	ZYsfZ94ilcydECH3L4NF_Q	2.5	Madison	[Health & Medical	3
+52080	9ZN379cLYjuPBMzJyC1ClQ	4.0	Madison	[Lingerie, Shopping, Fashion	18
+52101	XstnM5vqSqdw-9rLSzUg5A	4.0	Madison	[Mediterranean, Restaurants	97
+52125	ShnaTLzPuhql6Qv7cdKPAw	5.0	Madison	[Bakeries, American (Traditional), Food, Tours, Hotels & Travel, Restaurants	12
+52149	xtW28KmwigJ8fAPgT6OkFw	4.0	Madison	[Bars, American (Traditional), Nightlife, Restaurants	45
+52310	cFzx0vRcqTvWWJ1mb6dbPg	4.5	Madison	[Food, Beer, Wine & Spirits	8
+52321	IncHBMUV1ZqQIuuUqNWCow	3.5	Madison	[Bakeries, Food, Delis, Breakfast & Brunch, Restaurants	73
+52464	BIZJ8UjhK3fXu3YjHDZztg	4.0	Madison	[Vegetarian, Cafes, Sandwiches, Restaurants	10
+52560	uJ-i_-GGYUnzCEs40Fkweg	4.0	Madison	[Bars, American (Traditional), Nightlife, Restaurants	250
+52572	RSus8g2uybiZVmcTK0PeIw	4.0	Madison	[Sushi Bars, Japanese, Restaurants	225
+52590	n-O-ZAWuFNcT3_saUNuijA	2.5	Madison	[Chinese, Restaurants	19
+52656	VKE_hst3k3mImpjtvAzqeg	4.5	Madison	[Food, Coffee & Tea	48
+52715	gd6Vp5KC2w88jE_WXjlCTQ	3.0	Madison	[Indonesian, Restaurants	9
+52722	4i14LBvjhy7jfbTmhZYZaA	2.5	Madison	[Food, Wine Bars, Coffee & Tea, Bars, Nightlife	9
+52804	6gBVMQaifDGUpJW_SpiIZg	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	27
+52836	Ei2ZYXQYJmQ4AHPxk_GuVA	4.0	Madison	[Eyelash Service, Nail Salons, Tanning, Beauty & Spas	8
+52871	YuEJiPWOvk7rm63UinIZYA	2.0	Madison	[Pizza, Restaurants	6
+52872	9p1o6jCY4fkQAJRmEjgSMw	4.0	Madison	[Active Life, Recreation Centers, American (New), Restaurants	16
+52873	vN1KCflhy4ZrfA7DECGxtQ	3.0	Madison	[Delis, Sandwiches, Restaurants	5
+52874	6fDr0uxQ6HahgzMq0EkUXQ	2.5	Madison	[Asian Fusion, Restaurants	11
+52924	6QR-mdYPWJ9WuN7-xtTfQg	4.0	Madison	[Food, Street Vendors, Mexican, Restaurants	3
+52937	sKNqTICN-nyn5hRNmPO8tQ	3.5	Madison	[Mexican, Restaurants	73
+52948	vlnTdGZI77jOojDsD6KzAQ	4.5	Madison	[Peruvian, Restaurants	13
+52966	v4-3IZXx0HohwQ5_ER7-Nw	4.0	Madison	[Shopping, Mobile Phone Repair, Local Services, IT Services & Computer Repair, Electronics Repair, Mobile Phones	15
+53014	NktflCS0XU0jNnfmA_rUVQ	3.0	Madison	[Sandwiches, Restaurants	16
+53045	u9D56nbjL1IwxEdlrB4XPw	3.5	Madison	[Cafes, Sandwiches, Restaurants	23
+53082	tpQSjp2pWk0IOdCTO07PWw	5.0	Madison	[Education, Test Preparation, Private Tutors, Educational Services	3
+53124	j3Blq-_3GyMJqkQ8mAyGOQ	3.5	Madison	[Hair Removal, Nail Salons, Beauty & Spas	38
+53237	yXBo7Wgos9B-KzkYSMrNJw	4.0	Madison	[Dim Sum, Chinese, Restaurants	162
+53254	z7-Z65tF1H633Flt-7OO-w	3.5	Madison	[Arts & Entertainment, Festivals	8
+53332	RJAQkqB_3Tf6pPzS3rnwFw	3.5	Madison	[Barbers, Beauty & Spas	46
+53342	IPang2vKjYN7jM2l1ZeaXQ	4.5	Madison	[Active Life, Sporting Goods, Bikes, Shopping, Bike Rentals	11
+53362	rGIWg01fhyQ_pVRL7Y-EXw	3.5	Madison	[Local Services, Electronics Repair	5
+53442	R2060e-CaVOuvncSKiwh0g	3.5	Madison	[Burgers, Restaurants	88
+53479	37mAogA4sqT_la1WLK2xYg	5.0	Madison	[Lingerie, Shopping, Fashion	6
+53484	b-MRLaucB_DXuthLt1_frw	3.5	Madison	[Nail Salons, Massage, Beauty & Spas	12
+53599	lzW6Zcq0GemapY3Ue_7UGg	4.0	Madison	[Beauty & Spas, Nail Salons	34
+53684	E_KgeUKhVOTB5MmzP-i2MA	3.5	Madison	[Active Life, Gyms, Fitness & Instruction	3
+53706	ICwzZc3tCSZDHqi4thCIRQ	5.0	Madison	[Food, Empanadas, Street Vendors	32
+53740	2KiC2dj6rf3UWuvj6RPAgw	4.0	Madison	[Seafood, Bars, Nightlife, Restaurants	157
+53828	OpgTH2E8OOiN_n98kKeatw	2.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	6
+53921	NwpLyXhYhid7YND3n63MqQ	3.5	Madison	[Latin American, Caribbean, Restaurants	3
+53938	TqQEtYD9rgemLFpSpeNDsA	4.0	Madison	[Food, Street Vendors, Caribbean, Restaurants	3
+53943	tca9YdoxwUBXuQb1_IEkOw	2.0	Madison	[Bars, American (Traditional), Nightlife, Restaurants	4
+53992	MRObvlfMLEhz9szPTMkGwQ	3.5	Madison	[Bars, Venues & Event Spaces, Pubs, Nightlife, Event Planning & Services, American (New), Restaurants	47
+54029	R4Z7wIDuhw0NZIdcGcQ6hg	5.0	Madison	[Hair Salons, Eyelash Service, Hair Removal, Beauty & Spas	6
+54047	D3a0vrdXzT_UkbPNhK8f7w	3.5	Madison	[Arts & Entertainment, American (Traditional), Bars, Pubs, Nightlife, Jazz & Blues, Restaurants	70
+54141	zrOu5byZO9GuGm3b6pdbnQ	5.0	Madison	[Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	3
+54184	WFDqu9gYBPi1LzrRe85k1A	4.0	Madison	[Pizza, Restaurants	23
+54186	KPO8pJI5Ul8QZuC6nKL79Q	2.0	Madison	[Cosmetology Schools, Specialty Schools, Education	5
+54222	jM-vUiQqkHDanbUezYAgSg	5.0	Madison	[Chinese, Restaurants	3
+54225	pYEGS9sTrmI7ZRYr6PUVMQ	2.5	Madison	[Japanese, Chinese, Restaurants	6
+54284	48Qg18SR0flit8fAvHAcvQ	3.5	Madison	[Latin American, Restaurants	16
+54287	IQir8LAg3twHUpyTFbKzsQ	2.5	Madison	[Burgers, American (Traditional), Restaurants	9
+54306	YKAjWUySGTKiFH6_JCFuPw	5.0	Madison	[Skin Care, Health & Medical, Reiki, Massage, Beauty & Spas	13
+54330	Qg9vXiLfqJYNRW2GxFtdyg	2.5	Madison	[Breakfast & Brunch, American (Traditional), Restaurants	3
+54359	qeX3vq-mN2F4zXF9qF4FKg	4.0	Madison	[Active Life, Gyms, Fitness & Instruction	5
+54369	exfWB4hSVa1jWCVerV-0PQ	2.5	Madison	[Greek, Restaurants	6
+54421	XUkL49fHLsM6zqpjvzfl7g	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	66
+54453	vogZZuDmuVZmKssoZ11Kyw	4.5	Madison	[Food, Mediterranean, Food Trucks, Restaurants	248
+54473	OnsHdtmGsi7C7uzQWVzDkA	4.0	Madison	[Food, Coffee & Tea, Cafes, Restaurants	35
+54512	lacQtBT5y4-ba3Vc5zaChQ	3.5	Madison	[Chicken Wings, Restaurants	22
+54529	p2aEWMs1uGYQkwCKM175Ew	4.5	Madison	[Food, Coffee & Tea	14
+54567	ZWL4WsDHMNu0MIICTG1Nyg	3.0	Madison	[Sushi Bars, Japanese, Restaurants	6
+54776	nrqne8B9Dp36XW71y3MryA	3.0	Madison	[Bars, Gay Bars, Nightlife, Dance Clubs	11
+54783	6nJfunvc3qyJ_32W1xNgYg	3.0	Madison	[Mexican, Restaurants	18
+54811	4buhMysOQJBM6dHx7TxuUw	3.0	Madison	[Breakfast & Brunch, Cafes, American (Traditional), Restaurants	77
+54846	aYrkDcTvMdC_H_q5sCha0Q	5.0	Madison	[Sporting Goods, Shopping	3
+54867	yYLq0mtLpEjJTMBMfG1Cdg	3.5	Madison	[Italian, Pizza, Restaurants	75
+54870	igg0AtAZlfO6-bKoPEpcBA	3.5	Madison	[Tobacco Shops, Food, Grocery, Shopping, Convenience Stores	3
+54911	03yij332OZ6UNqajNgZsGA	4.5	Madison	[Cheese Shops, Food, Specialty Food, Ice Cream & Frozen Yogurt, Sandwiches, Restaurants	42
+54923	1rfWLxrk1q7k5oORhn9aiw	5.0	Madison	[Auto Repair, Automotive, Tires, Oil Change Stations	24
+54930	zAxbob72NK9MzA145_83JQ	4.5	Madison	[Pet Services, Pet Training, Pets	3
+55151	V_s-3M5OykfPoFTjFwInDQ	3.0	Madison	[Bars, Restaurants, American (Traditional), Sports Bars, Nightlife	10
+55157	aeCqCz6WghIiTbZAzre5YA	3.0	Madison	[Active Life, Gyms, Trainers, Fitness & Instruction	11
+55369	06Ca9mdo2rbAs84Us2n7LA	2.5	Madison	[Beauty & Spas, Nail Salons	7
+55371	w0KMxm95bsT2CY4RdTyKTg	3.0	Madison	[Active Life, Gyms, Trainers, Fitness & Instruction	3
+55388	KoevBLTPN_HKlV2QQwduXA	4.0	Madison	[Food, Coffee & Tea	20
+55569	6pYw00nLXSFTAsFngeB2Pw	3.5	Madison	[Food, Bakeries, Breakfast & Brunch, Coffee & Tea, Restaurants	40
+55594	nNtQUTbPkTiuPt5S9_RBFQ	4.5	Madison	[Soul Food, Delis, Restaurants	22
+55598	0lN71KKnrMMuRDIssDVGww	4.5	Madison	[Bakeries, Food, American (Traditional), Desserts, Restaurants	17
+55650	ywbedaAD0n5kP-f4dwAdeA	3.0	Madison	[Chinese, Restaurants	6
+55718	_4X7z1TsEWof2KfDq54k3A	5.0	Madison	[Pets, Pet Stores	5
+55801	NVxVxIejYzTYC0Pykia91A	4.5	Madison	[Bakeries, Food, Breakfast & Brunch, Coffee & Tea, Restaurants	122
+55958	Bgsr91YOV0F48h0OUCgciA	3.5	Madison	[Irish, Breakfast & Brunch, Restaurants	69
+56045	lqtnPT2bt71gaCc6lQNFeg	3.5	Madison	[Hobby Shops, Comic Books, Toy Stores, Shopping, Books, Mags, Music & Video	8
+56064	LgmhYKj8XnMB9U2-Y4Osiw	2.0	Madison	[Food, Coffee & Tea	7
+56126	SVPZQV96CkyRyUhkJpyAvw	5.0	Madison	[Home Services, Heating & Air Conditioning/HVAC	15
+56248	UwB6V3k3TM4ruUF0Y6Qwyg	4.5	Madison	[Hair Salons, Waxing, Hair Removal, Beauty & Spas	12
+56264	Tuhf_E9zblcStlOLCLkOmw	4.5	Madison	[Active Life, Hiking, Parks	3
+56301	UZMZy6U9BeB8_7qIfJdDbg	4.0	Madison	[Departments of Motor Vehicles, Public Services & Government	13
+56331	5BTN-_hjoehqDEl3acC4Tw	4.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	14
+56404	x-q08gEaLM73OyabCSKKGg	3.0	Madison	[Bars, American (Traditional), Sports Bars, Nightlife, Chicken Wings, Restaurants	34
+56448	CsvAgiAaIgaFxW8D8AWeXQ	4.0	Madison	[Local Services, Sewing & Alterations	9
+56559	n0nO8SqUhinPwsYWxF6Ggw	4.0	Madison	[Barbeque, Restaurants	36
+56708	JeQoph3qUjc1R1hB2Ym4hA	3.0	Madison	[Pizza, Restaurants	16
+56739	6cimzMIs2I_DvLr9bTV9Gg	3.5	Madison	[Local Services, Junk Removal & Hauling	4
+56871	2Pcpp2_RMAmbqKFy6VgOMw	4.0	Madison	[Beauty & Spas, Nail Salons	5
+56888	UzHDHMMQcTn1qlYzZFFVsA	4.5	Madison	[Local Services, Dry Cleaning & Laundry	4
+56941	6a0FrHoa_4hTnh0cwrntug	5.0	Madison	[Hair Salons, Beauty & Spas	4
+57030	ZTiP-zNqMENWV_KAv9FBvg	3.5	Madison	[Indian, Buffets, Restaurants	14
+57043	g6YGGPsmtOpO_xcBASU0Ng	5.0	Madison	[Bakeries, Food, Mexican, Restaurants	3
+57172	kRQtP69wGVMQ51JiIXJ6Uw	4.0	Madison	[Pizza, Restaurants	4
+57394	PjQIxDsWjdqNeRmIKUvmxQ	5.0	Madison	[Photographers, Session Photography, Event Planning & Services, Event Photography	4
+57425	2pODeDkLYUSv0BBVkNoB9Q	4.5	Madison	[Hot Dogs, Restaurants	18
+57490	dCG3yFem4oGjZoFgjc6X7A	5.0	Madison	[Hotels & Travel, Bus Tours, Tours, Wine Tours	22
+57533	sFPuFr5P2y1X7QYESzxmdQ	3.5	Madison	[Departments of Motor Vehicles, Public Services & Government	11
+57737	RO-9-UB9FlWg2kt8w1qf5g	3.5	Madison	[Breakfast & Brunch, Restaurants	9
+57870	PPb2B58_FwCCjUxfTlBYsg	2.5	Madison	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas	4
+57878	_Eopx2tRCED4NcqppR7itQ	2.0	Madison	[Pubs, Bars, Nightlife	53
+57890	qyaZRIGaJJSC3iJ29VU4Dg	4.5	Madison	[Food, Desserts, Food Trucks	20
+57978	mfyN5vtvzga1LCU_8zQVhg	3.0	Madison	[Caribbean, Restaurants	4
+58016	yiA41pT7DYa4-aX9i0E_Xg	3.5	Madison	[Greek, American (New), Restaurants	24
+58069	hQqpcdl0ja6yCWzmhkTUuQ	3.5	Madison	[Mexican, Restaurants	30
+58101	sl6AN-D-yPAbqasaKmFpNw	4.0	Madison	[Womens Clothing, Fashion, Shopping	10
+58179	cbewJ1eS5PKw641gexJiDQ	3.5	Madison	[Nightlife, Dance Clubs	10
+58297	iJoOddOUDpJISnQxzcDw9Q	3.0	Madison	[American (New), Restaurants	8
+58325	1xxXuMWrJqsL7dU5qh31dA	4.5	Madison	[Active Life, Boxing, Gyms, Trainers, Fitness & Instruction	3
+58641	lfl-JDCyEQWn5EQVnsLlQA	4.5	Madison	[Pet Groomers, Pet Services, Pets	3
+58651	eG3Kxpv-JOLib9o5W9Aiyw	4.5	Madison	[Tapas Bars, American (New), Mediterranean, Restaurants	289
+58681	2GZJid1Jw4iStcsYeynQ2Q	4.5	Madison	[Cafes, Sandwiches, Gluten-Free, Restaurants	3
+58855	FEAThH5bopnifwEhMMCCFg	3.5	Madison	[Thai, Restaurants	53
+59008	EkGPPkqPj4_MB-cJLZhw1Q	3.5	Madison	[Vietnamese, Restaurants	18
+59068	BoYuRrfyC6qQSaJFrgAWWg	4.0	Madison	[French, Restaurants	46
+59084	UIjO8lq1Lh0H2l9VfIfifQ	4.0	Madison	[American (New), Restaurants	197
+59196	X0GjR02J7Sequc_I8pUQvw	5.0	Madison	[Pet Groomers, Pet Services, Pet Boarding/Pet Sitting, Pets	6
+59219	UcamNj85k9VRdB_JaAz1zA	4.5	Madison	[Active Life, Dance Studios, Education, Adult Education, Fitness & Instruction	11
+59221	tNrj4Ta6SaAjcKtecSfVfQ	3.5	Madison	[Banks & Credit Unions, Financial Services	3
+59306	STVJZ1jKzAwv0n_TOSKXeQ	5.0	Madison	[Arts & Entertainment, Performing Arts	3
+59310	T5WMwqNHuAZacN-TISHEvg	4.5	Madison	[Sporting Goods, Bikes, Shopping, Fashion, Sports Wear	8
+59362	9IEcp9n6FgHVlbIrT5erbA	5.0	Madison	[Hotels & Travel, Bed & Breakfast	8
+59390	qNPSCwlcOZeJ5gn3Yr8JwQ	2.5	Madison	[Electronics, Shopping, Jewelry, Pawn Shops	8
+59501	24_ltXORy8Taumt3NO9zsQ	2.5	Madison	[Burgers, Fast Food, Restaurants	7
+59502	LDxbn1QDBJodSXOMonD_Nw	5.0	Madison	[Pet Services, Veterinarians, Pet Hospice, Pets	7
+59527	ZClGeWaKwJcO-AIYPSbQew	3.0	Madison	[Food, Coffee & Tea, Bagels	13
+59599	6xxlx1m1rm2jYvsWcERhSA	4.0	Madison	[Food, Breweries	82
+59635	7RaoqPZzkKYSQn8ssg6DOQ	5.0	Madison	[Food, Grocery	4
+59640	BZukyg37Vf7j0oLJC24LHg	3.5	Madison	[Sandwiches, Restaurants	15
+59650	-W7kIVd5iQj2-jH37ej24w	1.5	Madison	[Pizza, Restaurants	7
+59654	HTrkCh76jxId94Dxi3IJyw	3.0	Madison	[Automotive, Car Dealers	13
+59700	V1quzVs0oS-f4zq0E9ZDYw	3.0	Madison	[Home Services, Real Estate, Apartments	6
+59701	IzSXqxIto8XZb70oW3tagg	4.0	Madison	[Mexican, Restaurants	73
+59702	uhxcmHsXI08b4wWs_zzVMg	3.5	Madison	[Asian Fusion, Restaurants	38
+59789	rTiw9MFIt_j4OwZCgf093g	4.5	Madison	[Arts & Entertainment, Festivals	3
+59835	ft275JtKgNgqyNf5THjC4g	5.0	Madison	[Food, Beer, Wine & Spirits	23
+59839	V250hsqL_z-_J16aew8wcw	4.0	Madison	[Restaurants, Italian	102
+59862	N-KDWD5WryO5K_ORj6brGw	3.5	Madison	[Pubs, Bars, Nightlife	9
+59901	oYmiLwoG5IHTtF_7_f212Q	4.5	Madison	[Pet Groomers, Pet Services, Pets	3
+59933	IjEwhQNxl38kY4qIfRS_6A	5.0	Madison	[Massage Therapy, Health & Medical	3
+59953	0F4J5hHWHoTZz2-zCc508w	3.5	Madison	[Hair Salons, Beauty & Spas	11
+59968	J9e170ePOgmkaJR1pEFB3Q	3.0	Madison	[Tapas/Small Plates, Breakfast & Brunch, Spanish, Restaurants	26
+60082	hYtUVJIPeC-W6jA9fbbQ1Q	4.5	Madison	[Food, Ice Cream & Frozen Yogurt, Desserts	14
+60093	59HbIvjRvRyLfB8BnkoSYg	4.0	Madison	[American (Traditional), Fish & Chips, Restaurants	6
+60107	I8JhwSLo3xY-1DZnNMgMjQ	2.5	Madison	[Skin Care, Day Spas, Beauty & Spas	7
+60122	7y7OKTQrzId2wjQMxbKLQg	1.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	7
+60136	VEMMt0vBzBt6ZXtA9NDn0A	5.0	Madison	[Local Services, Pest Control	6
+60153	MDFg5eIgO_TOvkT0L41cpQ	4.0	Madison	[Food, Grocery	4
+60182	TzEc-DlYwLNtFDJjRt3x0g	3.5	Madison	[Food, Ice Cream & Frozen Yogurt	20
+60207	5PEkrmlKAtvNf4YLKeIKuw	1.5	Madison	[Banks & Credit Unions, Financial Services	3
+60270	5Xg-GwymahJ-W1jrezvuvw	2.5	Madison	[Hair Salons, Beauty & Spas	36
+60312	IK5KqX_sM2ebQWO9AQkm1g	4.5	Madison	[Food, Juice Bars & Smoothies, Food Stands, Restaurants	6
+60350	vmxzak1ocXOZ0WBgxZaKAA	4.5	Madison	[Food, Ice Cream & Frozen Yogurt, Specialty Food, Chocolatiers & Shops	49
+60392	BxPqfu5QC1SJsYX-9Iseaw	2.5	Madison	[Food, Street Vendors, Chinese, Restaurants	3
+60402	jg_rZXVIvZjPYdbci-nDwg	3.5	Madison	[American (Traditional), Chicken Wings, Restaurants	57
+60436	hJy0s7eioYDAuoXER7KA9Q	5.0	Madison	[Hair Salons, Beauty & Spas	4
+60437	00bhYDS5z8kMeE1tGwokGA	4.0	Madison	[French, Restaurants	3
+60692	3z8oZVDoX68_ZO8OIcJdFQ	5.0	Madison	[Musical Instruments & Teachers, Shopping	3
+60696	Ud3-Msyi2EPmxMfUOSzvKg	4.0	Madison	[Day Spas, Beauty & Spas	4
+60722	f_RrdOAIEUhmK9rlrSHDSQ	4.0	Madison	[Food, Street Vendors	18
+60778	7xV-hmdC9nLLizn8k5hVTA	4.5	Madison	[Active Life, Parks	6
+60807	_WFS-DGzQn7zLCApRN73-g	5.0	Madison	[Local Flavor	6
+60810	FhOYNdvw47MfqUOHGTnDsA	2.5	Madison	[Food, Donuts, Coffee & Tea	20
+60817	r4HOnHnQWKaq0e7dlP1fRA	4.0	Madison	[Bars, Breakfast & Brunch, Burgers, Cocktail Bars, Nightlife, Restaurants	295
+60865	7Md1SGv3Cc7BMON117u9pg	5.0	Madison	[Photographers, Event Planning & Services, Event Photography	4
+61014	GjCRAtOg_RGkVQ5vPcQ6AQ	3.0	Madison	[Mexican, Restaurants	37
+61083	POAeBEbCsvqKUEeZAZJHJQ	3.5	Madison	[Health & Medical, Periodontists, Dentists, General Dentistry	3
+61111	f6cv-JhAG71UXRbxFhCAtA	4.5	Madison	[Fashion, Shopping, Shoe Stores	3
+61122	iBCz4qIE2LKW_zfE7-D3kQ	5.0	Madison	[Optometrists, Health & Medical	4
+61125	Or0TPh8qFpb8b6HAk9q8gg	3.5	Madison	[Food, Bubble Tea, Coffee & Tea, Juice Bars & Smoothies	70
+61161	0SIlGsOvW2lOv8fEx7ZeCg	4.5	Madison	[Active Life, Races & Competitions	4
+61209	2embtrUbM9r2i81kQGk_xw	3.5	Madison	[Food, Ice Cream & Frozen Yogurt	11
+61223	1i4wJHk3iK00hEzGdXUDaQ	3.0	Madison	[Automotive, Gas & Service Stations	3
+61242	MyeOK7hDefkzlOW4-Y0qVw	3.0	Madison	[Food, Mediterranean, Middle Eastern, Food Trucks, Falafel, Restaurants	6
+61250	HAHY7bPzvZdoYgbtegfe8Q	4.0	Madison	[Thrift Stores, Shopping	7
+61261	kBlNS_d29MrzbaqY-8-JiA	4.5	Madison	[Latin American, Caribbean, Restaurants	64
+61275	0pC1QySX1nhWGUQiyAge0g	4.0	Madison	[Food, Grocery	21
+61288	z3dv9I2SN0QNaXLGBCwqBQ	3.5	Madison	[Bars, Salad, Pubs, Nightlife, Restaurants, Sandwiches	121
+61318	Jt-g-2oepKQFmqzgISEb_Q	1.0	Madison	[Hotels & Travel, Transportation	3
+61352	5yDWNMFglisReWoTykOTRg	3.5	Madison	[American (New), Restaurants	126
+61360	y2AUaSb2MV4dXI7y8D6KWg	4.5	Madison	[Financial Services, Insurance	6
+61459	klndL72ioPNCSnFffcfAuw	3.0	Madison	[Hair Salons, Beauty & Spas	6
+61460	eoI9kBxUPdP8yOLwB9CQfA	3.5	Madison	[Automotive, Car Dealers	4
+61514	DpJ-egd0vTMh95_Sq694Mw	4.5	Madison	[Vegetarian, Vegan, Restaurants	4
+61535	81AtahancQ9SYQoR82aSxQ	5.0	Madison	[Local Services, Sewing & Alterations	20
+61560	KOr67KmoAwv7sm2pFNbFFA	4.0	Madison	[Seafood, Mexican, Restaurants	33
+61637	30Wzq2Yjcnt8IGZteNOmEQ	2.5	Madison	[Chinese, Restaurants	60
+61655	-g3qShigmI2Ew70RxgUr-Q	4.5	Madison	[Shopping, Eyewear & Opticians	25
+61689	4_RzBANYyGzi0_5CZAA7Uw	3.0	Madison	[Food, Ice Cream & Frozen Yogurt	12
+61742	Wrw9idc8dawuagd3UwvmfA	4.0	Madison	[Mexican, Restaurants	43
+61760	DbwG75e1GSQi0erSIR5aHA	1.5	Madison	[Local Services, Automotive, Truck Rental, Self Storage	14
+61826	x_lwmkyD5zJ0MyYevn-F2g	4.5	Madison	[Shopping, Drugstores	3
+61843	QyUUk1q6X6zmblgoFViVNA	4.0	Madison	[Pizza, American (New), Salad, Restaurants	14
+61950	GwxispSgRjzqvRGufxrfzQ	2.0	Madison	[Fast Food, Sandwiches, Restaurants	4
+61968	zjkNGe4NcWKPJIoHcy4QXg	4.5	Madison	[Food, Butcher	44
+61990	l6FOz_HYf3fFgEfeMUO8fQ	5.0	Madison	[Local Services, Shoe Repair	4
+62077	9KoMYVJd9KFBOYOAb-W0Qw	4.0	Madison	[Auto Repair, Automotive	5
+62081	fKHvxwlyuVAn1PHYCInnSQ	4.5	Madison	[Veterinarians, Pets	7
+62088	9TSU0S-4Ni3cjrJFrdQLeg	4.5	Madison	[Food, Desserts, Coffee & Tea, Cafes, Restaurants	97
+62225	zlxcHcsLahOwffCQEkrMVw	1.0	Madison	[Tanning, Massage, Beauty & Spas	5
+62228	--Y_2lDOtVDioX5bwF6GIw	2.5	Madison	[Bars, Comfort Food, Nightlife, Restaurants	62
+62396	rb8rRrH9bcb123-2Qaw3_Q	4.0	Madison	[Delis, Restaurants	5
+62431	iT2Us6NvlNLcqpMyysRvFg	4.0	Madison	[Event Planning & Services, Bartenders, Caterers	8
+62488	JFQL_nMFo2bG215kCjuvmQ	2.5	Madison	[Mexican, Restaurants	14
+62571	SGGHTu36g2f8x6AB_PyAhw	4.5	Madison	[Active Life, Cycling Classes, Gyms, Fitness & Instruction	28
+62638	TOKAoJ3qvidBTEbjhO3WmQ	4.5	Madison	[Colleges & Universities, Education	3
+62684	7JFiM_6iZhPPT0bTv7KxAg	3.5	Madison	[Food, Empanadas, Street Vendors	3
+62705	pVsyBiZCNipOTNsRVHD1CA	4.0	Madison	[Sandwiches, Restaurants	3
+62806	dFwpQSGnNznpRL_srrTUTQ	4.0	Madison	[Beauty & Spas, Nail Salons	9
+62815	fNn0EBLdyFqvD2Cevf7BZQ	2.5	Madison	[Food, Donuts, Coffee & Tea	16
+62830	Pd1snB_t5Dn8LNoo0c3eHA	4.0	Madison	[Food, Breweries	6
+62950	5QUK8IXAcZaOW9mziOObVw	5.0	Madison	[Pet Services, Dog Walkers, Pet Boarding/Pet Sitting, Pets	19
+62957	DInchTMpKhM-G52cNKLtOg	4.5	Madison	[Food, Desserts, Gluten-Free, Bakeries, Restaurants	31
+62974	LceVYs4RJcEv1PzGaHsotg	4.0	Madison	[Fashion, Shopping, Sporting Goods, Active Life, Fitness & Instruction, Womens Clothing, Yoga, Sports Wear	9
+63070	TYDIp4ANAtMMNca7HdhEhA	4.0	Madison	[Food, Breweries	92
+63109	bb45kilCGJFTZeCJKplA4w	4.0	Madison	[Italian, Barbeque, Restaurants	17
+63199	_L-IZ89bLm5Omlh6ptRuYg	5.0	Madison	[Massage Therapy, Acupuncture, Traditional Chinese Medicine, Health & Medical	12
+63227	zdsu0qWo5SxafNMIPiLd2A	3.0	Madison	[Food, Coffee & Tea	4
+63246	NGd6y0mliDBWUinZrHV95A	4.0	Madison	[Sandwiches, Restaurants	37
+63265	dIPJsGEzyhXS4jzvkf1Acg	5.0	Madison	[Shopping, Sporting Goods, Paddleboarding, Boating, Fishing, Active Life	7
+63435	hH1LPiHDueU27kWO1X8dVQ	3.5	Madison	[Filipino, Restaurants	36
+63451	ty8wgg1mmpn12OP9A3Xk8g	4.5	Madison	[Pet Services, Dog Walkers, Pets	6
+63513	y1u_xVWTgmsHMBZmgQ59QQ	1.5	Madison	[Professional Services, Television Service Providers, Home Services, Internet Service Providers	22
+63562	Yat4SU_AquMo9FqEldDSWg	4.5	Madison	[Painters, Home Services	3
+63584	AsIiDrphA6XzuMWijEPbtQ	4.5	Madison	[Thrift Stores, Shopping, Home & Garden, Antiques	3
+63608	YEvpXxaDReqcUolEdhy-7Q	4.0	Madison	[Bars, Food, Cafes, Coffee & Tea, Wine Bars, Nightlife, Restaurants	12
+63736	sonumYfFUxnoZuBd4wuJ1A	5.0	Madison	[Tree Services, Home Services	5
+63809	-urnMsIpIEjgllhwNznREQ	4.5	Madison	[Food, Indonesian, Food Trucks, Restaurants	8
+63840	XnDKCPI00KP6ByyPGaDYBA	4.0	Madison	[Delis, Fast Food, Sandwiches, Restaurants	25
+63956	UHkJjgP5V85bEAAi-0H9MQ	4.5	Madison	[Active Life, Gyms, Trainers, Fitness & Instruction	8
+64031	tuHSKqjEmOqSsNVsVEa6PA	5.0	Madison	[Painters, Home Services	3
+64098	u04z0ZSnYD4YKy1LCTZ8Hg	4.0	Madison	[Used, Vintage & Consignment, Fashion, Shopping, Antiques	7
+64104	61OMNXhlOGA4b9F8EEfG_A	2.5	Madison	[Automotive, Car Dealers	5
+64109	R-WGYWUx3ZjdkNBbMnX4Ng	2.0	Madison	[American (New), Restaurants	10
+64113	Kw24xzUzc1N7-DwwQQ3iPQ	4.0	Madison	[Arts & Entertainment, Nightlife, Music Venues	4
+64177	Aie1Q9OT6OTRY0cuvX7ZyQ	4.5	Madison	[Fast Food, Restaurants	3
+64236	uzruat83sCoH26EySRVwLg	5.0	Madison	[Thrift Stores, Shopping	3
+64269	H6O_qVqK99n3M5YCu--9Yg	5.0	Madison	[Local Services, Computers, Shopping, IT Services & Computer Repair	3
+64276	smyLbniwZVO-ujNbgO62iw	4.5	Madison	[Hair Removal, Beauty & Spas	32
+64305	nrtF_T_zvMNTvGYnM5c8bQ	4.5	Madison	[Arts & Entertainment, Social Clubs	3
+64347	60MO2lSiKoflB2Zu3DoYNA	4.0	Madison	[Party Supplies, Hobby Shops, Shopping, Event Planning & Services	3
+64362	rJamzrMmyn81gI3bKkTP7Q	3.5	Madison	[Home Cleaning, Professional Services, Office Cleaning, Home Services	5
+64381	1l3n2UiSfA7sDrIAe1PRBQ	4.5	Madison	[Food, Grocery	7
+64489	3_hhLmpXkNR1nnwudU10ig	5.0	Madison	[Veterinarians, Pets	6
+64496	3xODqa0wpKGtsmu1k0Md5Q	4.5	Madison	[Hair Salons, Day Spas, Beauty & Spas	9
+64539	4RGDKr4Upy0YYXf_fbExDQ	3.5	Madison	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas	9
+64609	scV7U53GDKle8dtBgn6ZNw	5.0	Madison	[Womens Clothing, Fashion, Shopping, Jewelry	3
+64681	RqddKSVAuYRKjV8KZFuMQA	4.0	Madison	[Fast Food, Cafes, Mediterranean, Restaurants	3
+64702	Q7PTEkR524ekowklyfY2WQ	5.0	Madison	[Tattoo, Piercing, Beauty & Spas	12
+64742	TsUWz3TMkfDYrLjd70Qwaw	4.5	Madison	[Food, Arts & Entertainment, Coffee & Tea, Nightlife, Music Venues	30
+64760	kKbiDo8LSBv9sYDsmKyxgw	3.5	Madison	[Sandwiches, Restaurants	7
+64845	cPu-v5Uhk2EgGbFuqsU_mg	2.5	Madison	[Local Services, Appliances & Repair	3
+64938	rkcu7P8g6zJHRC1n7pXRkg	2.5	Madison	[Food, Coffee & Tea	8
+64958	EIuy7xKuSgCeiUJIOt-dXg	2.0	Madison	[Shopping, Mobile Phones	8
+65013	-fAyUiP1o0hAodEhGdziyw	4.0	Madison	[Food, Coffee & Tea	113
+65115	fDWvQT7sHx2PG6S41-V0ow	4.0	Madison	[Bars, American (Traditional), Pubs, Burgers, Nightlife, Restaurants	71
+65239	9ba1OMB3H6MlG7-yhKMNeA	3.5	Madison	[Cuban, Cafes, Restaurants	9
+65342	cU5xHa0y_cTqTGaV9epIhA	5.0	Madison	[Traditional Chinese Medicine, Nutritionists, Beauty & Spas, Health & Medical, Medical Spas	7
+65405	fXQmGQcLtMaRJyxsRfIe-w	4.5	Madison	[Bakeries, Food, Delis, Restaurants	13
+65607	hgyeQb-FVc6I_l7PKqsosA	3.0	Madison	[Barbeque, Restaurants	16
+65616	fMyk-uQgPSMIxp9N5gn2Uw	3.5	Madison	[Beauty & Spas, Nail Salons	12
+65649	Ko4WEdNZcqJ-wG5TWvy4tg	3.5	Madison	[Sushi Bars, Japanese, Restaurants	46
+65701	rznwnsLgK8H3Kr0R31c7nw	3.5	Madison	[Mattresses, Shopping, Home & Garden, Furniture Stores	3
+65761	Qmj5kB3b0yecXY2_arOWLQ	4.0	Madison	[Pubs, Bars, American (New), Nightlife, Restaurants	14
+65785	Kp5HoWGRc8NuG3BP9MdPyA	4.5	Madison	[Arts & Entertainment, Performing Arts	4
+65800	cQ_Kxx9LTapDptkd12yhSQ	4.0	Madison	[Shopping, Beauty & Spas, Hair Stylists, Makeup Artists, Hair Salons, Cosmetics & Beauty Supply	4
+65815	h2ZtNx-KSf0t9r_MCc7xqQ	5.0	Madison	[Gift Shops, Flowers & Gifts, Shopping	3
+65826	PUfJCzkjgo1xG1qvxs4hxA	4.0	Madison	[Food, Grocery, Convenience Stores	47
+65848	ueLkAP6tZm6tZ20mPjEj-w	4.5	Madison	[Shopping, Arts & Crafts, Books, Mags, Music & Video, Event Planning & Services, Bookstores, Cards & Stationery, Flowers & Gifts	11
+65896	Re_X72VUVlTZpVSv5eafRw	4.5	Madison	[Active Life, Dog Parks, Parks	6
+65902	-5xC7s9Ujg5F-3xFXtM_kg	2.5	Madison	[Restaurants, Italian	22
+65971	CDgwYLG0fZ-63FH6gJWYFw	2.0	Madison	[Automotive, Parking	4
+66154	O48e3DXFw5LNKeSMBLxo8w	5.0	Madison	[Wedding Planning, Event Planning & Services	4
+66158	_6MDHQQ-PeUJ9CP-MoKApA	2.5	Madison	[Breakfast & Brunch, American (Traditional), Sandwiches, Restaurants	36
+66173	DfayZFvU8XrHRDN6XwPWBQ	5.0	Madison	[Photographers, Event Photography, Event Planning & Services, Session Photography	7
+66270	4wfu0qbRzdUsAyGS7TXvTA	3.0	Madison	[Beauty & Spas, Nail Salons	28
+66271	PH7sW4w-wR2lA_duVZwn_g	4.5	Madison	[Active Life, Boating	18
+66276	T9RyBQp7_fxKyXMbO44NUw	4.5	Madison	[Active Life, Boating, Playgrounds, Parks	7
+66315	8rkzJ5fpv-LmqX15rVXB3Q	4.5	Madison	[Active Life, Fitness & Instruction, Gyms, Trainers, Boot Camps	7
+66326	UDxk5pvPlNvEtFM4KQ9m1A	3.0	Madison	[Bars, American (Traditional), Nightlife, Restaurants	24
+66342	EfCjakiTGDei8otx0QErNw	2.5	Madison	[Mattresses, Shopping, Home Decor, Home & Garden, Furniture Stores	3
+66345	9Tjj3Zg-PPFCIUB_ITe30A	5.0	Madison	[Food, Food Trucks, Vegan, Restaurants	12
+66364	QbGGMET_PnpAhm6WbHZM2Q	5.0	Madison	[Shopping, Toy Stores	8
+66407	W14RI0JIQrUg6JazBwcNqw	4.5	Madison	[Thai, Food Stands, Restaurants	16
+66421	EnQewGyKYsME5gchmyvsPg	4.5	Madison	[Russian, Restaurants	242
+66428	ohtg8QtTTRObo_FGrYmT8Q	3.0	Madison	[Local Services, Dry Cleaning & Laundry	7
+66518	7dyxH7N4FjO-HDlUWEWVwg	5.0	Madison	[Books, Mags, Music & Video, Shopping, Bookstores	6
+66637	l_1dswuiN_66QvbrJL8Fvw	5.0	Madison	[Massage Therapy, Health & Medical	4
+66672	dsRxq0fFtSS9RzG5VOCvag	5.0	Madison	[Arts & Entertainment, Performing Arts, Festivals	14
+66744	cFZj6p-KEiAZokMPbjuMRA	4.5	Madison	[Italian, Pizza, Mediterranean, Restaurants	116
+66775	DpaVt8jWsJf69PWQrkiYWQ	4.5	Madison	[Skin Care, Beauty & Spas	3
+66782	2IgvBqmJqngEmLzBsYC-7Q	4.0	Madison	[Shopping, Nurseries & Gardening, Home & Garden	14
+66857	Fl21jEU1D2m57FG8MXYflg	3.5	Madison	[Food, Gelato, Ice Cream & Frozen Yogurt	24
+66915	SMMG0t2uJCK2LVdMiXv68w	4.5	Madison	[Pizza, Restaurants	166
+67058	zFg6-odpoSKvdTpVI71vqg	4.0	Madison	[Peruvian, Restaurants	26
+67122	X9CmMNGjySuXovyiJBkRzA	3.0	Madison	[Post Offices, Public Services & Government	7
+67136	75hp1dHtMxLGbunwDZq7Cw	4.0	Madison	[Soup, Seafood, Indian, Restaurants	63
+67140	_ZaUFBNMWKmkmg-43DnENw	3.0	Madison	[Event Planning & Services, Venues & Event Spaces	14
+67145	tg88uNQ_Qeq3zopVmBY5dA	4.0	Madison	[Gluten-Free, Sandwiches, Restaurants	55
+67159	0IFT24wxPARJBES6x5sNzw	4.5	Madison	[Active Life, Arts & Entertainment, Stadiums & Arenas, Amateur Sports Teams	3
+67188	HXwr1Zh2zSltr_lR_GQv7w	4.0	Madison	[Pubs, Bars, American (Traditional), Nightlife, Restaurants	18
+67192	JWoU-CUtCQ04pVs_HsFYKw	3.0	Madison	[Hotels & Travel, Car Rental	3
+67230	XraR0XLzGhzVrAdv4WzFkA	5.0	Madison	[Food, Herbs & Spices, Specialty Food	4
+67371	-4vjcfGpSB2deqkySrKEsg	4.0	Madison	[Mexican, Restaurants	7
+67399	5e21MA77AmMJ_ZcR3dggaw	4.5	Madison	[Active Life, Dog Parks, Parks, Hiking	6
+67400	_OT7mnUteAJkGh1weNqeYg	4.5	Madison	[Active Life, Dog Parks, Parks	3
+67499	sa9cZ3c-YvE50rv16rtEAQ	4.5	Madison	[Active Life, Dog Parks, Parks	3
+67554	bDVYUNg8p7REci3jmIKpRw	2.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	8
+67648	v0I0whvGWDQ7NziAnKh2rw	3.5	Madison	[Burgers, American (Traditional), Sandwiches, Restaurants	15
+67659	xHJPgPO3wF-F3Ep8Vz17ng	4.5	Madison	[Venezuelan, Latin American, Caribbean, Colombian, Restaurants	174
+67678	bKPRGXpdHEaQFxY0YITcOA	5.0	Madison	[Hair Salons, Beauty & Spas	11
+67680	XCYGe_JPjexm6G2OQ_mYXQ	3.5	Madison	[Peruvian, Latin American, Restaurants	33
+67750	kAiS6p4g0tKSS1Z0L-3rZg	5.0	Madison	[Pets, Pet Stores	8
+67772	RyLg6AWj1SE8IPAKLvt6ZA	4.0	Madison	[Bakeries, Food, Grocery, Cafes, Restaurants	18
+67833	Jcy2OENZ9uTPee2gE6InMg	4.0	Madison	[Asian Fusion, Sri Lankan, Restaurants	55
+68094	pXCJv7aFCG8EG8oxDWSfjg	3.5	Madison	[Hair Salons, Skin Care, Waxing, Hair Removal, Beauty & Spas	7
+68169	Lu0N7DPZKJ6OHBpwsymwYw	3.5	Madison	[Mexican, Restaurants	16
+68367	zjdr4OMXZzTHIcKb9VYL-w	4.5	Madison	[Breakfast & Brunch, American (Traditional), Restaurants	11
+68404	RsHTIOVFfmrnnhp-Z9YP8Q	4.5	Madison	[Gastropubs, American (New), Restaurants	215
+68455	2qWYCf0GW1QHliX6zsecGg	5.0	Madison	[Malaysian, Restaurants	4
+68516	hUDeQq7KZXx_w7aFxdO-aQ	4.0	Madison	[Bars, American (New), Nightlife, Restaurants	63
+68529	N1-VXQCN_KySqMLm39syaA	4.0	Madison	[Food, Street Vendors	10
+68552	7TqO3HEI7NJF_WGKwgPCaA	3.5	Madison	[Food, Breweries, Sandwiches, Restaurants	104
+68568	x6irhl99Un0z83pDAA1B2Q	4.0	Madison	[Beauty & Spas, Nail Salons	19
+68584	tKooFHbZWduszRggm9tqpg	5.0	Madison	[Movers, Home Services	10
+68601	eWjlM_MXCbVI2vrpviMxZw	4.0	Madison	[Delis, Fast Food, Sandwiches, Restaurants	17
+68654	V13d_rSDbaXE_Q3O2uaBIw	4.0	Madison	[Food, Trinidadian, Caribbean, Food Trucks, Restaurants	6
+68666	zgv0at8LGM6cmcyGWwBHiw	4.5	Madison	[Shopping, Home & Garden, Furniture Stores	6
+68703	a66CtYcUgVjXy57GcoDOXg	3.5	Madison	[Seafood, Sushi Bars, Buffets, Restaurants	117
+68754	eouSGmV7us5XDL7TfBv_ig	4.0	Madison	[Active Life, Yoga, Fitness & Instruction	3
+68766	XCrxseLkWGoAoyN3iKD71g	4.5	Madison	[Food, Food Trucks	17
+68785	0A1FyCHg9bSW1qu917cJjA	5.0	Madison	[Food, Butcher	21
+68813	JBSoMPYhDesO2z6_z4cz4g	4.0	Madison	[Cafes, Restaurants	6
+68828	B_K4A2gIK7Q8rPmBDYI86w	4.0	Madison	[Mexican, Restaurants	53
+69025	juTEUeFf5ZAInHa85JU5yQ	5.0	Madison	[Local Services, Window Washing, Home Services	5
+69044	-fsL-fVNinM8P0xgQM2JSQ	5.0	Madison	[Shopping, Toy Stores	3
+69060	GDyWfPf0CtC_VnGrukXvpg	2.5	Madison	[Fast Food, Mexican, Restaurants	21
+69079	3oHXfeyjazKKGI6nsTMhww	2.0	Madison	[Home Services, Real Estate, Apartments	8
+69156	MvWxzyY3zIFH1fZL53E1yw	2.5	Madison	[Vietnamese, Cantonese, Dim Sum, Chinese, Restaurants	23
+69187	GaZ0Rq2St2QQjBD1jjWDxg	3.5	Madison	[Hair Salons, Barbers, Hair Stylists, Beauty & Spas	7
+69213	cwrf67GWlXnwNDEY0iiTgw	3.5	Madison	[Korean, Restaurants	74
+69273	6P1djrMXdrkUC-ZjX5NAaw	4.0	Madison	[Food, Bubble Tea, Grocery, Specialty Food, Ethnic Food	7
+69372	3v3x5qxnl-MhYdqW-uw8GA	3.5	Madison	[Active Life, Basketball Courts, Parks, Playgrounds	4
+69476	4F-mUkDJW2_Dtys7tv_GCA	4.5	Madison	[Persian/Iranian, Middle Eastern, Vegan, Restaurants	37
+69624	Zw4dEyrRKcTNvnG9Im8D7A	4.0	Madison	[Barbeque, Restaurants	57
+69643	5vQ18-InMgw1BUjV5Uabsg	4.0	Madison	[Home Cleaning, Home Services	6
+69666	16BxRXjxWRSH2cxeWxseeA	4.5	Madison	[Womens Clothing, Fashion, Shopping	8
+69711	jRRXj-_BhNvmxG8I568uKg	4.0	Madison	[Chinese, Restaurants	68
+69723	de0hIDLks3ROJQtmSJWWPw	4.0	Madison	[Indian, Restaurants	59
+69744	FbFgdK8l-A5ZMFjE-qtczQ	4.5	Madison	[Public Services & Government	3
+69758	J0NIhOKEu9eMG0eKZeNMHg	4.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	42
+69844	tmbprlbw5x9h4GM2EBQZ7A	4.0	Madison	[Food, Asian Fusion, Japanese, Food Trucks, Restaurants	12
+69938	-E6bkW2Hv92y7dzbQ8FjhA	3.5	Madison	[Bars, Restaurants, American (Traditional), Sports Bars, Nightlife	4
+69955	_WbZri6b9Wq4iofDm7CI9Q	4.0	Madison	[Breakfast & Brunch, Restaurants	302
+69979	kzh_p6yOxmWPMvNY1HFGGg	4.5	Madison	[Hair Salons, Hair Removal, Blow Dry/Out Services, Beauty & Spas	9
+70029	G9H7OQkMDVP_Y0zrhpEQBw	5.0	Madison	[Home Services, Home Inspectors	22
+70066	7rZkvRQ7lvgAoZxcBHkhrg	4.0	Madison	[Arts & Entertainment, Stadiums & Arenas	4
+70123	NHQZkdaY-LhneaqtrbPtlA	5.0	Madison	[Skin Care, Massage, Beauty & Spas	4
+70265	nFnM6-LvKUa5S-JvtCP0uA	3.5	Madison	[Day Spas, Waxing, Beauty & Spas, Hair Removal, Nail Salons	53
+70354	YaRUOx9H5eYkMfaQuz31Yw	4.0	Madison	[Food, Coffee & Tea, Cafes, Restaurants	5
+70482	5Sf1YVPvsLgvBv7BN87n0Q	5.0	Madison	[Food, Ice Cream & Frozen Yogurt, Desserts	51
+70513	wI8Ke2l6g-PmI79uCQ9AHA	5.0	Madison	[Hair Salons, Beauty & Spas	42
+70552	BsZs0NuMmEFt-HTE0LU7uA	5.0	Madison	[Thrift Stores, Shopping, Antiques	11
+70629	gS9PJk6q7LxNKcGi8lcY4A	4.5	Madison	[Bars, American (Traditional), Gay Bars, Nightlife, Restaurants	13
+70665	MVGtpwi57ix9DhNbIr8aaQ	4.5	Madison	[Food, Coffee & Tea	3
+70746	y_6eHPnq7kk0FfWftjVN_A	5.0	Madison	[Plumbing, Home Services	5
+70785	TKGVstxsSszPNBuMbM5hgA	2.5	Madison	[Acupuncture, Day Spas, Health & Medical, Beauty & Spas	4
+70797	ASymmzRviIlU8mrIhFOg9g	3.0	Madison	[Barbeque, Restaurants	34
+70858	wAa3LBRo-iLqFbYiuEMPog	4.0	Madison	[Pubs, Burgers, Bars, Nightlife, Restaurants	83
+70984	9yDl7MtVdwC_f-wq-_elBw	4.0	Madison	[Restaurants, Italian	64
+70992	Hph8lO3ntDwiyFErKMyPmg	3.5	Madison	[Womens Clothing, Sporting Goods, Fashion, Shopping, Sports Wear	4
+71281	g6owcSqiudLFfJjyh5jvxQ	3.0	Madison	[Bars, Nightlife	24
+71312	naK22U7Jyq3twxHVkJsXiw	5.0	Madison	[Tattoo, Beauty & Spas	5
+71375	Bs7xU1sFpP0muih6Z0zx8A	4.5	Madison	[Food, Grocery	20
+71397	RlDvh9sHvoBILu7pYTWe2w	5.0	Madison	[Art Supplies, Shopping, Home Decor, Home & Garden, Arts & Crafts	4
+71428	dtghBwhGk0czWIpc_6KCbA	3.5	Madison	[Bars, Music Venues, Arts & Entertainment, Pubs, Nightlife, Barbeque, Restaurants	38
+71518	I9ou3EWN8rz9jva7eOWDhA	3.5	Madison	[Sandwiches, Restaurants, Pizza, Italian	36
+71596	6KPL76PxqvZXdXS8F-8f2g	5.0	Madison	[Food, Coffee & Tea	35
+71665	ClnWQ4aoHrydn6p9a1LDxQ	5.0	Madison	[Hair Salons, Beauty & Spas	3
+71675	mDCqFvfcKQEY1ckGxb528w	4.5	Madison	[Tobacco Shops, Vape Shops, Shopping	6
+71735	nMUCHzN7Sv-m46Y51FsLmQ	1.5	Madison	[Fast Food, Mexican, Tex-Mex, Restaurants	11
+71746	C70R_7VBmd4WHCZp1B9i1A	4.5	Madison	[Bars, Comfort Food, Nightlife, Beer Bar, American (New), Restaurants	112
+71765	n5DNEMTsNS7anc8srMtzYw	4.0	Madison	[Food, Coffee & Tea	37
+71777	jTLABWcjIjR--PqAfVb7rA	3.5	Madison	[Beauty & Spas, Nail Salons	33
+71784	nvDZgZpi6Jx4FhwomAo25A	4.0	Madison	[Food, Ethnic Food, Grocery, Specialty Food	3
+71823	X7jtCILAkZc92B-wf_pMWA	5.0	Madison	[Shopping, Guns & Ammo	4
+71888	SWoBSBzfpgvhDYvndfZd0A	3.5	Madison	[Food, Specialty Food	3
+71937	xvW-WFYqh1g6Nqd10XDl9w	5.0	Madison	[Barbers, Beauty & Spas	4
+71951	Hj07HBtWfMPjtMGB1cFZvA	3.0	Madison	[Pizza, Restaurants	12
+71981	rDKk4-okoaWUfAAgIh-5ZA	4.5	Madison	[Automotive, Towing	6
+71988	0DxeMAfznpqhxH1Z8O0_Yg	4.5	Madison	[Chinese, Restaurants	44
+72018	e3goXeyrvb1UXJ9qv1FO3g	5.0	Madison	[Active Life, Gyms, Fitness & Instruction	4
+72027	BVgnavF-B0wxQhP7wJTAVg	4.0	Madison	[Food, Bakeries, Coffee & Tea, Breakfast & Brunch, Restaurants	63
+72173	BfiU8hGgUpNNm7t-ljnwmw	3.5	Madison	[Chinese, Restaurants	34
+72216	kaVALmiCtmGywyZ9OKLf0A	4.0	Madison	[Mexican, Restaurants	28
+72236	RF049IycyVJv0QQC2aNAdA	2.5	Madison	[Automotive, Car Dealers	5
+72250	2B-pcUEMVkhghGAeuptxBA	1.5	Madison	[Burgers, Fast Food, Restaurants	11
+72501	IYRJtCOP9u38GohPcTyy8g	5.0	Madison	[Massage Therapy, Health & Medical	3
+72518	m_Y4sR9kH5B8uyStCpSKTA	5.0	Madison	[Health & Medical, Dentists, General Dentistry, Cosmetic Dentists	11
+72626	JixiPCmH3M5PUjLV0SyjeA	5.0	Madison	[Tattoo, Beauty & Spas	24
+72743	UomQ7gVcsc8zXeVUAT8VzQ	4.5	Madison	[Food, Sandwiches, Food Trucks, Restaurants	18
+72769	NqV89VQBV9kvUaA7a8F-tg	4.0	Madison	[Breakfast & Brunch, Restaurants	223
+72777	naVIabeCBx6f4I0T8ARl7g	3.5	Madison	[Tires, Automotive, Motorcycle Gear, Shopping, Auto Parts & Supplies	4
+72812	r1Rlh4ATdawiln-hCLca_A	4.0	Madison	[Sandwiches, Restaurants	16
+72824	5GeYcZPHOcWeWEDOEK1OMQ	5.0	Madison	[Kitchen & Bath, Shopping, Home Decor, Home & Garden, Furniture Stores	6
+72895	J8vy05gm34rduQUpOWloww	5.0	Madison	[Hobby Shops, Tabletop Games, Shopping, Toy Stores	3
+72971	7iMfY70RTg7wmU_283gtUQ	5.0	Madison	[Hair Salons, Beauty & Spas, Nail Salons	6
+73022	lIbgIjefjqdkeRsIZmR1sg	3.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	55
+73027	9DhlEVa4aFpEyqp5KjL9Wg	4.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	4
+73068	1CsfQBqE-NC_mR5E_bviVw	5.0	Madison	[Pet Services, Veterinarians, Pet Training, Pet Boarding/Pet Sitting, Pets	4
+73131	oxOXOMTcAntmPU3f_1YFjw	4.0	Madison	[Greek, Fast Food, Restaurants	12
+73173	YLt5qBN0ORqGtrNQUuA4XQ	1.5	Madison	[Diners, Restaurants	7
+73186	3KUwS1FedV0_L5y_D9YAiQ	3.5	Madison	[Mediterranean, Restaurants	57
+73194	mEdDXYi-K8DUm3nqgETTVQ	3.5	Madison	[Food, Coffee & Tea	6
+73223	HS6jJV9Qi6MNDumrgmmODA	5.0	Madison	[Gift Shops, Flowers & Gifts, Shopping, Florists	5
+73234	ezv2z7IlkKlvZdBPo1Msmw	4.0	Madison	[Food, Sandwiches, Food Trucks, Restaurants	13
+73263	eR7pephNfbVvuBYgOvpK4g	3.0	Madison	[Sandwiches, Restaurants	4
+73264	f3i15z8B4H44Yli_UHrEYw	4.0	Madison	[Sandwiches, Restaurants	5
+73276	4KqFeXTq9jEeOScQAd4maA	5.0	Madison	[Massage, Beauty & Spas	4
+73288	Hf7AjxNMjy0C4H2YiZhYNA	1.0	Madison	[Keys & Locksmiths, Home Services	3
+73315	k4JV4ZZpePUvyYRB56k75g	3.0	Madison	[Karaoke, Mexican, Nightlife, Dance Clubs, Restaurants	9
+73318	6PuVFIL1rF5E-qu0Wq-Gug	3.5	Madison	[Sushi Bars, Japanese, Chinese, Restaurants	141
+73324	NGd0zkHKeZI7VviVIFvdYw	4.0	Madison	[Arts & Entertainment, Psychics & Astrologers	4
+73347	R0vQgVdGdvnsUzcdAx0WgA	5.0	Madison	[Sporting Goods, Bikes, Shopping, Outdoor Gear	9
+73361	6ap84gB8El-dX8fmET5awQ	4.5	Madison	[Food, Specialty Food, Arts & Entertainment, Wine Tasting Room, Wineries	6
+73469	Z0pYq4M1FYzs_Riv6y-cAQ	4.5	Madison	[Food, Desserts, Ice Cream & Frozen Yogurt	11
+73476	BsqqFMR0YvTxXAOSRfKbsA	5.0	Madison	[Active Life, Bike Rentals	8
+73518	TbYBxiEj2TcsH5Xb5IqFhw	3.5	Madison	[Oil Change Stations, Automotive	3
+73528	4Db74Jsyp81bei99fo-3Xg	3.0	Madison	[Buffets, Mongolian, Chinese, Restaurants	40
+73582	RXmZoUSV4dILgcdNd7GCtQ	3.5	Madison	[Wine Bars, Bars, American (Traditional), Nightlife, Restaurants	97
+73709	Glm3YMfyRTxo2JTWByqnEg	3.5	Madison	[Food, Desserts, Flowers & Gifts, Gift Shops, Shopping	12
+73797	0ilFtvFUJ71JqiaVxIM-KA	4.5	Madison	[Food Stands, Restaurants	7
+73816	IDVAOCiSp4wB6aQRLKFNSQ	2.5	Madison	[Hotels & Travel, Event Planning & Services, Hotels	5
+73825	epMKlsA-OoZMNcXTMmWoMw	3.5	Madison	[Korean, Asian Fusion, Restaurants	140
+73826	KZc-NU_EpJB2tZherOt9jg	4.5	Madison	[Sporting Goods, Shopping, Skate Shops	3
+73880	ct0Md2ncpTuwHPtSsCz0mA	2.5	Madison	[Sushi Bars, Buffets, Asian Fusion, Restaurants	11
+73910	dsz3Wjpam4wO7aM7VHWl3Q	4.5	Madison	[Music & DVDs, Comic Books, Bookstores, Shopping, Books, Mags, Music & Video	7
+73919	PjviuTR-xCu7gQp_OkypFw	4.0	Madison	[Nightlife, Soup, Thai, Bars, Restaurants	96
+73998	bLNydRCtfgQTX8tYWiIh2Q	4.0	Madison	[Auto Repair, Automotive, Towing	10
+74014	ZMS7ZWA3hPtouHFKaAwsGg	4.0	Madison	[Hair Removal, Beauty & Spas	10
+74149	07rI5e6e-Tu2DAZJTiteMw	4.5	Madison	[Tattoo, Piercing, Beauty & Spas	3
+74194	2dxNiOb3ryiPhktzV2WsHQ	4.0	Madison	[Food, Grocery	29
+74247	_u2Y3U73J7NlFVrxFUXWww	3.5	Madison	[Food, Food Trucks	12
+74275	LY67VLxt-50F-5FmGy2TGQ	5.0	Madison	[Food, Specialty Food	4
+74332	vds3dJ7ETEplrRV5dlJ8wA	4.5	Madison	[Active Life, Barre Classes, Yoga, Fitness & Instruction	12
+74372	Lu0l7ehj_KqgXByim58M0Q	5.0	Madison	[Hair Salons, Barbers, Mens Hair Salons, Beauty & Spas	7
+74379	aybLDQRhUwOr7WoQfdofPQ	4.0	Madison	[Steakhouses, Restaurants	111
+74382	wg45tpvDQeMUmyfcCDUIIg	5.0	Madison	[Car Stereo Installation, Automotive, Auto Detailing, Auto Glass Services	4
+74422	phhIK_ibq30MYfPe1RqnuQ	4.0	Madison	[Restaurants, Italian	170
+74699	J1cfMyA8SL1IkW6aRNMYYQ	4.0	Madison	[Falafel, Mediterranean, Sandwiches, Salad, Restaurants	6
+74727	9T1dlmTnoh7JDsSLLy3VbQ	5.0	Madison	[Local Services, Musical Instrument Services, Musical Instruments & Teachers, Shopping	3
+74779	6cPpqR3CWd5YbNbTvMcnlQ	3.5	Madison	[Endodontists, Health & Medical, Dentists	3
+74807	QS_j5PwgvWL8oS6fC1rPIA	5.0	Madison	[Local Services, Sporting Goods, Bikes, Shopping, Bike Repair/Maintenance	5
+74851	wP1bhB9gIwZxFdituoV84g	4.5	Madison	[Car Wash, Automotive, Auto Detailing	8
+74936	FfVsSnEQJdG5rShgg_enTw	5.0	Madison	[Real Estate, Home Services, Real Estate Agents	6
+74967	46A8t2B_8AGZB0b3tSvBnQ	5.0	Madison	[Movers, Home Services	4
+75037	a-BMkJcdV8SOJGWSkj84eA	1.5	Madison	[Automotive, Auto Parts & Supplies	14
+75051	PjD4g6SjMUfmpvxJREVGiw	5.0	Madison	[Local Services, Self Storage	3
+75139	VvOFf0_d8Eq0WdVtVHOi-w	4.0	Madison	[Fashion, Shopping	10
+75194	V8nB89ASZusiTM-N9gD7TA	5.0	Madison	[Pet Groomers, Pet Services, Veterinarians, Pets	4
+75249	vR6zPjzzggGCBwv3kBNy_A	4.5	Madison	[Tobacco Shops, Shopping	4
+75291	glAUvvEwjMNaXw_dVgPkCw	3.5	Madison	[Barbers, Beauty & Spas	8
+75346	zWrJsFosqUrChGAGc3VkTg	2.5	Madison	[Bars, American (Traditional), Nightlife, Restaurants	49
+75352	yfoWnpSOZpXQ1MPRDxvpuQ	5.0	Madison	[Massage Therapy, Health & Medical	4
+75441	VO2Cq1GYqBJ9IikM9ZOTtg	4.0	Madison	[Massage Therapy, Health & Medical	4
+75466	OVC96JrsSTltaqf_0S9XsQ	2.0	Madison	[Hair Salons, Beauty & Spas	11
+75480	izN1Ol_CRRqb99sOeexZ_g	1.5	Madison	[Home Services, Real Estate, Apartments	3
+75620	kcE6bYMX2zeWShBFaa1Heg	3.0	Madison	[Bars, American (New), Nightlife, Restaurants	57
+75636	GD_5bbOLC1EZCuTu_UK6Kw	4.0	Madison	[Indian, Himalayan/Nepalese, Restaurants	32
+75639	CYgNmyRWZdTtDFIIAB6wCA	5.0	Madison	[Food, Active Life, Juice Bars & Smoothies, Yoga, Fitness & Instruction	4
+75662	9gLWzc8CWu-LsrpLXrTWeA	4.5	Madison	[Bakeries, Food, Cafes, Sandwiches, Restaurants	20
+75664	E9C9OD-_llKllZ0zPFL_PQ	5.0	Madison	[Automotive, Body Shops, Auto Detailing, Auto Glass Services	5
+75749	biQaxymcTPeBT4z9GUrHUg	5.0	Madison	[Pet Groomers, Pet Services, Pets	15
+75771	zMnewhHFRagtG1hktt5-PQ	5.0	Madison	[Skin Care, Beauty & Spas	4
+75776	7edkE4HK4V6iQEz1JgyMcQ	3.5	Madison	[Bars, Nightlife	93
+75789	RyRQwgMHJplpdYYLa4_FDQ	2.5	Madison	[Delis, American (New), Sandwiches, Restaurants	6
+75814	z4100izDi9-EspP-clKC3Q	4.5	Madison	[Cafes, Food Court, Restaurants	3
+75881	fQ1h3WSy3kKAsM7NKtFnnQ	4.0	Madison	[Bakeries, Food, Chinese, Restaurants	59
+76144	V4Anb6X3XjLt4PQEJLIuVw	4.5	Madison	[Arts & Crafts, Specialty Schools, Shopping, Fabric Stores, Education	3
+76153	9zOibjFnfQMYa5fwX9P24w	4.0	Madison	[Belgian, Restaurants	48
+76292	7489EuoDxHS432D2n4TCXQ	3.5	Madison	[Thai, Indian, Restaurants	47
+76297	0CpLn6Sx7Gxv2_hThX3qzQ	4.0	Madison	[Korean, Restaurants	27
+76334	AvRWK0mi-erFPpzfbNbWPA	4.0	Madison	[Active Life, Gyms, Trainers, Fitness & Instruction	9
+76354	q1Lo1eWm09XeYkY7jbpX7Q	5.0	Madison	[Tattoo, Piercing, Beauty & Spas	6
+76415	gSaWtalJj3wnaNLYq1oICw	5.0	Madison	[Pet Services, Dog Walkers, Pet Boarding/Pet Sitting, Pets	8
+76431	1II8fO63J-fGJT61WsmPow	5.0	Madison	[Skin Care, Laser Hair Removal, Permanent Makeup, Hair Removal, Beauty & Spas	3
+76508	OUf7Z3uF0b4oS2VOHn4fhQ	5.0	Madison	[Gift Shops, Arts & Crafts, Flowers & Gifts, Shopping	4
+76524	od7yq2NJMAHizeGuAqDRbg	4.5	Madison	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas	7
+76744	mdt6sOcLm3pVDLlho5x3Uw	5.0	Madison	[Personal Chefs, Event Planning & Services	3
+76858	3UVZlhPR8R7c0a1rNkHGCw	1.5	Madison	[Hotels & Travel, Travel Services	3
+76866	x4saivsNxDnlf6RuphldNw	4.5	Madison	[Fast Food, Restaurants	8
+76883	1gBrtZJADfXw4rkoTDSq8w	4.5	Madison	[Arts & Entertainment, Shopping, Art Classes, Arts & Crafts, Art Galleries, Education	4
+76904	Bb-7JX04KK27yNLj3DE5cg	5.0	Madison	[Pet Services, Dog Walkers, Pet Boarding/Pet Sitting, Pets	3
+76916	YP5CW9kF92kdf-rgTISJeQ	4.0	Madison	[Home & Garden, Thrift Stores, Shopping, Home Decor, Antiques	4
+76967	-nVTfqP5szAVbaWExkzo9Q	5.0	Madison	[Local Services, Jewelry Repair, Shopping, Jewelry, Watches	3
+77061	c_Poz0OaAATFYEH8FqtboA	4.0	Madison	[Womens Clothing, Department Stores, Fashion, Shopping, Shoe Stores	7
+77118	D1EfSV3EHM0xgiPAxLshnA	4.0	Madison	[Hair Salons, Mens Hair Salons, Beauty & Spas	12
+77197	gLIpo5Jinus3g0K8E4b0hw	3.0	Madison	[Seafood, Restaurants	104
+77244	8WiF066G3NdwqdQhDp_csw	4.5	Madison	[Shopping, Mobile Phone Repair, Local Services, Mobile Phones, Electronics Repair, IT Services & Computer Repair	26
+77262	HiyjzENvSvPg2QMW9Q6NhQ	3.0	Madison	[Cafes, Restaurants	3
+77289	ITmzBSukdDgTA0gzuP7qYQ	5.0	Madison	[Keys & Locksmiths, Home Services	59
+77301	Ff40Cw2gMyXA4QbcaFaTFA	4.5	Madison	[Hair Salons, Waxing, Hair Removal, Nail Salons, Beauty & Spas	15
+77355	AwQorTMV_hspc7Y6D_bFmw	3.5	Madison	[Breakfast & Brunch, American (New), Restaurants	111
+77425	2N4gFWxQYvhr9GfYiMyROg	4.0	Madison	[Indian, Restaurants	53
+77490	YjPVr7OktptCtORjq5da2A	4.0	Madison	[Fast Food, Restaurants	33
+77519	G8RNkSfsIn4YbpdvXw1vNA	4.0	Madison	[Mexican, Restaurants	24
+77531	lGqTeEGIEp9aj5Tz0kyu_w	4.5	Madison	[Mexican, Pizza, American (New), Restaurants	109
+77585	V63v1s0l8lYQO42yetg2ig	4.0	Madison	[Food, Coffee & Tea	3
+77734	5B0XAz8RhbuMDlRhot71mw	3.5	Madison	[Delis, Sandwiches, Restaurants	26
+77781	LtCFGevtAHkyHU4sOSDHuA	4.5	Madison	[Hair Salons, Beauty & Spas	9
+77795	z1vIohB7e_8S0mVVcP2APg	3.5	Madison	[Bars, Restaurants, Nightlife, Lounges, American (New), Sandwiches	18
+77798	JfnvDw7KSy2sNFN70qa3DA	4.0	Madison	[Food, Vegetarian, Juice Bars & Smoothies, Salad, Restaurants	68
+77814	WMsq8J8yoV3ekey9bq_VaQ	2.0	Madison	[Mattresses, Shopping, Home Decor, Home & Garden, Furniture Stores	3
+77816	rniJwBRCKavXZHXvRpkYdg	2.0	Madison	[Plumbing, Home Services	3
+77988	t-SryiMcwHWDh3aNbFsOIQ	5.0	Madison	[Active Life, Cycling Classes, Gyms, Fitness & Instruction	4
+78116	fT9MP8qOjK7sZfuNdnRU6Q	4.5	Madison	[Acupuncture, Massage Therapy, Traditional Chinese Medicine, Health & Medical	4
+78200	wN_cYCOKztIijWtZaKnlCg	5.0	Madison	[Financial Services, Accountants, Tax Services, Professional Services	9
+78256	13-_Wpa34RNcMQW9Mv0eUA	5.0	Madison	[Arts & Entertainment, Paint & Sip	11
+78261	EwlWyDgjo0iLRv02BuFvRQ	3.5	Madison	[Local Services, Shipping Centers, Printing Services, Notaries	3
+78358	lSZkug3H4NmDNZKO9sYZaA	4.5	Madison	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels	12
+78378	lJ9xELhI5EBhrlDTC-U2ew	4.5	Madison	[Sushi Bars, Restaurants	3
+78501	4jxZRi1qhs7DC-up9y1REg	4.0	Madison	[Beauty & Spas, Nail Salons	6
+78570	u6Lvyq0Rgt6XcDsEV0SXEA	4.5	Madison	[Hair Salons, Beauty & Spas, Skin Care, Waxing, Hair Removal, Blow Dry/Out Services	14
+78580	VzUep0dKU0nO0zjmgsUeIw	4.0	Madison	[Breakfast & Brunch, Fast Food, British, Restaurants	36
+78643	oWcPSVawlFs_2Czu6dcAvg	5.0	Madison	[Food, Ice Cream & Frozen Yogurt	11
+78707	ovzX0I9b5LXYpRjU1E0qTA	4.5	Madison	[Food, Desserts, Cafes, Restaurants	19
+78738	IyQW1tf8Pxyy0oz1t70YDg	5.0	Madison	[Weight Loss Centers, Health & Medical, Chiropractors	3
+78756	RzXZ4ir7PlQi0SYo-tDOIQ	3.0	Madison	[Auto Repair, Automotive	12
+78817	bpI154NUJAPKalz7hh3Q2w	3.5	Madison	[Active Life, Trampoline Parks, Kids Activities	20
+78948	k2e4tM6Dm6lpPGy5q2Z_lg	4.0	Madison	[Bakeries, Food, Cafes, Sandwiches, Restaurants	36
+79063	7xm2i0PzGhpcn7yadEH1Mg	4.0	Madison	[Food, Coffee & Tea	45
+79192	j_WGDprtwsiqlHMYejwmlg	4.0	Madison	[Skin Care, Waxing, Hair Removal, Massage, Beauty & Spas	11
+79263	JjZBWk3UJ2kTV6h8XPRU4w	5.0	Madison	[Hair Salons, Beauty & Spas	12
+79293	tghDCxyjhdKrsMKqBFEk4g	5.0	Madison	[Food, Arts & Entertainment, Wineries	5
+79393	ZmlQxMZg0NAdOoUIGsfNKQ	4.5	Madison	[Hotels & Travel, Bars, Hotels, Nightlife, Event Planning & Services	4
+79405	2hhUners_f_O2pGqSHr41A	4.0	Madison	[Breakfast & Brunch, American (Traditional), Restaurants	6
+79436	9A_AnXuVwIm1SBviObddOQ	1.5	Madison	[Used, Vintage & Consignment, Fashion, Shopping	14
+79452	Eon3vj1lIVM3ulv5PZjSkQ	5.0	Madison	[Local Services, Dry Cleaning & Laundry, Sewing & Alterations	5
+79489	hagAFRRIbXSVbB8yhCnKWg	3.5	Madison	[Handyman, Home Services	5
+79668	LaTsUYmVC0DfzC_PhQb0-Q	5.0	Madison	[Home Cleaning, Professional Services, Office Cleaning, Home Services	5
+79758	g9Vx8g7uBcuH3RTd__QdYA	4.0	Madison	[Hot Dogs, American (New), Vegan, Restaurants	24
+79878	zLzeNJT1zSpAl1WQEReLiQ	3.0	Madison	[Television Service Providers, Shopping, Home Services, Internet Service Providers, Mobile Phones, Professional Services, Electronics	3
+79879	yBIg6XlCwu0HJeYb5peH2Q	5.0	Madison	[Food, Thai, Juice Bars & Smoothies, Food Stands, Restaurants	10
+79889	uSKGRlhTnSF2oc3k83g9YA	3.5	Madison	[Home Services, Real Estate, Apartments	5
+79913	Nbfn5ixVjXOHccJOVjJIDQ	4.5	Madison	[Day Spas, Beauty & Spas	8
+79940	zXhseLVGffVE0f3krUhwKw	3.0	Madison	[American (Traditional), Sandwiches, Salad, Restaurants	13
+79951	I1yBCPc2U7dRcgOyDVegFA	4.0	Madison	[Food, Barbeque, Food Trucks, Restaurants	8
+79956	CsYfd9l65a8jY_IeaDvwxw	4.0	Madison	[Food, Farmers Market	5
+79971	wV4NpeliwRmOumrNgvq6bw	4.0	Madison	[Mediterranean, Bars, Cocktail Bars, Nightlife, Restaurants	9
+79982	I5pTgqtZezgB5hP0ctJyyg	3.5	Madison	[Mexican, Restaurants	20
+80001	RuaOKG8ZLj-UpWzP4u2SMA	4.0	Madison	[Bars, Nightlife	34
+80137	xo0RyIVuj4VQjWbYCY7V8g	3.0	Madison	[Hotels & Travel, Event Planning & Services, Hotels	17
+80191	88tPVefjwqEORv65n1aG4Q	1.0	Madison	[Makeup Artists, Beauty & Spas	6
+80233	xqX02RzgYszB_oW-fDe3GA	4.0	Madison	[Food, Desserts, Coffee & Tea, Specialty Food, Chocolatiers & Shops	9
+80303	MAgAU_ZNFdB_avoULXCiCg	3.5	Madison	[Barbeque, Restaurants	26
+80369	k5EvXsFQKW_EfJbRbW2AwQ	4.0	Madison	[American (New), Restaurants	97
+80425	ek8aj1Pr3F2iklZHYs7WQQ	1.0	Madison	[Local Services, Sewing & Alterations	3
+80632	icTv_kzzteufGibT2q_vZA	3.0	Madison	[Cafes, Restaurants	5
+80697	PAQOVlWeQxGdggNK5ZN39w	2.0	Madison	[Mattresses, Shopping, Home Decor, Home & Garden, Furniture Stores	10
+80810	C8eIJ_fuWhUUERCSaTZehg	4.0	Madison	[Asian Fusion, Chinese, Restaurants	17
+80857	VfCpMwzDYyKo_rea6ujgHg	4.0	Madison	[Pubs, Bars, American (Traditional), Nightlife, Restaurants	189
+80957	Jn2NeQ_i0UsCupq2SnTWOQ	4.5	Madison	[Food, Coffee & Tea	52
+80959	XL2qxDCE5TWNF4mYE252Vg	5.0	Madison	[Massage Therapy, Saunas, Health & Medical	12
+80965	5debNXrXsKre_Xqxqm7GCg	3.5	Madison	[Burgers, Bars, Nightlife, Restaurants	22
+81057	W5A86NwmlWVlFSJp9tI_yQ	4.0	Madison	[Arts & Crafts, Shopping, Cooking Classes	8
+81068	Utx36OxuEfkMwGeHJau3nA	4.5	Madison	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas	13
+81073	Qi3IEVb-L5aTp7EB-btIxA	4.0	Madison	[Food, Juice Bars & Smoothies, Restaurants, Cafes	6
+81131	fSyyauFGkgfRSz9bPNKVRg	3.5	Madison	[Cantonese, Dim Sum, Chinese, Restaurants	88
+81241	c8bhvXd_FS9Rgw2w1-_n4w	4.0	Madison	[Beauty & Spas, Nail Salons	4
+81254	HOOViB11bULFd1JeL0r-kw	4.0	Madison	[Home Cleaning, Home Services	20
+81318	n6DWw4wrp7ZIrQwCNm_-FQ	5.0	Madison	[Food, Mexican, Food Trucks, Restaurants	13
+81337	UTd9rD4nIEBeKGA-ELdm4Q	5.0	Madison	[Movers, Home Services	4
+81431	P3qOCXCuLK-McAVlBD3zAw	3.5	Madison	[Bars, German, Nightlife, Beer Bar, Gastropubs, Restaurants	66
+81473	uhiJAzv7JVk_IIzPKXH-YQ	4.0	Madison	[American (Traditional), American (New), Restaurants	42
+81514	08UPumc2Tr3trW8J5SCrow	4.5	Madison	[Mexican, Restaurants	30
+81537	-_jkqIJm_ti3LPQdBzXOzg	4.0	Madison	[Food, Bubble Tea, Coffee & Tea, Bakeries	26
+81548	Ui3zTPc4mvt_nUKqmVdm6A	3.5	Madison	[Chicken Wings, Restaurants	3
+81667	7XgINx28wwsrUcowr-MMKA	3.5	Madison	[Food, Specialty Food, Beer, Wine & Spirits	8
+81688	3QGVEzjqBy8__fCuxN_e1g	3.5	Madison	[Food, Coffee & Tea, Sandwiches, Restaurants	20
+81703	0nCJRPpennctdUsfRFxiOw	4.5	Madison	[Automotive, Car Dealers	4
+81712	bkLZBXZjbxeSdwpn1VpRxA	2.5	Madison	[Bars, Music Venues, Arts & Entertainment, Wine Bars, Nightlife, Lounges	11
+81760	xWLGtdbQn7NGD3djtmjTKA	2.5	Madison	[Mexican, Tex-Mex, Restaurants	54
+81801	DftXvJgKsQYe0vI5wtQnMA	5.0	Madison	[Beauty & Spas, Nail Salons	5
+81865	vMkdrumqbSSxn-TZc3sRgA	4.0	Madison	[Barbeque, Restaurants	31
+81953	XCxNvCeSVzibq8ANYyWYVw	5.0	Madison	[Antiques, Shopping, Home Decor, Home & Garden, Furniture Stores	6
+81997	tahado6YB_0BlQisrE2SmA	4.0	Madison	[Bars, Restaurants, Cocktail Bars, Nightlife, American (New), Diners	35
+82018	_b-Q0ZVI30FfgPW_UtbLyw	4.0	Madison	[Seafood, American (Traditional), Barbeque, Restaurants	40
+82028	eQsC3tFBTl6OKzXBy41EBA	3.0	Madison	[Waxing, Beauty & Spas, Hair Removal	7
+82076	4eLcH5_DBlPb1NyuoQiRSw	4.0	Madison	[Tapas Bars, Spanish, Cafes, Restaurants	74
+82185	8a02kTfuNDVm3oOMsoJ0Hg	2.5	Madison	[Auto Repair, Automotive	3
+82227	n3Ov26PBvLJQChYdP1WtfA	5.0	Madison	[Soul Food, Middle Eastern, Restaurants	4
+82280	Pskk3dUxR4FKyb_NSEFZXg	4.0	Madison	[Food, Juice Bars & Smoothies, Salad, Restaurants	27
+82383	9ofDKryDCTnkAZXKzLcQ8w	3.5	Madison	[Bars, American (Traditional), Cocktail Bars, Nightlife, Restaurants	81
+82416	hLNKayXNRjsrJrsiA1sqGw	4.0	Madison	[Fast Food, Asian Fusion, Chinese, Restaurants	6
+82453	b3sd2r4hoIQqfpuCIdLNJw	5.0	Madison	[Photographers, Session Photography, Event Planning & Services, Event Photography	3
+82488	vvC4AX8SLHHvVBtVwnnQlA	3.5	Madison	[Bars, Sports Bars, Nightlife	7
+82504	JGO4o4rIh3CYGhJVmace2Q	3.5	Madison	[Middle Eastern, Restaurants	35
+82530	DDypouWwK13oXBBODa87rA	2.0	Madison	[Hair Salons, Nail Salons, Beauty & Spas	10
+82554	rjmzGb1DLeSVIs2bWhMDrg	3.5	Madison	[Active Life, Escape Games	4
+82727	esqT5QcwJhhdyYsxynid8w	5.0	Madison	[Auto Repair, Automotive, Car Dealers	3
+82728	2kmjJWjkSVkwCGT3EO-Lnw	2.0	Madison	[Auto Repair, Automotive, Car Dealers	4
+82737	vvmkhljPZxK00muGalqLPg	4.5	Madison	[Wine Bars, Bars, Nightlife	19
+82739	023iJv0cCFO-g2vBZjPiFA	4.0	Madison	[Food, Coffee & Tea	37
+82740	UiwbmwRy0rxNpeVhEVQYaA	4.0	Madison	[Bars, Southern, Nightlife, Restaurants	76
+82753	bN-bmPp8okjodoF0PR8xrw	5.0	Madison	[Local Services, Mobile Phone Repair, IT Services & Computer Repair	4
+82886	1_4KJ2Tol5GXUuOaY0W3DQ	4.5	Madison	[Food, Breweries	8
+82904	Qagr-Dtp8AMDQOCi27YpJA	3.5	Madison	[Belgian, Breakfast & Brunch, American (Traditional), Restaurants	205
+82916	dHZw7fvo69r9v9hY_J_g1g	4.0	Madison	[Food, Ethnic Food, Mediterranean, Specialty Food, Pakistani, Restaurants	36
+82935	OFa6OjI48fcQe8rHIGYdPA	4.0	Madison	[Indian, Restaurants	28
+82978	rPglYlESzT59_SMwvk4Opw	4.5	Madison	[Food, Gluten-Free, Juice Bars & Smoothies, Vegan, Restaurants	20
+83041	23RTangEll2MCb-xS571gg	4.0	Madison	[Food, Sandwiches, Coffee & Tea, Breakfast & Brunch, Restaurants	15
+83244	Cd3OGHtnwTUBmTLIddkNqA	5.0	Madison	[Local Services, Data Recovery, Mobile Phone Repair, IT Services & Computer Repair, Electronics Repair	7
+83307	FSqH6YEKc-F3itN3kfs7ow	5.0	Madison	[Hot Pot, Chinese, Restaurants	55
+83308	f3mr-vMOd6lCx2-CkoLlgw	2.5	Madison	[Mexican, Restaurants	22
+83369	cnvVpOF0pC0QuvANdCpoMQ	3.0	Madison	[Food, Desserts, American (Traditional), Restaurants	88
+83476	X8XOz8GfPv6nQQxTJ4aIaw	4.5	Madison	[Bars, American (New), Nightlife, Restaurants	12
+83486	PZZB-9xg1X74fhONlbg3Dg	3.5	Madison	[Ramen, Japanese, Restaurants	54
+83515	cap_lFiLgcHbyteGoHicIA	3.5	Madison	[Burgers, Restaurants	18
+83577	jCz2RXHuaG41H8GzkQPcOQ	4.5	Madison	[Food, Coffee & Tea, Cafes, Restaurants	6
+83597	UehqU-1e-_6SJnyeSu9SdQ	5.0	Madison	[Food, Coffee & Tea	5
+83603	K2alavkfIkvlzawSKGhefQ	5.0	Madison	[Hotels & Travel, Airport Shuttles, Limos, Transportation	5
+83618	4BDeQwomJF195VY93R6Cww	3.0	Madison	[Food, Coffee & Tea, Cafes, Sandwiches, Restaurants	12
+83686	NRJ4iF8KIXKH2u_0nW2Brg	3.5	Madison	[Sushi Bars, Japanese, Chinese, Restaurants	74
+83728	-ZsKVcGnVx_t4zU7bY5qzg	3.0	Madison	[Chicken Wings, Restaurants	3
+83762	xnklhny_k9ns9zbZhx0vsg	3.5	Madison	[Ramen, Japanese, Restaurants	32
+83890	M6K0Svpr1Kn6-ViPoxx4bg	3.5	Madison	[Bars, American (Traditional), Pubs, Burgers, Nightlife, Restaurants	16
+83950	ZWNtRzVuG1Zo2UxF_6uxlw	5.0	Madison	[Active Life, Observatories, Arts & Entertainment, Races & Competitions	3
+83979	9N60G4culObQ3zDiV9yqEQ	2.5	Madison	[Home Services, Real Estate, Apartments	3
+84081	ct5sMv_fhZLNOt_ymNpXZQ	2.5	Madison	[Food, Indonesian, Food Trucks, Restaurants	3
+84101	scQPwmfiev4RAuGaDTvsYQ	4.0	Madison	[Local Services, Dry Cleaning & Laundry	4
+84104	BYlj0cSUK3mzlbwapmlJig	3.5	Madison	[Bars, Nightlife, Dance Clubs	7
+84156	HZ55h1oNrO8A3NxRq-BDhQ	3.5	Madison	[Veterinarians, Pets	3
+84171	LzHKi1Om4oAI1gwoB06-vg	1.0	Madison	[Hair Salons, Tanning, Massage, Beauty & Spas	3
+84187	Tv2JLQig56uilWFm2ZNCqg	5.0	Madison	[Car Wash, Automotive, Gas & Service Stations	3
+84314	IcZQMFmBhi1llNZXoU2gEQ	2.5	Madison	[Car Wash, Automotive	5
+84327	EaGI835yZEyLbaEyoM85FQ	4.5	Madison	[Mediterranean, Restaurants	16
+84351	BHxA0JnRRglmHhmLUTy31Q	3.5	Madison	[Pubs, Food, Bars, Breweries, Nightlife	39
+84354	SGar7loruDV2Joy8MZzcOA	5.0	Madison	[Food, Tea Rooms	7
+84363	g8SXB8rqkftbTv5M78Ah9A	4.5	Madison	[Peruvian, Sandwiches, Salad, Restaurants	33
+84386	sMRd6unmKx1RWLZQkhb--g	5.0	Madison	[Food, Food Delivery Services, Convenience Stores	8
+84398	wgdsvybtwDhCdxW9Zq6RAA	4.0	Madison	[Food, Tea Rooms, Coffee & Tea, Cafes, Restaurants	15
+84421	mxpVIrDnp5jz2BgHCRcN9w	3.5	Madison	[Bars, American (New), Cocktail Bars, Nightlife, Restaurants	46
+84425	4am0FhgBwCbgP53G6JkjRw	5.0	Madison	[Handyman, Drywall Installation & Repair, Home Services, Carpenters	3
+84435	XTid8nQbmGSxwHNgJpUhxA	1.0	Madison	[Bars, Nightlife, Lounges	3
+84452	tTTJvJ1DrxauVmR_2-447g	3.0	Madison	[Pakistani, Indian, Halal, Restaurants	14
+84507	s2UWfPYp_wWjTIj_027x9A	1.5	Madison	[Car Wash, Automotive	6
+84548	WNq5Yp3WZ99BrL5kOFq9qw	4.5	Madison	[Arts & Entertainment, Arcades	19
+84624	6091WcaSB2PnZ3Ag6eGCmg	4.0	Madison	[Chinese, Restaurants	7
+84662	kfuoVNtoHxdjot1vzws64g	4.0	Madison	[Vegetarian, Indian, Asian Fusion, Restaurants	18
+84670	BxeyDIXGBNSbUoYZWTPrTw	5.0	Madison	[Bars, Cocktail Bars, Nightlife, Lounges	10
+84672	3_YVCBm3Fr_T3kkzR5onEw	5.0	Madison	[Tattoo, Beauty & Spas	6
+84730	yrxPKjTAEBa4T44vSnfB3w	3.5	Madison	[Vegetarian, Ethiopian, Vegan, Restaurants	29
+84748	G0KGmRv-31cq6ZnRSs7LYw	4.5	Madison	[Thai, Restaurants	7
+84986	5grWBMD8Jt8vy-geV54e5Q	2.5	Madison	[Food, Ice Cream & Frozen Yogurt, Burgers, Fast Food, Restaurants	7
+85040	Vntwvhcyzz-l1KwYIugwiA	2.5	Madison	[Food, Coffee & Tea, Pet Adoption, Pets	9
+85125	BUIrO-pCTTgMGQcAj2qyrA	4.0	Madison	[Food, Coffee & Tea, Breakfast & Brunch, Salad, Restaurants	27
+85207	nDu_OI2fySU7BYHMHoE71A	5.0	Madison	[Tours, Food Tours, Hotels & Travel	3
+85213	yvOnkg-OPfBdZji12MbA2g	3.5	Madison	[Food, Grocery	23
+85310	lF_Wfvim-fXLQOl57lC2RA	5.0	Madison	[Food, Coffee & Tea, Cafes, Restaurants	5
+85371	W8HVL2FvVlUPP39JRSSL3A	5.0	Madison	[Eyelash Service, Henna Artists, Event Planning & Services, Makeup Artists, Beauty & Spas	4
+85398	0KcnJ-W-c24zorhyJWp7-Q	5.0	Madison	[Active Life, Escape Games	6
+85479	KeTi8CjWaxVWwKetKgYiHw	5.0	Madison	[Active Life, Escape Games, Challenge Courses	4
+85499	zZ4a_YoexMJlP9AvWxlZEQ	3.0	Madison	[Bars, Food, Beer, Wine & Spirits, Burgers, Nightlife, Sports Bars, Restaurants	5
+85539	mF5oNyMDThRDlTTGAmD9Uw	3.5	Madison	[Bars, Pizza, American (New), Nightlife, Restaurants	53
+85748	4qWsQ5w7tenHTbR6s54GFw	3.5	Madison	[Mexican, Restaurants	10
+85827	TABknNqm1dTcG5qg2WJBJw	3.5	Madison	[Asian Fusion, Fast Food, Japanese, Restaurants	7
+85877	9giI9_BtiLyANWUOPOpHLQ	4.5	Madison	[Yelp Events, Local Flavor	10
