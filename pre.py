@@ -44,4 +44,3 @@ text_file.close()
 
 
 
-^^^()()^^^
