@@ -19,4 +19,3 @@ numpy.random.seed(seed)
 
 
 
-^^^()()^^^
