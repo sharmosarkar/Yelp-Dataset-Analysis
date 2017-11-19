@@ -32,7 +32,7 @@ def main(argv):
 	while i <= n:
 		curdate = get_date_string(i, startdate)
 		print 'Current Date Calculated', curdate
-		num_commits = randint(1, 5)
+		num_commits = randint(1, 3)
 		print 'Number of Commits', num_commits
 		if num_commits%2 == 0:
 			num_commits += 1
@@ -54,7 +54,7 @@ def main(argv):
 	subprocess.call("git rm realwork.txt; git commit -m 'delete'; git push;", shell=True)
 
 if __name__ == "__main__":
-
-
-
-^^^()()^^^
+	main(sys.argv[1:])
+	
+	
+	
