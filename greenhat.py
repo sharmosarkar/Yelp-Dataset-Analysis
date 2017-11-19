@@ -46,7 +46,7 @@ def main(argv):
 			'''
 			msg = commit_msgs[commit]
 			realwork_content = curdate + str(commit)
-			subprocess.check_output(['sh','greenhat.sh',str(curdate), str(msg)])
+			subprocess.check_output(['sh','greenhat.sh',str(curdate), str(commit), str(msg)])
 			print 'Cuurent Commit Number', commit
 			sleep(.5)
 		i += 1
@@ -55,3 +55,5 @@ def main(argv):
 
 if __name__ == "__main__":
 	main(sys.argv[1:])
+
+^^^()()^^^
